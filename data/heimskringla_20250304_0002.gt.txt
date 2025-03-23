@@ -1,26 +1,25 @@
-   Niðagrísurin í hosuleggaldinun		33
-   Niðagrísurin í Ónagerði		34
-   Nykur		35
-   Nykur		36
-   Nykurin á Eiði		37
-   Nykurin í Leitisvatni		38
-   Pálin undir Hamri			39
-   Purkhúsið			40
-   Rasmus í Haraldssundi og huldumaðurin		41
-   Rógvu-Jógvan			44
-   Seyðmaðurin á Sondum			46
-   Símun í Kirkjubø			49
-   Símun í Kirkjubø			55
-   Símun í Kirkjubø			56
-   Sjódreygil			61
-   Sjódreygil (Svabo)		62
-   Sæneyt og Hulduneyt		63
-   Títil-táta			64
-   Trøllahellið í Lítlu Dímun		65
-   Trøllanes			67
-   Trøllini á Skálavøllum			69
-   Vættrarnar á Skála				70
-   Vættrar og vísa Marjun í Øravík		71
-
+Niðagrísurin í hosuleggaldinun 33
+Niðagrísurin í Ónagerði 34
+Nykur 35
+Nykur 36
+Nykurin á Eiði 37
+Nykurin í Leitisvatni 38
+Pálin undir Hamri 39
+Purkhúsið 40
+Rasmus í Haraldssundi og huldumaðurin 41
+Rógvu-Jógvan 44
+Seyðmaðurin á Sondum 46
+Símun í Kirkjubø 49
+Símun í Kirkjubø 55
+Símun í Kirkjubø 56
+Sjódreygil 61
+Sjódreygil (Svabo) 62
+Sæneyt og Hulduneyt 63
+Títil-táta 64
+Trøllahellið í Lítlu Dímun 65
+Trøllanes 67
+Trøllini á Skálavøllum 69
+Vættrarnar á Skála 70
+Vættrar og vísa Marjun í Øravík 71
 Gandur
-   Guttormur í Múla			73
+Guttormur í Múla 73
