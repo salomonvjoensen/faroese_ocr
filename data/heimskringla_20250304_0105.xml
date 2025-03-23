@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-03-07T13:34:59.172196+00:00</Created>
+        <LastChange>2025-03-13T15:38:35.140215+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="heimskringla_20250304_0105.png" imageWidth="2480" imageHeight="3507">
+    <TextRegion id="eSc_textblock_c9d1b184"  custom="structure {type:text;}">
+      <Coords points="352,296 2150,303 2150,379 1973,442 1963,496 1988,553 2158,584 2173,909 2134,948 2019,964 1986,1003 2051,1091 2134,1098 2166,1130 2158,1198 2088,1268 2150,1309 2150,1354 2197,1402 2189,1455 1606,1470 1466,1502 1409,1556 304,1556 280,1525 280,397 296,335 352,296"/>
+      <TextLine id="eSc_line_e85a97aa" custom="structure {type:default;}">
+        <Coords points="333,377 374,366 464,376 465,376 705,366 760,376 762,376 764,376 811,364 2142,370 2146,340 2142,307 781,301 779,301 434,311 347,303 345,303 343,303 341,303 329,309 331,348"/>
+        <Baseline points="331,348 2146,340"/>
+        <TextEquiv>
+          <Unicode>Landsynningur beyð sær til at hava fyrra partin av hesum samdøgrinum. Hann</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3e6d00b1" custom="structure {type:default;}">
+        <Coords points="292,461 1924,458 1926,432 1922,393 292,393 294,438"/>
+        <Baseline points="294,438 1926,432"/>
+        <TextEquiv>
+          <Unicode>legðist so tráur alla náttina, men tó tolin, sendi okkurt æl, stundum við</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f6c4bf50" custom="structure {type:default;}">
+        <Coords points="291,552 1937,552 1934,526 1930,489 1438,479 1436,479 1388,489 1382,490 290,490 292,531"/>
+        <Baseline points="292,531 1934,526"/>
+        <TextEquiv>
+          <Unicode>glopraregni. Skarin tinaði, og kavin blotnaði, so tað var farið at kreyma.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1e7772bc" custom="structure {type:default;}">
+        <Coords points="329,644 2147,640 2146,615 2142,580 354,572 352,572 350,572 329,580 331,619"/>
+        <Baseline points="331,619 2146,615"/>
+        <TextEquiv>
+          <Unicode>Náttin var umliðin, dagur kom, og nú bað útsynningur bróðurin lata seg sleppa</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a3ba7c4a" custom="structure {type:default;}">
+        <Coords points="292,730 2136,730 2140,711 2138,674 292,670 292,707"/>
+        <Baseline points="292,707 2140,711"/>
+        <TextEquiv>
+          <Unicode>at royna seg. Hann kom við sól og ælaði viðhvørt, kavin rann og áirnar vuksu, og</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c74f113c" custom="structure {type:default;}">
+        <Coords points="292,820 2090,820 2092,798 2088,763 1953,763 1951,761 1936,752 1934,752 1932,752 1930,752 1928,752 1900,761 1898,761 1893,761 1780,752 1778,752 1776,752 1743,761 1739,761 1727,761 1618,752 1616,752 1327,759 1189,763 1142,759 1082,754 1080,754 1045,759 1013,765 891,765 881,757 875,754 873,754 871,754 869,754 824,757 777,763 752,757 731,754 729,754 727,754 717,757 703,763 686,757 672,754 670,754 668,754 647,757 620,763 600,757 588,754 586,754 584,754 582,754 571,757 553,763 290,757 292,802"/>
+        <Baseline points="292,802 2092,798"/>
+        <TextEquiv>
+          <Unicode>fólk og fæ gleddust, nú hesin mildi toyur var komin. Ryggirnir komu undan, og</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7d6d4b1f" custom="structure {type:default;}">
+        <Coords points="296,919 421,907 600,917 602,917 736,904 881,917 883,917 963,904 1183,904 1261,915 1263,915 1427,902 1606,913 1608,913 1610,913 1657,902 1731,915 1733,915 1735,915 1737,915 1739,915 1756,904 1793,913 1795,913 1797,913 1863,905 1906,915 1910,915 1912,915 1914,915 1916,915 1947,904 2160,913 2164,886 2158,843 294,847 296,890"/>
+        <Baseline points="296,890 2164,886"/>
+        <TextEquiv>
+          <Unicode>skjótt bræddi sólin kavan, so at stórar berur vóru víða hvar. Tað tánaði so líðandi,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1a24b16f" custom="structure {type:default;}">
+        <Coords points="292,1007 372,1004 643,1003 744,1005 746,1005 774,1001 824,995 1357,1008 1358,978 1355,944 838,935 836,935 834,935 832,935 816,944 343,937 341,937 290,946 292,981"/>
+        <Baseline points="292,981 1358,978"/>
+        <TextEquiv>
+          <Unicode>og um kvøldið var hvør fonn burtur og alt tátt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d7f1a4ed" custom="structure {type:default;}">
+        <Coords points="331,1091 1434,1096 1436,1096 1988,1085 1990,1067 1984,1026 1719,1028 1713,1026 1688,1018 1686,1018 1684,1018 1575,1028 1563,1028 1559,1028 1528,1018 1526,1018 1524,1018 1522,1018 1520,1018 1507,1028 1505,1028 1501,1028 1397,1020 1395,1020 1277,1030 1265,1030 1263,1030 1241,1020 1240,1020 1054,1020 1052,1020 1050,1020 1021,1030 1007,1020 1006,1020 1004,1020 908,1020 906,1020 904,1020 879,1032 867,1032 545,1022 543,1022 481,1032 350,1022 348,1022 347,1022 345,1022 329,1030 331,1073"/>
+        <Baseline points="331,1073 1990,1067"/>
+        <TextEquiv>
+          <Unicode>Nú funnust teir fýra brøðurnir á teirri tíð, sum frammanundan var ásett.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d7569e6e" custom="structure {type:default;}">
+        <Coords points="294,1180 828,1190 830,1190 970,1184 1080,1178 1156,1184 1212,1188 1214,1188 1216,1188 1232,1184 1255,1178 1830,1186 1897,1186 1898,1186 1906,1186 2010,1176 2146,1186 2150,1155 2144,1122 292,1124 294,1161"/>
+        <Baseline points="294,1161 2150,1155"/>
+        <TextEquiv>
+          <Unicode>Høgættarbrøðurnir søgdu seg enn vera sterkari, tá at tað var ikki meira enn hinir</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_55aff553" custom="structure {type:default;}">
+        <Coords points="294,1272 1852,1268 1852,1252 1852,1217 1791,1206 1789,1206 1698,1215 1694,1217 1542,1217 1540,1215 1520,1206 1518,1206 1516,1206 1468,1215 1464,1215 1462,1215 1442,1206 1440,1206 1438,1206 1394,1215 1386,1217 1294,1217 1290,1213 1280,1206 1278,1206 1277,1206 1275,1206 1230,1213 1222,1215 1212,1213 1175,1206 1173,1206 1136,1213 1124,1215 294,1211 294,1252"/>
+        <Baseline points="294,1252 1852,1252"/>
+        <TextEquiv>
+          <Unicode>vóru komnir frá tí starvinum, teir skuldu útinna. Men hesir svaraðu:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3408b908" custom="structure {type:default;}">
+        <Coords points="341,1354 405,1365 407,1365 2115,1363 2117,1342 2115,1303 2010,1291 2008,1291 1906,1301 1900,1301 1897,1301 1844,1291 1842,1291 1801,1301 1795,1301 1776,1301 1637,1291 1468,1291 1466,1291 1464,1291 1462,1291 1450,1299 1446,1301 1438,1299 1413,1291 1411,1291 1409,1291 1407,1291 1405,1291 1394,1299 1390,1301 1360,1299 1282,1291 1280,1291 1236,1299 1214,1303 1097,1303 1089,1297 1082,1291 1080,1291 1078,1291 1076,1291 980,1297 910,1301 343,1295 343,1340"/>
+        <Baseline points="343,1340 2117,1342"/>
+        <TextEquiv>
+          <Unicode>&quot;Tit fóru fram við ilsku og óspekt, men vit høvdu einki óhógv og vóru blíðir og</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b5a6ab27" custom="structure {type:default;}">
+        <Coords points="292,1457 545,1469 547,1469 549,1469 571,1459 727,1467 729,1467 731,1467 762,1457 766,1457 783,1457 916,1467 918,1467 1064,1457 1080,1457 1087,1457 1156,1467 1158,1467 1212,1457 1218,1457 2183,1457 2183,1426 2179,1389 290,1389 292,1433"/>
+        <Baseline points="292,1433 2183,1426"/>
+        <TextEquiv>
+          <Unicode>fóru fram í øllum góðum, so at fólk og fæ var glatt. Tað kalla vit størri og meiri enn</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4a8d9e4a" custom="structure {type:default;}">
+        <Coords points="296,1525 296,1550 407,1562 409,1562 411,1562 438,1552 440,1552 442,1552 487,1572 489,1572 491,1572 563,1554 575,1552 653,1552 662,1554 707,1572 709,1572 711,1572 713,1572 770,1556 785,1552 791,1556 814,1572 816,1572 818,1572 820,1572 922,1560 961,1570 963,1570 965,1570 967,1570 968,1570 968,1568 980,1558 984,1552 996,1558 1013,1566 1015,1566 1017,1566 1019,1566 1039,1558 1058,1552 1080,1560 1107,1570 1109,1570 1111,1570 1113,1570 1134,1560 1140,1558 1146,1560 1175,1570 1177,1570 1179,1572 1333,1572 1333,1570 1335,1570 1337,1570 1337,1568 1345,1562 1358,1550 1409,1562 1411,1521 1409,1484 1394,1474 1392,1474 1390,1474 1388,1474 1314,1486 1187,1486 1171,1474 1169,1474 1167,1474 1165,1474 1111,1484 294,1482 296,1525"/>
+        <Baseline points="296,1525 1411,1521"/>
+        <TextEquiv>
+          <Unicode>alt tað illa, tit royndu at gera, sum vit bøttu um&quot;.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_ec457f7e"  custom="structure {type:text;}">
+      <Coords points="2115,3070 2205,3093 2189,3162 2090,3154 2082,3101 2115,3070"/>
+      <TextLine id="eSc_line_96f40531" custom="structure {type:default;}">
+        <Coords points="2101,3094 2103,3136 2104,3153 2193,3152 2193,3132 2194,3095 2175,3093"/>
+        <Baseline points="2105,3136 2108,3136 2192,3135"/>
+        <TextEquiv>
+          <Unicode>101</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
