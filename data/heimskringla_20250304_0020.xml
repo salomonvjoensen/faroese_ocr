@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-03-06T16:04:27.059672+00:00</Created>
+        <LastChange>2025-03-06T19:33:25.887076+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="heimskringla_20250304_0020.png" imageWidth="2480" imageHeight="3507">
+    <TextRegion id="eSc_textblock_a80602b6"  custom="structure {type:text;}">
+      <Coords points="323,296 816,303 832,387 785,428 731,598 343,605 296,574 296,311 323,296"/>
+      <TextLine id="eSc_line_39955087" custom="structure {type:default;}">
+        <Coords points="814,313 805,307 801,305 799,305 797,305 699,315 697,315 678,305 676,305 674,305 672,305 633,315 629,315 618,315 467,303 465,303 308,311 308,348 306,362 573,376 575,376 822,366 824,352 824,342 814,313"/>
+        <Baseline points="308,348 824,352"/>
+        <TextEquiv>
+          <Unicode>V. U. Hammershaimb</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9642bb88" custom="structure {type:default;}">
+        <Coords points="306,475 350,487 352,487 752,486 754,465 754,424 740,414 738,414 736,414 735,414 733,414 731,414 717,424 666,414 664,414 662,414 641,424 639,424 637,424 612,414 610,414 608,414 573,422 559,424 536,420 477,413 475,413 473,413 452,418 438,422 308,416 308,461"/>
+        <Baseline points="308,461 754,465"/>
+        <TextEquiv>
+          <Unicode>Færøsk Anthologi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c0d52a72" custom="structure {type:default;}">
+        <Coords points="308,574 308,598 725,596 725,570 721,533 666,522 664,522 510,533 319,524 317,524 315,524 313,524 313,526 306,531 308,574"/>
+        <Baseline points="308,574 725,570"/>
+        <TextEquiv>
+          <Unicode>København 1891</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_c11a3034"  custom="structure {type:text;}">
+      <Coords points="323,958 567,966 575,1026 319,1042 296,1005 323,958"/>
+      <TextLine id="eSc_line_87f42225" custom="structure {type:default;}">
+        <Coords points="559,972 536,964 534,964 532,964 315,970 306,985 306,1011 304,1036 565,1038 569,1015 569,1009 559,972"/>
+        <Baseline points="306,1011 569,1015"/>
+        <TextEquiv>
+          <Unicode>Huldufólk</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_29163c0f"  custom="structure {type:text;}">
+      <Coords points="323,1293 2010,1301 2027,1363 2150,1387 2166,1449 2158,1541 2119,1580 1996,1603 1947,1644 1973,1683 2150,1730 2127,1868 2158,1909 2158,1993 2095,2258 1838,2367 304,2367 288,1613 296,1317 323,1293"/>
+      <TextLine id="eSc_line_89dfdc4d" custom="structure {type:default;}">
+        <Coords points="310,1303 310,1348 310,1363 1996,1363 1996,1348 1996,1309 311,1301 310,1303"/>
+        <Baseline points="310,1348 1996,1348"/>
+        <TextEquiv>
+          <Unicode>Tey er stór av vøksti, klæðini eru øll grá, hárið svart, bústaður teirra er í</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8998dad8" custom="structure {type:default;}">
+        <Coords points="306,1422 304,1435 345,1447 347,1447 348,1447 2142,1439 2144,1426 2142,1387 306,1381 306,1422"/>
+        <Baseline points="306,1422 2144,1426"/>
+        <TextEquiv>
+          <Unicode>heygum. Tey kallast eisini &quot;álvar&quot;, ein &quot;álvheyggur&quot; er í Norðstreymoy sunnan</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c8a2e43f" custom="structure {type:default;}">
+        <Coords points="308,1502 308,1521 2154,1521 2154,1502 2154,1467 1863,1467 1861,1465 1822,1455 1821,1455 1819,1455 1817,1455 1787,1465 1785,1465 1774,1465 1602,1455 1600,1455 1598,1455 1581,1465 1579,1465 1577,1465 1542,1455 1540,1455 1538,1455 1536,1455 1505,1465 1501,1465 1491,1465 1415,1455 1413,1455 1411,1455 1382,1465 1378,1465 1372,1465 1325,1455 1323,1455 1259,1465 1245,1467 935,1467 930,1463 914,1455 912,1455 910,1455 908,1455 881,1463 871,1465 863,1463 834,1455 832,1455 830,1455 308,1461 308,1502"/>
+        <Baseline points="308,1502 2154,1502"/>
+        <TextEquiv>
+          <Unicode>fyri Vík (Haldorsvík). Tey liva sum onnur fólk, rógva út, hava seyð og neyt, sum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3462831b" custom="structure {type:default;}">
+        <Coords points="306,1582 306,1595 1206,1589 1206,1576 1202,1541 910,1531 908,1531 906,1531 904,1531 891,1541 335,1535 333,1535 331,1535 304,1543 306,1582"/>
+        <Baseline points="306,1582 1206,1576"/>
+        <TextEquiv>
+          <Unicode>ganga ímillum onnur neyt í haganum.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_491bbdb6" custom="structure {type:default;}">
+        <Coords points="339,1689 339,1706 1897,1706 1897,1689 1897,1650 426,1640 425,1640 423,1640 397,1650 378,1640 376,1640 374,1640 372,1640 339,1650 339,1689"/>
+        <Baseline points="339,1689 1897,1689"/>
+        <TextEquiv>
+          <Unicode>Huldufólkini kunnu gera seg sjálv og tað, ið tey eiga, ósjónligt fyri</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ad61504a" custom="structure {type:default;}">
+        <Coords points="306,1767 306,1788 2134,1784 2134,1767 2134,1730 306,1730 306,1767"/>
+        <Baseline points="306,1767 2134,1767"/>
+        <TextEquiv>
+          <Unicode>menniskjum, og tí sigist ofta um nakað, ið onkur sóknast eftir, at &quot;hulda hevir</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_50ae0108" custom="structure {type:default;}">
+        <Coords points="308,1845 308,1860 536,1860 536,1845 536,1808 495,1794 493,1794 491,1794 489,1794 448,1808 442,1808 436,1806 387,1794 386,1794 384,1794 308,1802 308,1845"/>
+        <Baseline points="308,1845 536,1845"/>
+        <TextEquiv>
+          <Unicode>fjalt tað.&quot;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3c7b1e86" custom="structure {type:default;}">
+        <Coords points="343,1956 343,1971 2142,1967 2144,1952 2140,1911 341,1905 343,1956"/>
+        <Baseline points="343,1956 2144,1952"/>
+        <TextEquiv>
+          <Unicode>Tey vilja fegin fáa smábørn, sum ódoypt eru, úr vøgguni og leggja síni aftur í</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a2b044e3" custom="structure {type:default;}">
+        <Coords points="304,2032 304,2049 2136,2049 2136,2032 2136,1997 304,1991 304,2032"/>
+        <Baseline points="304,2032 2136,2032"/>
+        <TextEquiv>
+          <Unicode>hana, men hesi verða tá býtlingar millum manna. Ofta hvørva smá børn, sum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4231bb5a" custom="structure {type:default;}">
+        <Coords points="304,2110 304,2125 2060,2129 2064,2106 2060,2071 1183,2061 1181,2061 1035,2071 325,2063 323,2063 321,2063 302,2071 304,2110"/>
+        <Baseline points="304,2110 2064,2106"/>
+        <TextEquiv>
+          <Unicode>úti ganga einsumøll, og tá er tað huldufólk, sum eru farin við teimum - tey</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_681125c0" custom="structure {type:default;}">
+        <Coords points="306,2184 304,2197 2090,2201 2093,2187 2092,2150 306,2147 306,2184"/>
+        <Baseline points="306,2184 2093,2187"/>
+        <TextEquiv>
+          <Unicode>finnast stundum aftur langar vegir burtur frá bygdum og hava tá sagt frá, at</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8e316f73" custom="structure {type:default;}">
+        <Coords points="308,2258 306,2275 889,2287 891,2287 1355,2279 1382,2279 1388,2279 1475,2289 1477,2289 1939,2279 1941,2263 1939,2228 1715,2217 1713,2217 1592,2226 1579,2226 1571,2226 1512,2217 1511,2217 1425,2226 1409,2226 1401,2226 1353,2215 1351,2215 1255,2224 1251,2224 1236,2224 914,2215 912,2215 818,2223 803,2213 801,2213 799,2213 797,2213 795,2213 775,2223 774,2224 670,2224 668,2223 657,2213 655,2213 653,2213 651,2213 308,2221 308,2258"/>
+        <Baseline points="308,2258 1941,2263"/>
+        <TextEquiv>
+          <Unicode>stórur maður hevur borið teimum mat, meðan tey hava verið burtur.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_97cb9f5d"  custom="structure {type:text;}">
+      <Coords points="317,2423 2173,2431 2212,2454 2189,2795 2158,2827 304,2819 288,2564 317,2423"/>
+      <TextLine id="eSc_line_fefb7cf6" custom="structure {type:default;}">
+        <Coords points="2195,2445 2191,2443 313,2443 306,2458 304,2482 302,2493 348,2505 350,2507 2197,2507 2199,2488 2197,2445 2195,2445"/>
+        <Baseline points="304,2482 2199,2488"/>
+        <TextEquiv>
+          <Unicode>Huldugenturnar fáa ofta hug at kristnum dreingjum og royna tí at froysta teir og</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3c211864" custom="structure {type:default;}">
+        <Coords points="304,2562 304,2577 1994,2577 1994,2562 1994,2526 304,2526 304,2562"/>
+        <Baseline points="304,2562 1994,2562"/>
+        <TextEquiv>
+          <Unicode>draga teir til sín. Ganga teir burtur í haga og eru tystir og móðir, opnast</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_43e3243d" custom="structure {type:default;}">
+        <Coords points="304,2641 304,2655 2171,2649 2171,2636 2168,2599 302,2597 304,2641"/>
+        <Baseline points="304,2641 2171,2636"/>
+        <TextEquiv>
+          <Unicode>heyggjurin, og genta kemur út at bjóða teimum drekka, øl ella mjólk. Blása teir</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0ce7585f" custom="structure {type:default;}">
+        <Coords points="306,2712 304,2725 2125,2731 2129,2717 2127,2680 1559,2680 1553,2678 1522,2669 1520,2669 1518,2669 306,2673 306,2712"/>
+        <Baseline points="306,2712 2129,2717"/>
+        <TextEquiv>
+          <Unicode>tá ikki froðuna oman av, drekka teir sær óminni, tí í henni liggur gandurin, og</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f07c6423" custom="structure {type:default;}">
+        <Coords points="304,2790 302,2811 366,2825 368,2825 370,2825 405,2815 460,2825 462,2827 801,2827 801,2825 803,2825 824,2817 828,2815 861,2817 974,2825 976,2825 1064,2819 1117,2815 1126,2819 1140,2825 1142,2825 1144,2825 1177,2819 1202,2815 1226,2819 1259,2827 1261,2827 1345,2821 1403,2817 2150,2827 2154,2793 2152,2754 304,2747 304,2790"/>
+        <Baseline points="304,2790 2154,2793"/>
+        <TextEquiv>
+          <Unicode>har við tøla tær teir, fáa vald yvir teimum og hava teir við sær inn í álvheyggin.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_0fe93e5d"  custom="structure {type:text;}">
+      <Coords points="2142,3070 2212,3086 2197,3154 2121,3138 2142,3070"/>
+      <TextLine id="eSc_line_fbd74716" custom="structure {type:default;}">
+        <Coords points="2190,3080 2178,3077 2155,3077 2134,3100 2131,3127 2131,3153 2190,3156 2193,3127 2190,3080 2190,3080"/>
+        <Baseline points="2132,3129 2195,3129"/>
+        <TextEquiv>
+          <Unicode>16</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

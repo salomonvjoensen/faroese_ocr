@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-03-07T13:34:21.289649+00:00</Created>
+        <LastChange>2025-03-09T18:24:30.498688+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="heimskringla_20250304_0058.png" imageWidth="2480" imageHeight="3507">
+    <TextRegion id="eSc_textblock_d2b9774d"  custom="structure {type:text;}">
+      <Coords points="360,288 2150,296 2205,303 2212,356 2150,683 2043,738 2025,808 1978,839 343,831 296,722 296,405 319,311 360,288"/>
+      <TextLine id="eSc_line_50667aab" custom="structure {type:default;}">
+        <Coords points="356,365 2195,374 2199,350 2197,307 1349,296 1347,296 1296,303 1278,305 1134,305 1132,303 1119,294 1117,294 1115,294 1113,294 875,301 822,303 818,301 803,292 801,292 799,292 797,292 795,292 768,301 766,301 758,301 602,292 600,292 358,300 358,342"/>
+        <Baseline points="358,342 2199,350"/>
+        <TextEquiv>
+          <Unicode>Den sidste del af sagnet, omhandlende Simons ophold hos huldrefolket</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f1accc29" custom="structure {type:default;}">
+        <Coords points="311,434 2162,442 2166,424 2164,385 2054,385 2053,383 2033,374 2031,374 2029,374 1978,383 1975,383 1953,383 1739,374 1737,374 1657,381 1631,383 1579,381 1394,372 1392,372 1337,379 1325,381 1312,379 1263,372 1261,372 1259,372 1241,379 1236,381 1206,379 1124,372 1123,372 1121,372 1093,379 1080,381 1015,377 865,370 863,370 313,374 313,418"/>
+        <Baseline points="313,418 2166,424"/>
+        <TextEquiv>
+          <Unicode>i fjældet Froðbiarkambur på Suderø, har interesse ved det lys, der kastes</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d540b0ba" custom="structure {type:default;}">
+        <Coords points="2076,452 2074,452 1934,461 1908,461 1879,459 1713,450 1711,450 1431,457 1312,459 1296,455 1273,450 1271,450 1269,450 1267,450 1265,450 1257,455 1249,459 1095,459 1087,453 1074,448 1072,448 1070,448 1015,453 978,457 311,450 311,494 312,516 2180,527 2183,502 2181,483 2175,461"/>
+        <Baseline points="311,494 2183,502"/>
+        <TextEquiv>
+          <Unicode>over almuens tro på menneskers samliv med huldrefolket i disses boliger.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_463b00f9" custom="structure {type:default;}">
+        <Coords points="362,596 2147,602 2146,578 2144,537 362,526 362,574"/>
+        <Baseline points="362,574 2146,578"/>
+        <TextEquiv>
+          <Unicode>S. 91. l. 6 nævnes Jógvan Isaksson på Skuø som Simons svigerfader.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_83b22537" custom="structure {type:default;}">
+        <Coords points="311,646 310,666 2138,672 2142,652 2140,613 311,607 311,646"/>
+        <Baseline points="311,646 2142,652"/>
+        <TextEquiv>
+          <Unicode>Efter V. U. Hammershaimb var imidlertid Simons hustru en søster til Jon</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c9a3ccd3" custom="structure {type:default;}">
+        <Coords points="310,722 308,738 372,750 374,750 1234,746 1236,728 1234,689 1138,678 1136,678 1043,687 1029,687 1017,687 953,678 951,678 885,685 879,685 859,676 857,676 855,676 772,685 754,687 623,687 621,683 616,676 614,676 614,674 612,674 610,674 608,674 606,674 584,683 581,683 310,681 310,722"/>
+        <Baseline points="310,722 1236,728"/>
+        <TextEquiv>
+          <Unicode>Olavssøn, ligeledes bonde på Skuø.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2011f1bb" custom="structure {type:default;}">
+        <Coords points="360,802 358,824 826,833 828,833 885,824 896,824 912,824 1009,833 1011,833 1105,824 1123,824 1138,824 1259,835 1261,835 1446,826 1489,835 1491,835 1493,835 1594,826 1963,835 1965,835 1967,835 1996,824 1998,806 1996,765 1577,754 1575,754 1573,754 1571,754 1555,763 1553,765 1312,765 1308,763 1294,754 1292,754 1290,754 1288,754 1238,763 1230,763 1220,763 1160,752 1158,752 1056,761 1054,761 1052,761 986,752 984,752 924,761 920,761 918,761 850,752 848,752 846,752 820,761 818,761 816,761 774,752 772,752 770,752 750,761 748,763 623,763 621,761 608,752 606,752 604,752 602,752 360,759 360,802"/>
+        <Baseline points="360,802 1998,806"/>
+        <TextEquiv>
+          <Unicode>Den s. 89 nævnte Baraldur úti á Bø kaldes hos V. U. H.: Bárður.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_2427af84"  custom="structure {type:text;}">
+      <Coords points="2123,3054 2197,3062 2189,3138 2113,3138 2123,3054"/>
+      <TextLine id="eSc_line_cd3fef3a" custom="structure {type:default;}">
+        <Coords points="2191,3131 2192,3112 2195,3074 2123,3066 2123,3113 2123,3134"/>
+        <Baseline points="2129,3113 2192,3114"/>
+        <TextEquiv>
+          <Unicode>54</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

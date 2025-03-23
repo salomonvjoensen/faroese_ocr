@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-03-06T16:04:25.348241+00:00</Created>
+        <LastChange>2025-03-06T19:28:20.968820+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="heimskringla_20250304_0019.png" imageWidth="2480" imageHeight="3507">
+    <TextRegion id="eSc_textblock_83a909ee"  custom="structure {type:text;}">
+      <Coords points="2080,381 2127,529 2119,652 2088,683 2105,732 2189,763 2181,972 2134,995 1076,1003 818,1026 770,1065 296,1065 272,568 288,413 321,374"/>
+      <TextLine id="eSc_line_4d69d5b2" custom="structure {type:default;}">
+        <Coords points="2019,379 2000,379 1980,379 1961,379 1941,379 1926,379 1918,381 1906,379 1902,379 1883,379 1863,379 1844,379 1824,379 1805,379 1785,379 1766,379 1746,379 1727,379 1707,379 1688,379 1668,379 1649,379 1645,377 1577,381 1561,377 1551,377 1532,377 1512,377 1507,377 1491,381 1468,377 1454,377 1434,377 1419,377 1411,383 1286,383 1269,377 1259,377 1240,377 1220,377 1216,377 1187,383 1146,376 1142,376 1123,376 1103,376 1084,376 1068,376 807,383 793,376 791,376 772,376 752,374 733,374 713,374 694,374 678,374 676,374 674,374 655,383 594,374 592,374 547,383 501,374 499,374 438,383 343,374 341,374 339,374 337,374 323,381 325,420 325,438 2056,434 2058,416 2054,383 2025,379 2019,379"/>
+        <Baseline points="325,420 2058,416"/>
+        <TextEquiv>
+          <Unicode>Nøkur ár eftirsíðani var ein ókunnigur drongur komin at spæla úti millum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_db2a4ac2" custom="structure {type:default;}">
+        <Coords points="290,498 290,516 2090,516 2090,498 2090,461 290,455 290,498"/>
+        <Baseline points="290,498 2090,498"/>
+        <TextEquiv>
+          <Unicode>børnini á Heygum. Ongantíð vildi hann koma inn við teimum, tó at tey bóðu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c949e7fc" custom="structure {type:default;}">
+        <Coords points="290,578 290,594 2113,590 2115,574 2111,539 2039,527 2037,527 1916,537 1914,537 1912,537 1844,527 1842,527 1840,527 1807,537 1805,539 1657,539 1655,537 1639,527 1637,527 1635,527 1633,527 1631,527 1600,537 1598,537 1596,537 1563,527 1561,527 1559,527 1372,537 1345,537 1331,537 1245,527 1243,527 1191,537 1171,539 1160,535 1138,529 1136,529 1134,529 1056,535 1011,539 288,535 290,578"/>
+        <Baseline points="290,578 2115,574"/>
+        <TextEquiv>
+          <Unicode>hann ofta, og hvarv, so eingin visti, hvar ið hann fór. Ein dagin var hann tó inn</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fdd9fa30" custom="structure {type:default;}">
+        <Coords points="292,654 292,672 1998,672 1998,654 1998,617 292,609 292,654"/>
+        <Baseline points="292,654 1998,654"/>
+        <TextEquiv>
+          <Unicode>komin, men sum tey tóku at spæla inni, hoyrdist eitt rópa fyri durunum:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_599818e7" custom="structure {type:default;}">
+        <Coords points="345,748 713,748 713,730 709,681 684,693 614,681 610,681 608,681 606,681 581,693 553,681 551,681 549,681 547,681 545,681 545,683 534,695 452,695 430,681 428,681 426,681 425,681 423,681 393,693 347,681 345,730 345,748"/>
+        <Baseline points="345,730 713,730"/>
+        <TextEquiv>
+          <Unicode>&quot;Ruben, Ruben!&quot;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_be69f175" custom="structure {type:default;}">
+        <Coords points="325,810 325,826 2177,824 2177,804 2175,765 2154,754 2152,754 2150,754 1821,763 1813,763 1811,763 1795,754 1793,754 1791,754 1585,754 1583,754 1581,754 1561,763 1555,767 1339,767 1333,761 1323,755 1321,755 1319,755 1317,755 1316,755 1292,761 1277,765 1048,761 844,757 842,757 840,757 834,759 820,767 762,759 736,757 735,757 717,759 674,767 643,759 633,757 631,757 629,757 614,759 567,767 545,759 540,757 538,757 536,757 534,757 532,757 530,759 516,767 323,759 325,810"/>
+        <Baseline points="325,810 2177,804"/>
+        <TextEquiv>
+          <Unicode>Drongurin fór grátandi út, tí hann væntaði sær at verða bukaður, og síðan sást</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a54a69f6" custom="structure {type:default;}">
+        <Coords points="290,896 649,900 653,886 653,847 438,835 436,835 434,835 432,835 430,837 421,847 321,847 294,833 292,884 290,896"/>
+        <Baseline points="292,884 653,886"/>
+        <TextEquiv>
+          <Unicode>hann ikki aftur.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7f787aad" custom="structure {type:default;}">
+        <Coords points="329,960 329,983 438,995 440,995 442,995 467,983 473,981 643,981 662,983 744,995 746,995 889,983 910,981 914,983 939,995 941,995 943,997 1027,997 1027,995 1029,995 1068,981 1072,981 1085,981 1202,993 1204,993 1206,993 1253,981 1263,980 1280,981 1368,993 1370,995 1624,995 1624,993 1626,993 1665,980 1668,980 1672,980 1721,993 1723,993 1725,993 1774,983 1877,993 1879,993 1973,980 1975,980 1976,980 2025,993 2027,993 2029,993 2170,978 2171,956 2168,919 1306,907 1304,907 1253,919 1245,919 1224,919 1113,909 1111,909 1064,919 1054,919 1043,919 974,909 972,909 891,919 873,921 651,921 647,919 633,909 631,909 629,909 627,909 625,909 590,919 584,919 581,919 561,909 559,909 557,909 327,917 329,960"/>
+        <Baseline points="329,960 2171,956"/>
+        <TextEquiv>
+          <Unicode>Men hesin drongur var hildin at hava verið hitt áðurnevnda huldubarnið, sum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9e26cfe0" custom="structure {type:default;}">
+        <Coords points="290,1020 290,1036 290,1081 319,1081 319,1079 321,1079 323,1079 323,1077 339,1063 483,1063 510,1077 514,1079 516,1079 518,1081 610,1081 610,1079 612,1079 614,1079 614,1077 616,1075 629,1063 678,1075 697,1079 699,1079 772,1073 772,1036 772,999 292,999 290,1020"/>
+        <Baseline points="290,1036 772,1036"/>
+        <TextEquiv>
+          <Unicode>umskift hevði verið.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_77bc5d76"  custom="structure {type:text;}">
+      <Coords points="2189,3093 2181,3169 2113,3169 2097,3117 2123,3086"/>
+      <TextLine id="eSc_line_e2e79e56" custom="structure {type:default;}">
+        <Coords points="2123,3089 2123,3147 2123,3182 2181,3182 2187,3148 2184,3103 2152,3089"/>
+        <Baseline points="2125,3149 2182,3149"/>
+        <TextEquiv>
+          <Unicode>15</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

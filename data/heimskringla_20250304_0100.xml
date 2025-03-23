@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-03-07T13:34:55.334350+00:00</Created>
+        <LastChange>2025-03-13T15:03:41.704695+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="heimskringla_20250304_0100.png" imageWidth="2480" imageHeight="3507">
+    <TextRegion id="eSc_textblock_73f14a37"  custom="structure {type:text;}">
+      <Coords points="313,296 692,296 787,358 1199,374 1175,457 998,473 887,527 553,582 561,607 645,623 670,701 824,732 824,863 723,933 397,956 382,989 2072,1020 2072,1073 2142,1176 2134,1229 2103,1237 943,1244 855,1276 530,1283 504,1354 645,1402 701,1480 756,1488 2142,1519 2111,1806 2212,1901 2173,2182 2197,2429 2173,2468 1216,2476 871,2538 296,2523 288,1169 296,1013 335,980 288,730 313,296"/>
+      <TextLine id="eSc_line_06fc808f" custom="structure {type:default;}">
+        <Coords points="534,305 532,303 510,296 503,296 483,296 464,296 321,301 308,321 308,339 306,356 343,368 345,368 347,368 713,363 715,342 713,309 705,305"/>
+        <Baseline points="308,339 715,342"/>
+        <TextEquiv>
+          <Unicode>Indberetninger</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eed12ef1" custom="structure {type:default;}">
+        <Coords points="1165,372 1146,372 1126,370 1107,370 1101,368 968,377 852,366 850,366 848,366 846,366 830,377 828,379 756,379 754,377 738,364 736,364 735,364 733,364 731,364 703,376 686,364 684,364 682,364 680,364 620,376 549,364 547,364 545,364 524,376 504,364 503,364 501,364 499,364 497,364 458,376 456,377 384,377 382,376 372,366 370,366 368,366 366,366 310,374 310,413 308,430 366,442 368,442 631,436 746,434 775,438 811,444 813,446 1187,446 1189,416 1187,409 1189,379"/>
+        <Baseline points="310,413 1189,416"/>
+        <TextEquiv>
+          <Unicode>fra en Reise i Færøe 1781 og 1782</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4f70b255" custom="structure {type:default;}">
+        <Coords points="313,506 891,510 892,487 889,450 758,450 727,436 725,436 723,436 662,448 651,438 651,436 649,436 647,436 602,436 600,436 598,436 547,450 386,438 384,438 382,438 358,450 327,438 325,438 323,438 321,438 319,438 319,440 317,440 311,444 313,490"/>
+        <Baseline points="313,490 892,487"/>
+        <TextEquiv>
+          <Unicode>1. Hefte. J. Chr. Svabo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2b6153d5" custom="structure {type:default;}">
+        <Coords points="308,681 450,695 452,695 627,687 625,668 625,629 596,617 594,617 592,617 530,629 524,629 308,625 308,668"/>
+        <Baseline points="308,668 625,668"/>
+        <TextEquiv>
+          <Unicode>Flotoyggjar</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a52282db" custom="structure {type:default;}">
+        <Coords points="311,771 311,789 816,785 818,767 814,734 678,734 672,730 653,720 651,720 649,720 590,730 561,734 545,728 528,722 526,722 524,722 522,722 520,722 510,728 501,734 477,728 456,722 454,722 452,722 310,724 311,771"/>
+        <Baseline points="311,771 818,767"/>
+        <TextEquiv>
+          <Unicode>Týtt úr donskum av</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0fbf015f" custom="structure {type:default;}">
+        <Coords points="308,831 308,843 306,867 793,868 797,847 795,810 616,810 614,808 545,796 543,796 354,806 341,796 339,796 337,796 335,796 333,796 315,802 308,831"/>
+        <Baseline points="308,843 797,847"/>
+        <TextEquiv>
+          <Unicode>Anker Eli Petersen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2d326377" custom="structure {type:default;}">
+        <Coords points="2023,1018 2004,1018 1984,1018 1965,1018 1900,1017 1887,1017 1867,1017 1852,1015 1838,1015 1828,1015 1809,1015 1789,1015 1770,1015 1750,1013 1731,1013 1711,1013 1692,1013 1672,1013 1653,1013 1639,1011 1624,1018 1624,1020 1395,1020 1394,1018 1374,1009 1372,1009 1370,1009 1368,1009 1345,1018 1341,1018 1327,1018 1232,1009 1230,1009 1228,1009 1195,1018 1191,1018 1177,1007 1175,1007 1173,1007 1171,1007 1121,1017 1074,1007 1072,1007 1070,1007 1029,1017 1027,1017 1025,1017 896,1007 894,1007 846,1017 842,1017 838,1017 750,1007 748,1007 308,1015 308,1055 308,1077 2056,1084 2058,1059 2056,1020 2045,1018 2043,1018"/>
+        <Baseline points="308,1055 2058,1059"/>
+        <TextEquiv>
+          <Unicode>Eisini tann kaldgløggi føroyski vísindamaðurin Jens Christian Svabo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ed9cc6fd" custom="structure {type:default;}">
+        <Coords points="311,1155 1847,1160 1846,1131 1842,1083 1799,1096 1723,1096 1707,1083 1705,1083 1704,1083 1702,1083 1700,1083 1698,1083 1674,1096 1559,1096 1542,1085 1540,1083 1538,1083 1536,1083 1534,1083 1532,1083 1526,1085 1505,1094 1434,1085 1409,1083 1317,1083 1316,1083 1314,1083 1312,1083 1308,1087 1296,1094 1251,1087 1222,1083 1220,1083 1189,1087 1160,1093 1130,1089 1097,1083 1095,1083 1093,1083 1091,1083 1084,1089 1072,1094 1011,1089 943,1083 941,1083 939,1083 914,1091 902,1093 892,1091 871,1083 869,1083 867,1083 865,1083 863,1083 853,1091 846,1096 740,1096 735,1091 723,1083 721,1083 719,1083 717,1083 664,1093 647,1094 643,1093 627,1083 625,1083 623,1083 508,1083 506,1083 504,1083 469,1093 465,1094 464,1093 448,1083 446,1083 444,1083 327,1083 325,1083 323,1083 321,1083 310,1091 310,1131"/>
+        <Baseline points="310,1131 1846,1131"/>
+        <TextEquiv>
+          <Unicode>(1746 - 1824) viðger pátrúnna viðvíkjandi flótandi oyggjum. Í</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_44f73df2" custom="structure {type:default;}">
+        <Coords points="315,1219 1470,1219 1475,1219 1524,1229 1526,1229 2127,1219 2129,1206 2127,1165 315,1149 315,1200"/>
+        <Baseline points="315,1200 2129,1206"/>
+        <TextEquiv>
+          <Unicode>&quot;INDBERETNINGER fra en Reise i Færøe&quot; 1781 og 1782. 1. Hefti, skrivar</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_71aa5c51" custom="structure {type:default;}">
+        <Coords points="308,1276 308,1289 477,1295 479,1276 479,1243 308,1233 308,1276"/>
+        <Baseline points="308,1276 479,1276"/>
+        <TextEquiv>
+          <Unicode>hann:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_73ebcfe0" custom="structure {type:default;}">
+        <Coords points="304,1467 368,1478 370,1478 442,1475 614,1478 616,1478 618,1478 649,1467 649,1451 649,1412 567,1412 563,1408 555,1400 553,1400 551,1400 549,1400 518,1406 512,1408 508,1406 497,1396 497,1395 495,1395 493,1395 425,1395 423,1395 421,1395 403,1402 389,1410 304,1400 304,1451"/>
+        <Baseline points="304,1451 649,1451"/>
+        <TextEquiv>
+          <Unicode>Om Flyd-øer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_49c10d20" custom="structure {type:default;}">
+        <Coords points="2129,1523 308,1515 308,1558 308,1582 2138,1589 2142,1564 2142,1525 2140,1523 2140,1533"/>
+        <Baseline points="308,1558 2142,1564"/>
+        <TextEquiv>
+          <Unicode>L. Debes i sin Færøa reserata giør mig det næsten til en Nødvendighed,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fb0921b7" custom="structure {type:default;}">
+        <Coords points="310,1652 1845,1661 1848,1632 1846,1597 310,1593 310,1628"/>
+        <Baseline points="310,1628 1848,1632"/>
+        <TextEquiv>
+          <Unicode>under en særskilt Artikel kortelig at afhandle denne Materie.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7043e8f6" custom="structure {type:default;}">
+        <Coords points="345,1720 2077,1730 2080,1708 2078,1669 347,1663 347,1702"/>
+        <Baseline points="347,1702 2080,1708"/>
+        <TextEquiv>
+          <Unicode>Fra S. 19 til 22 er denne Forfatter fast i den Troe, at hvis &quot;de ikke ere</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bc1a8aba" custom="structure {type:default;}">
+        <Coords points="306,1806 2079,1810 2078,1780 2076,1743 1495,1743 1483,1737 1470,1732 1468,1732 1466,1732 1222,1735 898,1739 875,1732 867,1730 865,1730 863,1730 772,1732 452,1737 306,1728 306,1774"/>
+        <Baseline points="306,1774 2078,1780"/>
+        <TextEquiv>
+          <Unicode>Iisbjerge fra Grønland, saa ere de Djevelens Spøgerie og Forkoglerie,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cf509320" custom="structure {type:default;}">
+        <Coords points="306,1870 1437,1873 1438,1852 1436,1815 308,1810 308,1847"/>
+        <Baseline points="308,1847 1438,1852"/>
+        <TextEquiv>
+          <Unicode>hvilken i sig selv er en tusindfold Konstner&quot;.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0a06a059" custom="structure {type:default;}">
+        <Coords points="347,1882 347,1923 345,1945 2197,1952 2201,1926 2197,1887 2187,1880"/>
+        <Baseline points="347,1923 2201,1926"/>
+        <TextEquiv>
+          <Unicode>Han beretter videre, at Svinøen har været en Flyd-Øe. Jeg vil legge til, at</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c7ad2eaa" custom="structure {type:default;}">
+        <Coords points="303,2022 2065,2026 2068,1997 2066,1961 306,1958 306,1993"/>
+        <Baseline points="306,1993 2068,1997"/>
+        <TextEquiv>
+          <Unicode>det samme berettes om Store-Dimon, ja vel flere af de færøeske Øer.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3b34c302" custom="structure {type:default;}">
+        <Coords points="346,2097 2186,2097 2187,2073 2185,2032 345,2028 345,2069"/>
+        <Baseline points="345,2069 2187,2073"/>
+        <TextEquiv>
+          <Unicode>I Henseende til Svinøen skal en Galte med et Kippe Nøgler fra Bordøen,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_af133cc2" custom="structure {type:default;}">
+        <Coords points="304,2165 2095,2166 2097,2143 2095,2104 304,2102 304,2143"/>
+        <Baseline points="304,2143 2097,2143"/>
+        <TextEquiv>
+          <Unicode>heftet til dens Hale, have svømmet ud til samme, og da der var Staal i</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3974455c" custom="structure {type:default;}">
+        <Coords points="306,2237 2060,2236 2062,2215 2062,2178 306,2178 306,2215"/>
+        <Baseline points="306,2215 2062,2215"/>
+        <TextEquiv>
+          <Unicode>dem, skal Øen have fattet Grund og bleven fast. Efter Fabelen fæster</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d8ac9cbf" custom="structure {type:default;}">
+        <Coords points="2175,2250 306,2246 306,2285 304,2312 2177,2314 2181,2289 2179,2262 2177,2262"/>
+        <Baseline points="306,2285 2181,2289"/>
+        <TextEquiv>
+          <Unicode>Staal alle saadanne Flyd-Øer, under det Vilkaar, at det legges paa samme,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3e06eefa" custom="structure {type:default;}">
+        <Coords points="307,2391 2128,2386 2127,2357 2123,2324 302,2318 304,2359"/>
+        <Baseline points="304,2359 2127,2357"/>
+        <TextEquiv>
+          <Unicode>inden det Øje, som har først seet dem, viger der fra; men vender denne</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_04428e5e" custom="structure {type:default;}">
+        <Coords points="302,2447 483,2460 485,2460 602,2451 606,2451 614,2451 1011,2462 1013,2462 1177,2454 1222,2452 2171,2460 2175,2435 2173,2398 1741,2386 1739,2386 1737,2386 1735,2386 1721,2396 1717,2398 1575,2398 1559,2396 1464,2384 1462,2384 1460,2384 1431,2394 1419,2394 1080,2384 1078,2384 1076,2384 1043,2394 1037,2394 1029,2394 972,2384 970,2384 968,2384 935,2394 930,2394 924,2392 885,2382 883,2382 881,2382 879,2382 855,2392 816,2382 814,2382 813,2382 811,2382 787,2392 723,2382 721,2382 304,2390 304,2429"/>
+        <Baseline points="304,2429 2175,2435"/>
+        <TextEquiv>
+          <Unicode>Person Øjet derfra, inden Staalet har fæstet den, saa er 100 og Et ude, og</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f1834280" custom="structure {type:default;}">
+        <Coords points="304,2538 438,2536 446,2542 456,2550 458,2550 460,2550 462,2552 571,2552 571,2550 573,2550 575,2550 581,2544 588,2536 690,2536 725,2546 738,2550 740,2550 764,2536 1003,2534 1004,2507 1004,2470 703,2458 701,2458 699,2458 672,2468 623,2458 621,2458 620,2458 618,2458 606,2468 581,2458 579,2458 577,2458 516,2468 434,2458 432,2458 382,2468 323,2458 321,2458 319,2458 317,2458 304,2466 304,2507"/>
+        <Baseline points="304,2507 1004,2507"/>
+        <TextEquiv>
+          <Unicode>Øen igjen lykkelig sjunken.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d0718fa9"  custom="structure {type:text;}">
+      <Coords points="2138,3086 2205,3101 2197,3169 2121,3169 2105,3125 2138,3086"/>
+      <TextLine id="eSc_line_edeed564" custom="structure {type:default;}">
+        <Coords points="2184,3097 2158,3089 2149,3089 2126,3100 2126,3144 2129,3203 2190,3176 2190,3144 2187,3097 2184,3097"/>
+        <Baseline points="2127,3146 2193,3146"/>
+        <TextEquiv>
+          <Unicode>96</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

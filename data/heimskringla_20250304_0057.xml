@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-03-07T13:34:20.526791+00:00</Created>
+        <LastChange>2025-03-09T18:21:20.568856+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="heimskringla_20250304_0057.png" imageWidth="2480" imageHeight="3507">
+    <TextRegion id="eSc_textblock_80517dae"  custom="structure {type:text;}">
+      <Coords points="337,288 2173,296 2181,668 2134,1026 2103,1050 288,1050 280,374 337,288"/>
+      <TextLine id="eSc_line_bef41bcc" custom="structure {type:default;}">
+        <Coords points="333,342 333,356 696,366 697,366 1099,354 1421,362 1423,362 1425,362 1427,362 1440,352 2097,358 2099,358 2170,346 2170,333 2166,296 345,294 343,294 341,294 339,294 331,300 333,342"/>
+        <Baseline points="333,342 2170,333"/>
+        <TextEquiv>
+          <Unicode>So ein dagin gongur sami maður úr Froðbø á fjalli uppi undir kambinun.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4482ac3c" custom="structure {type:default;}">
+        <Coords points="284,418 284,450 384,448 386,448 423,434 501,444 503,444 606,432 639,446 641,446 643,446 645,446 651,446 713,430 904,430 965,440 988,444 990,444 1013,440 1064,430 1115,438 1140,442 1142,442 1220,436 1343,428 1374,434 1411,442 1413,442 1415,442 1442,434 1460,428 1473,432 1495,442 1497,442 1499,442 1501,442 1530,432 1538,430 1555,432 1616,440 1618,440 1620,440 1643,430 1651,428 1659,430 1694,440 1696,440 1698,440 1918,428 1961,438 1963,438 1965,438 1967,438 1969,438 1984,428 2088,436 2090,436 2146,422 2148,407 2142,370 282,377 284,418"/>
+        <Baseline points="284,418 2148,407"/>
+        <TextEquiv>
+          <Unicode>Hann møtir har einum manni, men heldur seg vita, av hvørjum slagi hann</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7188a272" custom="structure {type:default;}">
+        <Coords points="286,496 286,514 1666,514 1666,512 1686,512 1803,502 1939,510 1943,485 1939,450 1707,450 1686,438 1684,438 1682,438 1680,438 1655,452 1505,452 1405,438 1403,438 1339,452 1183,440 1181,440 1179,440 1177,440 1158,452 976,442 974,442 972,442 947,455 879,455 852,442 850,442 848,442 742,453 721,444 719,444 561,444 559,444 284,459 286,496"/>
+        <Baseline points="286,496 1943,485"/>
+        <TextEquiv>
+          <Unicode>er, og vil tí ikki finna hann til máls. Hann skákar av veginun, men</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b17c93b6" custom="structure {type:default;}">
+        <Coords points="286,591 2118,582 2119,559 2113,516 284,527 286,568"/>
+        <Baseline points="286,568 2119,559"/>
+        <TextEquiv>
+          <Unicode>huldumaðurin tekur vegin av honum og sigur við hann, at skomm skuldi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_579d3420" custom="structure {type:default;}">
+        <Coords points="284,644 284,662 633,672 635,672 637,672 660,662 684,662 1009,670 1011,670 2170,656 2170,635 2166,598 296,598 294,598 292,598 290,598 282,602 284,644"/>
+        <Baseline points="284,644 2170,635"/>
+        <TextEquiv>
+          <Unicode>hann hava fyri muddin, ið hann hevði fingið Símuni, sum nú var yvirmaður</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3157e9ef" custom="structure {type:default;}">
+        <Coords points="287,744 2134,740 2136,716 2132,679 308,676 306,676 304,676 286,683 288,724"/>
+        <Baseline points="288,724 2136,716"/>
+        <TextEquiv>
+          <Unicode>sín; hann og hansara fólk skuldu muna honun tað attur og løna tað hart.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3f6c81f4" custom="structure {type:default;}">
+        <Coords points="286,800 286,816 528,824 530,824 532,824 553,814 555,814 559,814 610,824 612,824 614,824 635,814 682,824 684,824 772,812 779,812 787,812 887,822 889,822 891,822 892,822 908,812 1006,820 1007,820 1091,808 1093,792 1089,757 988,757 963,744 961,744 959,744 957,744 955,744 939,754 933,750 933,748 931,748 930,748 928,748 803,757 789,746 787,746 785,746 783,746 725,757 701,746 699,746 697,746 596,757 547,748 545,748 543,748 542,748 522,759 399,750 397,750 395,750 393,750 378,761 300,750 298,750 296,750 294,750 294,752 284,759 286,800"/>
+        <Baseline points="286,800 1093,792"/>
+        <TextEquiv>
+          <Unicode>Froðbingurin biður hann royna:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4f8334bb" custom="structure {type:default;}">
+        <Coords points="345,894 1828,894 1828,892 2131,890 2129,865 2127,828 2097,816 2095,816 2093,816 2092,816 2070,826 1852,818 1850,818 1797,828 1789,828 1785,828 1756,816 1754,816 1752,816 1750,816 1709,826 1702,828 1694,826 1655,820 1653,820 1557,826 1507,829 1464,826 1368,818 1366,818 1288,826 1232,831 1123,826 1007,820 1006,820 965,826 910,833 891,826 885,824 883,824 881,824 859,826 791,833 770,826 760,822 758,822 756,822 559,824 557,824 553,826 534,835 485,826 475,824 473,824 471,824 469,824 469,826 452,835 343,826 345,876"/>
+        <Baseline points="345,876 2129,865"/>
+        <TextEquiv>
+          <Unicode>&quot;Havi eg givið Símuni muddin, man eg sjálvur hava knívin ettir, og ætli</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f05d7756" custom="structure {type:default;}">
+        <Coords points="291,973 949,971 951,946 947,911 752,898 750,898 680,900 678,900 676,900 676,902 664,911 631,902 629,902 627,902 540,909 524,900 522,900 520,900 518,900 288,911 290,952"/>
+        <Baseline points="290,952 951,946"/>
+        <TextEquiv>
+          <Unicode>eg at hjálpast við honum.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0459fe49" custom="structure {type:default;}">
+        <Coords points="337,1028 337,1044 2111,1036 2113,1017 2109,976 633,974 631,974 569,983 354,976 352,976 350,976 348,976 335,981 337,1028"/>
+        <Baseline points="337,1028 2113,1017"/>
+        <TextEquiv>
+          <Unicode>Seinnameiri frættist einki frá Símuni og huldufólkinun í Froðbiarkambi.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_52f573b3"  custom="structure {type:text;}">
+      <Coords points="300,1153 926,1161 998,1231 1115,1246 2111,1278 2166,1395 2111,1691 2111,1782 2181,1839 2127,2143 2150,2242 2134,2297 1980,2336 1877,2468 2173,2540 2181,2819 1154,2842 1068,2850 1004,2904 296,2904 272,1176 300,1153"/>
+      <TextLine id="eSc_line_8c96618d" custom="structure {type:default;}">
+        <Coords points="834,1172 832,1170 816,1161 814,1161 813,1161 811,1161 809,1161 807,1161 795,1170 783,1161 781,1161 779,1161 777,1161 775,1161 740,1170 736,1170 731,1170 666,1161 664,1161 621,1170 604,1172 571,1169 510,1163 508,1163 506,1163 481,1169 464,1172 286,1169 288,1213 288,1234 948,1233 947,1209 943,1180 933,1172"/>
+        <Baseline points="288,1213 947,1209"/>
+        <TextEquiv>
+          <Unicode>Viðmerkingar Jacobsens:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ea77fe03" custom="structure {type:default;}">
+        <Coords points="2047,1276 2027,1274 2008,1274 1988,1274 1973,1272 292,1280 294,1324 294,1342 2086,1338 2088,1315 2082,1276 2066,1276"/>
+        <Baseline points="294,1324 2088,1315"/>
+        <TextEquiv>
+          <Unicode>Til søgnina um Símun í Kirkjubø, hevur Dr. Jakobsen hesa viðmerking:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6db424e0" custom="structure {type:default;}">
+        <Coords points="288,1433 288,1445 534,1455 536,1455 633,1445 635,1445 637,1445 844,1453 846,1453 2146,1435 2148,1422 2144,1383 2039,1371 2037,1371 2035,1371 2033,1371 2017,1381 1869,1373 1867,1373 1865,1373 1836,1383 1832,1383 1797,1383 1553,1373 1551,1373 1550,1373 1528,1383 1522,1385 1493,1383 1413,1375 1411,1375 1286,1383 1247,1385 1241,1383 1232,1375 1230,1375 1228,1375 1226,1375 1224,1375 1199,1383 1183,1387 1134,1383 1060,1377 1058,1377 976,1383 900,1391 768,1391 756,1383 750,1379 748,1379 746,1379 744,1379 684,1383 592,1391 286,1385 288,1433"/>
+        <Baseline points="288,1433 2148,1422"/>
+        <TextEquiv>
+          <Unicode>Dette sagn er tidligere meddelt i Antikvarisk Tidsskrift 1849 - 51, s. 327-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4755d1ce" custom="structure {type:default;}">
+        <Coords points="288,1531 2087,1521 2088,1500 2084,1463 288,1463 290,1509"/>
+        <Baseline points="290,1509 2088,1500"/>
+        <TextEquiv>
+          <Unicode>33 (både dansk og færøsk tekst), ved V. U. Hammershaimb, og er her</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e0df04e7" custom="structure {type:default;}">
+        <Coords points="288,1607 2113,1604 2113,1580 2109,1541 1869,1529 1867,1529 1721,1541 1713,1541 1702,1541 1462,1531 1460,1531 1388,1543 1378,1543 1343,1543 1085,1533 1084,1533 1082,1533 1056,1543 1019,1533 1017,1533 1015,1533 1013,1533 978,1543 972,1545 968,1543 949,1535 947,1535 945,1535 809,1545 787,1545 774,1545 684,1535 682,1535 680,1535 678,1535 662,1545 660,1546 286,1546 288,1589"/>
+        <Baseline points="288,1589 2113,1580"/>
+        <TextEquiv>
+          <Unicode>gengivet i den form, hvori det dér findes, med nogle små ændringer og</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ae9b5731" custom="structure {type:default;}">
+        <Coords points="293,1681 1236,1680 1236,1659 1236,1624 1119,1613 1117,1613 635,1622 582,1613 581,1613 501,1622 310,1613 308,1613 306,1613 304,1613 292,1621 292,1659"/>
+        <Baseline points="292,1659 1236,1659"/>
+        <TextEquiv>
+          <Unicode>tilføjelser efter mine egne samlinger.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ec36469e" custom="structure {type:default;}">
+        <Coords points="337,1753 2078,1751 2078,1730 2076,1691 2058,1681 2056,1681 2054,1681 2053,1681 1976,1691 1900,1681 1898,1681 1897,1681 1895,1681 1877,1693 1709,1693 1456,1683 1454,1683 1452,1683 1450,1683 1433,1693 1150,1685 1148,1685 1031,1696 1011,1696 974,1696 754,1687 752,1687 694,1696 680,1698 676,1696 658,1689 657,1689 655,1689 653,1689 620,1696 610,1698 584,1696 497,1689 495,1689 335,1696 337,1739"/>
+        <Baseline points="337,1739 2078,1730"/>
+        <TextEquiv>
+          <Unicode>Den her omhandlede Símun er Simon Simonsen, sønnesøn af den i</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2d55dbb8" custom="structure {type:default;}">
+        <Coords points="289,1837 1856,1828 1858,1808 1854,1769 705,1763 703,1763 701,1763 676,1772 450,1765 448,1765 288,1774 290,1815"/>
+        <Baseline points="290,1815 1858,1808"/>
+        <TextEquiv>
+          <Unicode>sagn 2 omtalte Jens Simonsen i Sumbø (Jenis í Laðangarði).</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d998b56a" custom="structure {type:default;}">
+        <Coords points="1253,1837 1251,1837 1249,1837 1222,1845 1210,1847 1115,1845 840,1839 838,1839 797,1848 789,1848 738,1848 366,1841 364,1841 362,1841 333,1850 335,1891 334,1912 2172,1908 2173,1884 2171,1880 2166,1837"/>
+        <Baseline points="335,1891 2173,1884"/>
+        <TextEquiv>
+          <Unicode>Angående Simons forsvinden, bortførelse ved en huldremand undervejs</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_67381b6c" custom="structure {type:default;}">
+        <Coords points="292,1967 292,1995 569,1983 637,1991 655,1993 657,1993 678,1991 764,1979 816,1987 818,1987 820,1987 822,1987 836,1977 928,1987 930,1987 931,1987 935,1987 1052,1977 1119,1985 1167,1991 1169,1991 1218,1983 1275,1975 1308,1983 1317,1985 1319,1985 1321,1985 1364,1981 1448,1975 1466,1981 1483,1987 1485,1987 1487,1987 1565,1979 1592,1977 1600,1979 1627,1989 1629,1989 1631,1989 1680,1977 1688,1977 1715,1977 1910,1985 1912,1985 1914,1985 1937,1975 1941,1973 1955,1975 2019,1983 2021,1983 2123,1971 2125,1960 2121,1921 310,1917 308,1917 306,1917 304,1917 290,1923 292,1967"/>
+        <Baseline points="292,1967 2125,1960"/>
+        <TextEquiv>
+          <Unicode>fra holmen Trøllhøvdi i båd til Kirkebø, findes allerede hos Lucas Debes</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d51a3021" custom="structure {type:default;}">
+        <Coords points="292,2043 292,2069 2121,2051 2123,2034 2117,1987 1852,1997 1807,1989 1787,1987 1785,1987 1783,1987 1774,1991 1746,1998 1551,1993 1421,1989 1419,1989 1417,1989 1403,1995 1388,2000 1376,1995 1368,1991 1366,1991 1195,1991 1193,1991 1191,1991 1189,1991 1181,1997 1173,2002 1021,2002 916,2000 658,1993 657,1993 604,2004 596,2004 582,2004 469,1995 467,1995 407,2004 386,1995 384,1995 382,1995 290,2006 292,2043"/>
+        <Baseline points="292,2043 2123,2034"/>
+        <TextEquiv>
+          <Unicode>en kort beretning (Færoa o.s.v., s. 320-21. Debes sætter tildragelsen til</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_650af393" custom="structure {type:default;}">
+        <Coords points="294,2140 2082,2131 2084,2111 2080,2074 1852,2074 1817,2063 1815,2063 1813,2063 1811,2063 1782,2074 1772,2074 1581,2065 1579,2065 1577,2065 1546,2074 1505,2065 1503,2065 1501,2065 1499,2065 1468,2076 1466,2076 1460,2076 1386,2067 1384,2067 1241,2076 1240,2076 1210,2067 1208,2067 1206,2067 1204,2067 1183,2078 1181,2078 1158,2078 1019,2069 1017,2069 933,2078 928,2078 926,2078 894,2069 892,2069 891,2069 836,2078 824,2080 789,2078 623,2071 621,2071 620,2071 596,2080 588,2084 440,2084 436,2080 425,2073 423,2073 421,2073 419,2073 294,2080 296,2123"/>
+        <Baseline points="296,2123 2084,2111"/>
+        <TextEquiv>
+          <Unicode>1617, men efter oplysning af N. Andersen (Meddelelser fra Færøernes</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_74eef96a" custom="structure {type:default;}">
+        <Coords points="289,2220 2084,2208 2086,2186 2082,2147 1926,2137 1924,2137 1860,2147 1858,2147 1854,2147 1807,2137 1805,2137 1803,2137 1768,2147 1762,2149 1717,2149 1481,2139 1479,2139 1477,2139 1442,2149 1434,2150 1417,2149 1337,2141 1335,2141 1195,2150 1154,2152 1115,2150 972,2143 970,2143 896,2152 873,2154 809,2152 606,2145 604,2145 288,2154 290,2197"/>
+        <Baseline points="290,2197 2086,2186"/>
+        <TextEquiv>
+          <Unicode>Retsprotokoller II, i bladet &quot;Dimmalætting&quot;, nr. 13, 1891) møder Simon</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0942a1f3" custom="structure {type:default;}">
+        <Coords points="292,2275 292,2289 2129,2283 2129,2263 2123,2219 290,2228 292,2275"/>
+        <Baseline points="292,2275 2129,2263"/>
+        <TextEquiv>
+          <Unicode>Simonsen af Kirkebø for retten i 1618 i anledning af en strid med Mikkel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_739a9c8d" custom="structure {type:default;}">
+        <Coords points="291,2372 1931,2364 1930,2341 1926,2304 1602,2293 1600,2293 1598,2293 1555,2304 1551,2304 1538,2304 1382,2295 1380,2295 1286,2304 1267,2306 1226,2304 1052,2297 1050,2297 982,2306 972,2306 970,2306 957,2297 955,2297 953,2297 951,2297 906,2306 892,2308 885,2306 867,2299 865,2299 863,2299 861,2299 846,2306 840,2308 814,2306 746,2299 744,2299 292,2306 294,2351"/>
+        <Baseline points="294,2351 1930,2341"/>
+        <TextEquiv>
+          <Unicode>Joensen (Mikkjal bónda í Lamba, sé sagn 34) om Husevig gård.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_513c95cb" custom="structure {type:default;}">
+        <Coords points="342,2446 1594,2441 1594,2421 1590,2384 1507,2373 1505,2373 1419,2382 1390,2373 1388,2373 1386,2373 1232,2382 1175,2373 1173,2373 1171,2373 1136,2384 772,2375 770,2375 768,2375 766,2375 752,2386 358,2376 356,2376 354,2376 352,2376 341,2384 343,2427"/>
+        <Baseline points="343,2427 1594,2421"/>
+        <TextEquiv>
+          <Unicode>I 1619 omtales derimod Simon Simonsens enke.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0ba8b3a6" custom="structure {type:default;}">
+        <Coords points="343,2524 1815,2517 1819,2493 1815,2456 1626,2447 1624,2447 1526,2456 1518,2456 1505,2456 1316,2449 1314,2449 1234,2458 1220,2458 1181,2458 931,2451 930,2451 928,2451 892,2458 885,2462 341,2462 343,2503"/>
+        <Baseline points="343,2503 1819,2493"/>
+        <TextEquiv>
+          <Unicode>Hans forsvinden må altså henlægges til denne mellemtid.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_47d300d5" custom="structure {type:default;}">
+        <Coords points="2142,2532 339,2532 341,2577 341,2601 2157,2594 2160,2569 2156,2534 2152,2534"/>
+        <Baseline points="341,2577 2160,2569"/>
+        <TextEquiv>
+          <Unicode>Efter Debes kom båden hel og holden til lands igen, men ganske uden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_07138cdd" custom="structure {type:default;}">
+        <Coords points="293,2676 2003,2669 2004,2645 2000,2608 637,2604 635,2604 586,2614 417,2606 415,2606 290,2616 292,2655"/>
+        <Baseline points="292,2655 2004,2645"/>
+        <TextEquiv>
+          <Unicode>mandskab. Efter V. U. Hammershaimbs gengivelse af sagnet i Ant.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_49004a1c" custom="structure {type:default;}">
+        <Coords points="298,2753 2165,2744 2162,2721 2158,2686 2058,2673 2056,2673 2054,2673 2029,2686 1705,2686 1670,2675 1668,2675 1666,2675 1590,2684 1555,2675 1553,2675 1551,2675 1550,2675 1528,2686 1526,2686 1505,2686 1386,2677 1384,2677 1382,2677 1364,2686 1356,2690 1226,2690 1216,2686 1191,2677 1189,2677 1187,2677 1029,2686 937,2690 920,2686 902,2680 900,2680 898,2680 863,2686 830,2690 820,2686 811,2678 809,2678 807,2678 805,2678 694,2686 584,2692 563,2686 547,2680 545,2680 543,2680 542,2680 540,2680 532,2686 520,2692 477,2686 444,2680 442,2680 440,2680 426,2686 407,2692 395,2686 389,2680 387,2680 386,2680 384,2680 296,2684 298,2731"/>
+        <Baseline points="298,2731 2162,2721"/>
+        <TextEquiv>
+          <Unicode>Tidsskr., hvortil jeg her har holdt mig, sønderbrødes båden, og en enkelt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e5ea0852" custom="structure {type:default;}">
+        <Coords points="292,2805 292,2838 481,2827 618,2827 641,2836 643,2836 645,2836 649,2836 707,2827 928,2834 945,2834 947,2834 949,2834 951,2834 982,2825 1033,2834 1041,2834 1043,2834 1050,2834 1105,2823 1253,2832 1269,2832 1271,2832 1292,2832 1475,2821 1542,2830 1550,2830 1551,2830 1585,2830 1838,2819 1902,2827 1916,2828 1918,2828 2168,2825 2170,2795 2166,2760 2092,2749 2090,2749 1976,2758 1953,2749 1951,2749 1949,2749 1947,2749 1945,2749 1928,2758 1579,2751 1577,2751 1575,2751 1532,2760 1444,2751 1442,2751 1440,2751 1413,2762 1134,2752 1132,2752 1130,2752 1101,2762 1064,2752 1062,2752 1060,2752 1058,2752 1007,2764 725,2754 723,2754 662,2766 432,2756 430,2756 428,2756 426,2756 411,2768 290,2768 292,2805"/>
+        <Baseline points="292,2805 2170,2795"/>
+        <TextEquiv>
+          <Unicode>mand (Torbergur) kom drivende til Kirkebø på et stykke af den - han skal</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4005eb92" custom="structure {type:default;}">
+        <Coords points="292,2883 292,2901 331,2912 333,2912 335,2912 421,2903 428,2903 432,2903 464,2914 465,2914 467,2914 469,2914 497,2904 501,2903 520,2904 621,2914 623,2914 625,2914 657,2906 676,2901 699,2906 729,2912 731,2912 1000,2908 1000,2879 996,2840 692,2830 690,2830 688,2830 686,2830 686,2832 676,2840 639,2832 637,2832 635,2832 614,2842 612,2842 600,2832 598,2832 596,2832 594,2832 551,2842 547,2842 545,2842 522,2832 520,2832 518,2832 456,2842 454,2842 452,2842 425,2832 423,2832 421,2832 419,2832 417,2832 405,2842 387,2832 386,2832 384,2832 382,2832 356,2842 329,2832 327,2832 325,2832 323,2832 290,2840 292,2883"/>
+        <Baseline points="292,2883 1000,2879"/>
+        <TextEquiv>
+          <Unicode>da have fortalt tildragelsen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_507a9da8"  custom="structure {type:text;}">
+      <Coords points="2140,3000 2205,3023 2189,3084 2113,3084 2105,3023 2140,3000"/>
+      <TextLine id="eSc_line_06f67733" custom="structure {type:default;}">
+        <Coords points="2194,3022 2148,3012 2146,3012 2144,3012 2113,3016 2113,3062 2113,3086 2195,3078 2195,3062 2193,3058 2191,3058"/>
+        <Baseline points="2113,3062 2195,3062"/>
+        <TextEquiv>
+          <Unicode>53</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-03-07T13:34:52.908373+00:00</Created>
+        <LastChange>2025-03-13T14:39:47.261388+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="heimskringla_20250304_0097.png" imageWidth="2480" imageHeight="3507">
+    <TextRegion id="eSc_textblock_fca2f60d"  custom="structure {type:text;}">
+      <Coords points="298,280 2049,288 2072,303 2056,426 2158,436 2189,467 2189,894 2166,917 1013,933 816,995 296,995 272,948 272,561 298,280"/>
+      <TextLine id="eSc_line_3747bc73" custom="structure {type:default;}">
+        <Coords points="290,340 290,370 2044,367 2047,337 2041,288 298,298 288,319"/>
+        <Baseline points="290,340 2047,337"/>
+        <TextEquiv>
+          <Unicode>Enn á døgum sigast menn stundum at hava sæð eina oyggj fyri</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5160547e" custom="structure {type:default;}">
+        <Coords points="291,449 1998,441 1998,413 1996,376 1963,364 1961,364 1959,364 1748,374 1645,364 1643,364 1641,364 1602,374 1579,364 1577,364 1575,364 1573,364 1544,376 1524,366 1522,366 1520,366 1286,376 1224,366 1222,366 1173,376 1146,366 1144,366 1142,366 1140,366 1115,377 1087,368 1085,368 1084,368 904,377 891,368 889,368 887,368 719,368 717,368 715,368 674,377 399,370 397,370 290,381 292,420"/>
+        <Baseline points="292,420 1998,413"/>
+        <TextEquiv>
+          <Unicode>norðan Vágar; há fjøll eru sjónlig á henni, djúpir dalir og hvítir</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3965b137" custom="structure {type:default;}">
+        <Coords points="300,525 2167,524 2170,492 2164,448 294,455 296,498"/>
+        <Baseline points="296,498 2170,492"/>
+        <TextEquiv>
+          <Unicode>fossar; helst er tað Sørvágsmenn, sum hava sæð hana grant ofta, tá</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1b839194" custom="structure {type:default;}">
+        <Coords points="294,602 2185,601 2185,574 2175,535 2099,524 2019,524 2017,524 2015,524 2014,524 1994,535 1969,524 1967,524 1965,524 1908,535 1906,535 1889,524 1887,524 1885,524 1883,524 1834,535 1828,537 1682,537 1678,533 1651,524 1649,524 1647,524 1645,524 1618,533 1612,535 1600,533 1532,524 1530,524 1458,533 1438,535 1409,533 1308,524 1306,524 1265,533 1249,537 1056,537 1043,531 1019,524 1017,524 1015,524 967,531 939,535 924,531 906,526 904,526 902,526 852,531 807,535 799,531 789,524 787,524 785,524 783,524 715,529 660,537 526,537 508,529 491,524 489,524 487,524 485,524 483,524 475,529 464,535 448,529 434,524 432,524 430,524 428,524 415,529 401,533 294,529 294,574"/>
+        <Baseline points="294,574 2185,574"/>
+        <TextEquiv>
+          <Unicode>ið teir hava verið burtur í haga at rekta seyð har, hvar norðurhavið er</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_663c9526" custom="structure {type:default;}">
+        <Coords points="294,679 1878,676 1881,650 1873,602 1836,611 1364,605 1060,603 1058,603 1056,603 1043,609 1035,613 881,611 378,603 376,603 374,603 343,613 311,603 310,603 308,603 306,603 304,603 292,611 294,654"/>
+        <Baseline points="294,654 1881,650"/>
+        <TextEquiv>
+          <Unicode>haft í eygsjón. Ei er tí at undrast á, um Mikinesmenn eru í</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5c0153df" custom="structure {type:default;}">
+        <Coords points="293,759 2160,752 2162,726 2156,678 1670,687 1639,681 1618,678 1616,678 1583,681 1534,689 1353,683 1171,679 1169,679 1045,687 1004,689 988,687 931,679 930,679 928,679 926,679 912,689 908,691 896,689 861,681 859,681 512,691 473,681 471,681 469,681 421,691 329,681 327,681 325,681 292,693 294,732"/>
+        <Baseline points="294,732 2162,726"/>
+        <TextEquiv>
+          <Unicode>døpurhuga, tá ið tíðindi berast út til teirra, at onkur aftur hevur sæð</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_669dae48" custom="structure {type:default;}">
+        <Coords points="293,839 2175,831 2179,806 2173,757 2107,767 2088,757 2086,757 2084,757 2043,757 1659,767 1637,761 1627,757 1626,757 1624,757 1622,757 1620,757 1616,761 1604,769 1438,769 1356,763 1253,757 1251,757 1199,763 1162,769 1152,765 1142,759 1140,759 1138,759 1089,765 1052,769 990,765 881,759 879,759 764,767 735,769 725,767 684,759 682,759 680,759 678,759 664,769 660,771 454,771 421,771 310,759 308,759 306,759 304,759 292,765 294,810"/>
+        <Baseline points="294,810 2179,806"/>
+        <TextEquiv>
+          <Unicode>hesa oynna; - hvør veit, um risin livir ikki enn og kann søkkja Mikines</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_30cb760f" custom="structure {type:default;}">
+        <Coords points="294,909 364,921 366,921 368,921 397,911 647,911 680,923 682,923 684,923 793,911 877,923 879,923 1041,909 1064,909 1091,909 1275,921 1277,921 1278,921 1312,909 1317,909 1462,909 1466,909 1489,921 1491,921 1493,921 1692,919 1737,909 1754,907 1776,909 1834,919 1836,919 2175,909 2175,882 2170,841 292,841 294,888"/>
+        <Baseline points="294,888 2175,882"/>
+        <TextEquiv>
+          <Unicode>í kav fyri at fáa oynna fyri norðan flutta suður og festa, hvar hann vil</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c1e37005" custom="structure {type:default;}">
+        <Coords points="296,999 380,987 423,999 432,1001 434,1001 436,1001 528,999 530,999 538,995 559,985 629,993 684,999 686,999 688,999 690,999 699,991 705,987 826,987 825,960 829,916 294,917 296,964"/>
+        <Baseline points="296,964 813,960"/>
+        <TextEquiv>
+          <Unicode>hava hana at vera?</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_97c7a640"  custom="structure {type:text;}">
+      <Coords points="2131,3031 2197,3039 2212,3084 2189,3123 2105,3115 2097,3070 2131,3031"/>
+      <TextLine id="eSc_line_c125efd8" custom="structure {type:default;}">
+        <Coords points="2120,3045 2120,3094 2120,3124 2184,3132 2187,3094 2187,3039 2146,3033 2120,3045"/>
+        <Baseline points="2121,3095 2190,3095"/>
+        <TextEquiv>
+          <Unicode>93</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

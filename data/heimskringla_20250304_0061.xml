@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-03-07T13:34:24.143314+00:00</Created>
+        <LastChange>2025-03-09T21:23:05.974657+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="heimskringla_20250304_0061.png" imageWidth="2480" imageHeight="3507">
+    <TextRegion id="eSc_textblock_dee76e0a"  custom="structure {type:text;}">
+      <Coords points="368,288 2049,296 2197,374 2197,691 2150,865 2173,950 2158,1174 2127,1260 2002,1332 2012,1426 2189,1472 2173,2094 2119,2172 2041,2197 2074,2236 2142,2244 2173,2291 2158,2421 2049,2564 2166,2649 2197,2719 2150,2920 1434,2943 1378,2998 1222,3006 288,2990 280,514 288,374 311,319 368,288"/>
+      <TextLine id="eSc_line_2058d7b8" custom="structure {type:default;}">
+        <Coords points="1680,294 1665,294 1645,294 1626,294 1610,292 1585,292 1583,292 1499,301 1487,303 339,303 341,348 341,370 2066,372 2068,342 2064,303 2056,300"/>
+        <Baseline points="341,348 2068,342"/>
+        <TextEquiv>
+          <Unicode>Uppi á reynunum við Kirkjubø búði ein huldumaður. Símun visti av</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_782675ea" custom="structure {type:default;}">
+        <Coords points="292,442 2186,445 2187,418 2187,374 292,374 292,418"/>
+        <Baseline points="292,418 2187,418"/>
+        <TextEquiv>
+          <Unicode>honum, tí hann hevði sæð hulduseyð ganga í haganum hjá sær, og verið</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bf0d887f" custom="structure {type:default;}">
+        <Coords points="292,511 2177,514 2181,490 2179,450 294,446 294,487"/>
+        <Baseline points="294,487 2181,490"/>
+        <TextEquiv>
+          <Unicode>varur við, at huldumaðurin rak Kirkjubøseyðin burtur av tí góða grasinum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7bf5ec34" custom="structure {type:default;}">
+        <Coords points="294,592 1994,592 1996,561 1992,522 1431,512 1429,512 1427,512 1425,512 1411,522 419,516 417,516 292,526 294,566"/>
+        <Baseline points="294,566 1996,561"/>
+        <TextEquiv>
+          <Unicode>upp í tey mest grýtutu reynini, so at stór fylgi av hesum seyðinum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9e3dbca9" custom="structure {type:default;}">
+        <Coords points="294,659 2131,658 2132,635 2129,592 358,588 356,588 292,598 294,639"/>
+        <Baseline points="294,639 2132,635"/>
+        <TextEquiv>
+          <Unicode>soltnaði upp í deyðarak, meðan hulduseyðurin var feitur. Símun lovaði,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8a29ad3d" custom="structure {type:default;}">
+        <Coords points="292,731 2178,736 2181,711 2179,672 294,668 294,707"/>
+        <Baseline points="294,707 2181,711"/>
+        <TextEquiv>
+          <Unicode>at fekk hann fatur á huldumanninum, skuldi hann løna honum hetta aftur.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ae47c11a" custom="structure {type:default;}">
+        <Coords points="338,810 2115,807 2117,779 2113,742 1980,730 1978,730 1976,730 1975,730 1959,742 1705,742 1651,730 1649,730 1647,730 1624,740 1546,730 1544,730 1417,740 1355,730 1353,730 1351,730 1349,730 1333,740 1218,732 1216,732 1214,732 1193,742 1191,742 1064,732 1062,732 787,742 625,732 623,732 621,732 590,742 569,732 567,732 354,732 352,732 350,732 348,732 337,738 339,783"/>
+        <Baseline points="339,783 2117,779"/>
+        <TextEquiv>
+          <Unicode>Ein dagin, ið Símun var útrógvin, kom óført veður á hann, so tað var</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f78a1134" custom="structure {type:default;}">
+        <Coords points="294,872 2043,868 2045,851 2041,814 292,812 294,855"/>
+        <Baseline points="294,855 2045,851"/>
+        <TextEquiv>
+          <Unicode>ikki meira enn at teir slitu til lands aftur. Har sá Símun huldumannin</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1b2bd19e" custom="structure {type:default;}">
+        <Coords points="292,941 317,952 319,952 318,956 2145,957 2148,929 2146,888 294,884 294,925"/>
+        <Baseline points="294,925 2148,929"/>
+        <TextEquiv>
+          <Unicode>standa fyri sær í fjøruni, og Símun fór straks á hann. Teir bardust leingi,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d1da31dc" custom="structure {type:default;}">
+        <Coords points="291,1028 2120,1029 2119,997 2115,958 1774,948 1772,948 1727,958 1725,958 1705,948 1704,948 1702,948 1700,948 1698,948 1684,958 1682,960 1550,960 1550,958 1509,948 1507,948 1505,948 1458,960 1452,960 1448,960 1423,950 1421,950 1419,950 1417,950 1397,960 1395,960 1380,960 1271,950 1269,950 1197,960 1191,960 1181,960 1062,950 1060,950 1006,960 1004,960 996,960 729,952 727,952 596,962 586,962 579,962 497,952 495,952 493,952 464,962 462,964 290,964 292,1003"/>
+        <Baseline points="292,1003 2119,997"/>
+        <TextEquiv>
+          <Unicode>og umsíðir vann bóndin og ætlaði at drepa huldumannin. Tó gav hann</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fbc7c7e5" custom="structure {type:default;}">
+        <Coords points="292,1100 2150,1101 2152,1071 2148,1032 1222,1022 1220,1022 1218,1022 1187,1032 304,1024 302,1024 300,1024 298,1024 290,1030 292,1075"/>
+        <Baseline points="292,1075 2152,1071"/>
+        <TextEquiv>
+          <Unicode>honum lív og grið, tá ið huldumaðurin játtaði Símuni at fara úr Streymoy</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b7a0ddd2" custom="structure {type:default;}">
+        <Coords points="292,1159 313,1169 315,1169 317,1169 723,1169 861,1170 863,1170 1417,1161 1419,1147 1419,1108 1390,1096 1388,1096 1386,1096 1236,1106 1234,1106 1162,1096 1160,1096 1158,1096 1134,1106 1130,1106 1041,1096 1039,1096 1037,1096 1035,1096 1025,1106 1023,1108 898,1108 894,1106 857,1094 855,1094 853,1094 795,1106 783,1106 620,1106 618,1104 602,1094 600,1094 598,1094 596,1094 594,1094 573,1104 571,1106 465,1106 465,1104 456,1096 456,1094 454,1094 452,1094 450,1094 294,1102 294,1143"/>
+        <Baseline points="294,1143 1419,1147"/>
+        <TextEquiv>
+          <Unicode>við øllum sínum og ikki seta fótin har oftari.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_21fd3af4" custom="structure {type:default;}">
+        <Coords points="342,1249 2115,1249 2113,1215 2107,1174 339,1176 341,1221"/>
+        <Baseline points="341,1221 2113,1215"/>
+        <TextEquiv>
+          <Unicode>Huldumaðurin gekk undir hetta, hvarv haðani, og fór tá í kambin yvir</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a52c55c6" custom="structure {type:default;}">
+        <Coords points="292,1293 292,1305 368,1317 370,1319 506,1319 506,1317 508,1317 510,1317 526,1307 791,1317 793,1317 795,1317 816,1305 816,1293 816,1254 688,1254 653,1241 651,1241 649,1241 647,1241 614,1252 602,1241 600,1241 598,1241 551,1241 549,1241 547,1241 545,1241 545,1243 534,1254 489,1254 464,1241 462,1241 460,1241 458,1241 432,1252 378,1241 376,1241 374,1241 372,1241 358,1252 313,1241 311,1241 310,1241 308,1241 306,1241 292,1248 292,1293"/>
+        <Baseline points="292,1293 816,1293"/>
+        <TextEquiv>
+          <Unicode>Fróðabø í Suðuroy.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5b9c1986" custom="structure {type:default;}">
+        <Coords points="343,1391 1956,1394 1961,1365 1957,1324 345,1317 347,1367"/>
+        <Baseline points="347,1367 1961,1365"/>
+        <TextEquiv>
+          <Unicode>Teir ið vóru hjá huldumanninum, eggjaðu hann at bøta aftur ta</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_15cdb537" custom="structure {type:default;}">
+        <Coords points="293,1467 1857,1467 1858,1439 1858,1400 294,1400 294,1439"/>
+        <Baseline points="294,1439 1858,1439"/>
+        <TextEquiv>
+          <Unicode>skommina, Símun hevði gjørt honum, og at hevnast á hann.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_286c7b8a" custom="structure {type:default;}">
+        <Coords points="292,1467 292,1509 291,1536 2170,1543 2177,1513 2175,1467 2170,1467"/>
+        <Baseline points="292,1509 2177,1513"/>
+        <TextEquiv>
+          <Unicode>Huldumaðurin1 var treyður at lurta eftir hesum, tí at hann hevði lovað ikki</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a84df829" custom="structure {type:default;}">
+        <Coords points="293,1614 1047,1613 1048,1585 1048,1546 294,1545 294,1585"/>
+        <Baseline points="294,1585 1048,1585"/>
+        <TextEquiv>
+          <Unicode>at koma til Streymoyar aftur.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a5f54171" custom="structure {type:default;}">
+        <Coords points="338,1681 2175,1683 2179,1656 2175,1617 2029,1617 2029,1615 2006,1605 2004,1605 2002,1605 1922,1615 1916,1617 1629,1617 1626,1615 1608,1605 1606,1605 1604,1605 1522,1613 1505,1615 1503,1613 1485,1605 1483,1605 1321,1605 1319,1605 1277,1613 1253,1619 1062,1619 1048,1613 1035,1607 1033,1607 1031,1607 1002,1613 974,1617 337,1611 339,1659"/>
+        <Baseline points="339,1659 2179,1656"/>
+        <TextEquiv>
+          <Unicode>Umsíður fann hann eitt ráð, sum dugdi. Við norðasta endan av Sandoy</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_897469c8" custom="structure {type:default;}">
+        <Coords points="290,1741 317,1753 319,1753 329,1756 1947,1757 1949,1732 1947,1693 1793,1693 1793,1691 1770,1681 1768,1681 1766,1681 1659,1691 1645,1691 1633,1691 1559,1681 1355,1681 1353,1681 1351,1681 1349,1681 1337,1689 1333,1691 1298,1689 1191,1681 1189,1681 1074,1687 1043,1689 1037,1687 1011,1679 1009,1679 1007,1679 970,1687 961,1689 941,1687 877,1679 760,1679 758,1679 756,1679 754,1679 746,1687 740,1689 703,1685 625,1679 623,1679 621,1679 600,1685 588,1689 581,1685 569,1679 567,1679 565,1679 563,1679 549,1685 540,1689 528,1685 510,1679 508,1679 506,1679 504,1679 493,1685 483,1689 292,1685 292,1728"/>
+        <Baseline points="292,1728 1949,1732"/>
+        <TextEquiv>
+          <Unicode>liggur ein hólmur, Trøllhøvdi, sum hoyrir til Kirkjubøar. Á hesum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2dbdbb5a" custom="structure {type:default;}">
+        <Coords points="292,1829 2132,1833 2129,1804 2129,1765 292,1761 292,1804"/>
+        <Baseline points="292,1804 2129,1804"/>
+        <TextEquiv>
+          <Unicode>hólminum hava teir nú, sum áður, seyð og stundum oksar og geldneyt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_990f2032" custom="structure {type:default;}">
+        <Coords points="290,1902 1914,1910 1918,1880 1916,1837 292,1833 292,1876"/>
+        <Baseline points="292,1876 1918,1880"/>
+        <TextEquiv>
+          <Unicode>Huldumaðurin tók nú ein oksa og slepti honum út í Trøllhøvda.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a83b5f39" custom="structure {type:default;}">
+        <Coords points="341,1975 2161,1981 2162,1950 2158,1909 339,1905 341,1954"/>
+        <Baseline points="341,1954 2162,1950"/>
+        <TextEquiv>
+          <Unicode>Símun kemur út í høvda og sær henda gráa oksan, sum hann átti ikki.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eed97f83" custom="structure {type:default;}">
+        <Coords points="292,2046 2169,2053 2170,2020 2166,1977 290,1977 292,2026"/>
+        <Baseline points="292,2026 2170,2020"/>
+        <TextEquiv>
+          <Unicode>Hann beyð oksan fram trý ár upp í slag á Ólavsøkutingi, men eingin vildi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_70fbe89b" custom="structure {type:default;}">
+        <Coords points="292,2122 2117,2122 2119,2092 2115,2055 290,2049 292,2096"/>
+        <Baseline points="292,2096 2119,2092"/>
+        <TextEquiv>
+          <Unicode>kanna sær oksan. Triðu ferðina segði hann á tinginum, at hann sjálvur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_14750488" custom="structure {type:default;}">
+        <Coords points="295,2194 1857,2197 1860,2172 1858,2133 1717,2121 1715,2121 1588,2131 1579,2131 1577,2131 1555,2121 1553,2121 1551,2121 1409,2131 1388,2131 1384,2131 1360,2121 1358,2121 1356,2121 1312,2129 1304,2131 1300,2129 1282,2121 1280,2121 1278,2121 1277,2121 1259,2129 1255,2131 1019,2131 1017,2129 1006,2119 1004,2119 1002,2119 1000,2119 947,2129 939,2131 826,2131 822,2129 805,2119 803,2119 801,2119 758,2127 748,2129 733,2127 660,2119 658,2119 657,2119 637,2127 631,2131 493,2131 489,2127 479,2119 477,2119 475,2119 473,2119 471,2119 446,2127 438,2129 428,2127 403,2119 401,2119 399,2119 296,2125 296,2168"/>
+        <Baseline points="296,2168 1860,2172"/>
+        <TextEquiv>
+          <Unicode>vildi taka og drepa hann nú, so sum eingin tóktist eiga hann.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f73793ae" custom="structure {type:default;}">
+        <Coords points="337,2269 1976,2273 1976,2244 1977,2195 335,2194 337,2244"/>
+        <Baseline points="337,2244 1976,2244"/>
+        <TextEquiv>
+          <Unicode>Jón Ísaksson úr Skúvoy, sum var skipaður at siga fyri minnið á</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_41f064a2" custom="structure {type:default;}">
+        <Coords points="292,2343 2156,2343 2156,2314 2156,2271 292,2271 292,2314"/>
+        <Baseline points="292,2314 2156,2314"/>
+        <TextEquiv>
+          <Unicode>hvørjum tingi, ráddi Símuni at lata oksan ganga. Sá, ið hevði sett hann í</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ffd24c88" custom="structure {type:default;}">
+        <Coords points="289,2414 2139,2418 2142,2386 2138,2347 1232,2338 1230,2338 1228,2338 1226,2338 1212,2347 1210,2349 290,2349 292,2390"/>
+        <Baseline points="292,2390 2142,2386"/>
+        <TextEquiv>
+          <Unicode>høvdan, mundi væl taka hann aftur (tí hann grunaði tað, at huldumaður</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9d53edf3" custom="structure {type:default;}">
+        <Coords points="295,2488 2054,2493 2056,2458 2053,2421 290,2415 292,2462"/>
+        <Baseline points="292,2462 2056,2458"/>
+        <TextEquiv>
+          <Unicode>átti oksan). Símun gav ikki hesum gætur, um heystið vildi hann taka</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b5df36c7" custom="structure {type:default;}">
+        <Coords points="292,2536 292,2550 467,2550 467,2534 464,2499 290,2486 292,2536"/>
+        <Baseline points="292,2536 467,2534"/>
+        <TextEquiv>
+          <Unicode>hann.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_31d85090" custom="structure {type:default;}">
+        <Coords points="337,2636 2006,2635 2008,2604 2004,2562 335,2562 337,2610"/>
+        <Baseline points="337,2610 2008,2604"/>
+        <TextEquiv>
+          <Unicode>Ein morgun snimma um veturnætur fer Símun upp og vekir allar</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fbb860b3" custom="structure {type:default;}">
+        <Coords points="291,2704 2136,2709 2136,2680 2136,2639 292,2638 292,2680"/>
+        <Baseline points="292,2680 2136,2680"/>
+        <TextEquiv>
+          <Unicode>húskallar at fara við sær út í høvda. Allir vóru teir fúsir til tess, uttan ein</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5f59c787" custom="structure {type:default;}">
+        <Coords points="292,2780 2181,2784 2183,2749 2179,2710 922,2702 920,2702 918,2702 894,2712 419,2704 417,2704 290,2714 292,2754"/>
+        <Baseline points="292,2754 2183,2749"/>
+        <TextEquiv>
+          <Unicode>sum búði úti á Bø og kallaðist Trøllabárður. Hann segðist ikki troysta sær</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_061f0b51" custom="structure {type:default;}">
+        <Coords points="292,2844 1448,2844 1448,2828 1448,2790 1046,2778 1045,2778 793,2788 729,2778 727,2778 725,2778 723,2778 723,2780 713,2790 565,2790 514,2778 512,2778 510,2778 508,2778 508,2780 499,2790 409,2790 343,2778 341,2778 292,2788 292,2828"/>
+        <Baseline points="292,2828 1448,2828"/>
+        <TextEquiv>
+          <Unicode>at fara við, men Símun svaraði honum aftur:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7749a34f" custom="structure {type:default;}">
+        <Coords points="356,2927 2138,2926 2140,2897 2136,2858 354,2852 356,2901"/>
+        <Baseline points="356,2901 2140,2897"/>
+        <TextEquiv>
+          <Unicode>&quot;Tað man eingin ilska vera ið tær brekar, bannaður trøllaskortur, men</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4aadb95b" custom="structure {type:default;}">
+        <Coords points="289,2972 298,3013 304,3004 321,3013 324,3016 327,3016 330,3016 333,3016 403,3013 558,3001 813,3007 1199,3016 1201,3016 1204,3016 1207,3016 1207,3013 1222,3001 1374,3001 1377,2969 1368,2916 286,2925 289,2972"/>
+        <Baseline points="290,2975 1378,2971"/>
+        <TextEquiv>
+          <Unicode>eitthvørt ilt man vera komið fyri teg í nátt.&quot;</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_708c3b4b"  custom="structure {type:text;}">
+      <Coords points="2131,3093 2197,3109 2189,3169 2105,3169 2097,3117 2131,3093"/>
+      <TextLine id="eSc_line_be2d997d" custom="structure {type:default;}">
+        <Coords points="2105,3107 2105,3109 2109,3156 2109,3170 2187,3171 2187,3152 2187,3112 2170,3101"/>
+        <Baseline points="2109,3156 2186,3157"/>
+        <TextEquiv>
+          <Unicode>57</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

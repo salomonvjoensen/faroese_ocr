@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-03-07T13:34:31.216573+00:00</Created>
+        <LastChange>2025-03-10T21:50:04.620705+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="heimskringla_20250304_0070.png" imageWidth="2480" imageHeight="3507">
+    <TextRegion id="eSc_textblock_dae6fca9"  custom="structure {type:text;}">
+      <Coords points="368,288 2173,303 2197,327 2181,496 2111,691 2205,771 2205,995 1029,1026 824,1081 319,1081 304,413 368,288"/>
+      <TextLine id="eSc_line_84670023" custom="structure {type:default;}">
+        <Coords points="2171,305 382,296 382,342 381,372 2183,386 2185,350 2183,315 2173,307"/>
+        <Baseline points="382,342 2185,350"/>
+        <TextEquiv>
+          <Unicode>Tá prestur fer út, smellir hann hurðina aftur eftir sær. Allir ganga oman</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_98f391a0" custom="structure {type:default;}">
+        <Coords points="316,454 2158,467 2160,428 2158,393 1824,379 1822,379 1754,391 1744,391 1733,391 1626,377 1624,377 1567,389 1565,389 1503,377 1501,377 1499,377 1497,377 1479,389 1477,391 1259,391 1253,389 1210,376 1208,376 1206,376 1204,376 1202,376 1185,387 1148,376 1146,376 1144,376 1054,385 1019,376 1017,376 1015,376 1013,376 1011,376 998,385 970,376 968,376 967,376 965,376 963,376 945,387 943,387 912,377 910,377 908,377 818,387 805,387 801,387 774,374 772,374 770,374 768,374 731,385 729,385 557,376 555,376 553,376 522,385 518,385 516,385 465,374 464,374 319,383 319,420"/>
+        <Baseline points="319,420 2160,428"/>
+        <TextEquiv>
+          <Unicode>at bátinum, sum liggur inni fyri látrinum, og verða tiknir inn. Tá ið teir eru</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_031bea77" custom="structure {type:default;}">
+        <Coords points="321,534 2152,540 2154,506 2152,467 1984,467 1980,465 1959,455 1957,455 1955,455 1953,455 1924,463 1918,465 1906,463 1854,455 1852,455 1850,455 1828,463 1821,467 1581,467 1571,461 1565,455 1563,455 1561,455 1559,455 1273,457 898,461 885,453 881,452 879,452 877,452 875,452 859,453 820,461 805,453 801,452 799,452 797,452 738,453 481,461 458,452 456,452 454,452 380,461 323,450 323,500"/>
+        <Baseline points="323,500 2154,506"/>
+        <TextEquiv>
+          <Unicode>komnir nakað lítið frá landi, biður prestur teir støðga eitt sindur. Sum teir</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6b5cc82b" custom="structure {type:default;}">
+        <Coords points="319,592 345,605 347,605 354,611 671,611 740,607 742,607 1019,598 1043,609 1045,609 1052,615 1704,602 1718,616 1746,616 1757,619 2097,617 2101,588 2099,549 2017,537 2015,537 1912,547 1898,547 1895,547 1871,537 1869,537 1867,537 1865,537 1846,545 1842,547 1834,545 1791,537 1789,537 1787,537 1756,545 1746,547 1735,545 1698,535 1696,535 1694,535 1594,543 1567,545 1524,543 1370,533 1368,533 1158,539 1035,543 984,537 916,531 914,531 887,537 867,541 809,537 740,531 738,531 736,531 723,535 709,541 694,535 678,529 676,529 674,529 612,535 561,539 321,533 321,578"/>
+        <Baseline points="321,578 2101,588"/>
+        <TextEquiv>
+          <Unicode>liggja, hoyrist buldur, nístan og pípan inni frá hellinum. Bergið sígur fast</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_790d5d16" custom="structure {type:default;}">
+        <Coords points="321,672 497,674 514,685 516,685 518,685 520,685 522,685 547,676 567,676 844,676 853,678 900,687 902,687 1058,678 1087,678 1105,679 1171,687 1173,687 1259,679 1296,678 1380,681 1551,689 1553,689 1585,683 1600,679 1608,683 1622,689 1624,689 1626,689 2041,685 2043,664 2041,625 323,619 323,658"/>
+        <Baseline points="323,658 2043,664"/>
+        <TextEquiv>
+          <Unicode>saman um teir heidnu, og prestur rúnarbindur tað, so trøllini verða at</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a1669aa9" custom="structure {type:default;}">
+        <Coords points="315,748 389,763 397,766 629,764 631,736 631,701 606,687 604,687 506,687 504,687 503,687 501,687 501,689 489,699 387,699 384,697 360,685 358,685 356,685 317,693 317,732"/>
+        <Baseline points="317,732 631,736"/>
+        <TextEquiv>
+          <Unicode>doyggja inni.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_13757112" custom="structure {type:default;}">
+        <Coords points="365,846 2191,851 2197,818 2195,777 2144,765 2142,765 2140,765 2138,765 2121,775 2121,777 1984,777 1982,775 1963,765 1961,765 1959,765 1904,775 1898,775 1858,775 1456,763 1306,763 1304,763 1302,763 1300,763 1288,773 1286,773 1275,773 1202,763 1201,763 1158,771 1148,773 1138,771 1107,763 1105,763 1103,763 1043,771 1023,773 980,771 834,761 832,761 370,767 370,812"/>
+        <Baseline points="370,812 2197,818"/>
+        <TextEquiv>
+          <Unicode>Nú kunnu teir fara og vitja látrið í guds friði, tá teir vilja: einki skal verða</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a418e217" custom="structure {type:default;}">
+        <Coords points="399,913 401,913 586,905 596,905 608,915 610,915 612,915 646,924 1705,932 1709,896 1705,847 1466,857 1434,845 1433,845 1431,845 1421,845 1173,855 1148,843 1146,843 1144,843 1126,843 881,853 814,841 809,841 807,841 805,841 803,841 783,851 635,841 633,841 631,841 629,841 602,851 395,841 393,841 354,849 325,839 323,886 321,902"/>
+        <Baseline points="323,886 1709,896"/>
+        <TextEquiv>
+          <Unicode>teimum at skaða, sigur prestur. Og einki heldur, ið varð.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9963d619" custom="structure {type:default;}">
+        <Coords points="370,995 467,1011 469,1011 670,997 707,995 713,997 736,1009 738,1009 740,1009 809,997 816,997 828,997 982,1013 1466,1017 1468,1017 1791,1001 1803,1001 1807,1001 1928,1018 1930,1018 1932,1018 1986,1003 2193,1003 2195,976 2195,937 2158,925 2156,925 2154,925 1887,935 1846,935 1844,933 1830,923 1828,923 1826,923 1604,923 1602,923 1600,923 1569,933 1563,933 1559,933 1526,923 1524,923 1522,923 1362,931 1341,931 1339,931 1325,921 1323,921 1321,921 1319,921 1236,929 1218,931 1210,929 1177,921 1175,921 1173,921 1171,921 1152,929 1146,931 1138,929 1101,919 1099,919 1097,919 1095,919 1070,929 1068,929 1060,929 988,919 986,919 947,927 939,929 916,927 814,919 813,919 811,919 787,927 779,929 770,927 736,917 735,917 733,917 372,923 372,966"/>
+        <Baseline points="372,966 2195,976"/>
+        <TextEquiv>
+          <Unicode>Eini tvey ár eftir hetta leyp &quot;Urðin Nýggja&quot; niður fyri látrið, og tað skuldu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e4b63369" custom="structure {type:default;}">
+        <Coords points="360,1081 362,1081 364,1081 366,1081 399,1069 405,1069 454,1069 460,1071 471,1081 473,1081 475,1081 477,1081 534,1080 571,1069 820,1081 822,1046 822,1007 807,999 805,999 803,999 801,999 799,999 770,1009 723,999 721,999 719,999 701,1007 697,1009 690,1007 647,999 645,999 643,999 627,1007 621,1011 487,1011 479,1003 477,1001 477,999 475,999 473,999 407,999 405,999 395,1001 358,1009 325,999 323,1046 323,1067"/>
+        <Baseline points="323,1046 822,1046"/>
+        <TextEquiv>
+          <Unicode>trøllini gera í hevnd.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_e13bf570"  custom="structure {type:text;}">
+      <Coords points="2146,3117 2212,3140 2205,3201 2105,3193 2105,3140 2146,3117"/>
+      <TextLine id="eSc_line_f01f434a" custom="structure {type:default;}">
+        <Coords points="2184,3129 2155,3121 2126,3127 2126,3176 2126,3214 2193,3214 2193,3176 2193,3132 2184,3129"/>
+        <Baseline points="2128,3179 2194,3179"/>
+        <TextEquiv>
+          <Unicode>66</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

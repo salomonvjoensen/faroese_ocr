@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-03-02T11:45:12.534371+00:00</Created>
+        <LastChange>2025-03-08T23:03:11.812688+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="heimskringla_20250304_0004.png" imageWidth="2480" imageHeight="3507">
+    <TextRegion id="eSc_textblock_aed5f3b7"  >
+      <Coords points="1645,569 1645,627 1747,627 1747,569"/>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <TextLine id="eSc_line_7624e8ee" custom="structure {type:default;}">
+        <Coords points="1126,348 1107,348 1101,348 1082,358 982,348 980,348 978,348 976,348 976,350 967,358 875,350 873,350 871,350 869,350 869,352 859,360 809,352 807,352 733,362 657,352 655,352 559,364 503,354 501,354 499,354 497,354 495,354 483,377 485,403 485,418 631,428 633,428 692,416 694,416 696,416 705,426 707,426 709,426 711,426 840,414 852,414 857,414 928,424 930,424 931,424 933,424 945,413 947,413 961,413 1060,422 1062,422 1236,409 1238,393 1234,358 1130,348 1126,348"/>
+        <Baseline points="485,403 1238,393"/>
+        <TextEquiv>
+          <Unicode>Skeggjatussin (A) – Pápaleysi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7c16ff5c" custom="structure {type:default;}">
+        <Coords points="1652,391 1652,414 1731,417 1734,391 1734,336 1652,333 1652,391"/>
+        <Baseline points="1655,393 1724,392 1737,392"/>
+        <TextEquiv>
+          <Unicode>126</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cd13e3d2" custom="structure {type:default;}">
+        <Coords points="491,508 491,535 1085,535 1085,533 1087,533 1089,533 1099,526 1101,524 1132,524 1298,531 1300,531 1386,522 1450,529 1452,529 1505,518 1505,498 1501,461 1101,452 1099,452 1045,463 894,453 892,453 840,465 816,455 814,455 813,455 811,455 809,455 795,467 781,467 674,467 655,457 653,457 651,457 559,467 512,457 510,457 508,457 489,465 491,508"/>
+        <Baseline points="491,508 1505,498"/>
+        <TextEquiv>
+          <Unicode>Skeggjatussin (B) - Trøllið hjá Pápaleysa</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_362ddfb8" custom="structure {type:default;}">
+        <Coords points="1649,499 1649,520 1740,520 1740,499 1740,447 1649,438 1649,499"/>
+        <Baseline points="1651,500 1741,500"/>
+        <TextEquiv>
+          <Unicode>128</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2183f3a4" custom="structure {type:default;}">
+        <Coords points="487,617 487,637 766,644 768,644 770,644 797,635 891,642 892,642 951,631 953,629 994,629 1136,629 1201,639 1202,639 1259,629 1321,637 1323,637 1325,637 1358,623 1358,605 1353,563 485,572 487,617"/>
+        <Baseline points="487,617 1358,605"/>
+        <TextEquiv>
+          <Unicode>Skeggjatussin (C) - Skræddi Kjálki</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_648968a6" >
+        <Coords points="1649,604 1649,625 1740,625 1740,604 1740,552 1649,552 1649,604"/>
+        <Baseline points="1651,607 1743,606"/>
+        <TextEquiv>
+          <Unicode>131</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cc0c7a60" custom="structure {type:default;}">
+        <Coords points="493,718 493,744 565,744 590,755 592,755 594,755 666,746 684,759 686,759 688,759 690,761 750,761 750,759 830,744 935,757 937,757 939,757 968,742 996,752 998,752 1000,752 1087,742 1121,755 1123,755 1124,755 1126,755 1158,740 1241,750 1243,750 1245,750 1247,750 1267,738 1267,713 1263,676 1089,666 1087,666 491,678 493,718"/>
+        <Baseline points="493,718 1267,713"/>
+        <TextEquiv>
+          <Unicode>Skeggjatussin (D) - Snerkti risi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9165d565" custom="structure {type:default;}">
+        <Coords points="1655,735 1746,735 1746,710 1748,666 1655,668 1652,710"/>
+        <Baseline points="1655,713 1742,712"/>
+        <TextEquiv>
+          <Unicode>133</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a15ba7eb" custom="structure {type:default;}">
+        <Coords points="495,822 493,849 594,849 627,865 649,874 651,874 735,876 738,826 738,787 697,775 696,775 694,775 692,775 664,785 660,787 655,785 629,777 627,777 625,777 495,779 495,822"/>
+        <Baseline points="495,822 738,826"/>
+        <TextEquiv>
+          <Unicode>Stenbuk</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_901dfb66" custom="structure {type:default;}">
+        <Coords points="931,844 1031,844 1034,817 1036,777 928,776 924,815"/>
+        <Baseline points="925,818 1025,816"/>
+        <TextEquiv>
+          <Unicode>134</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

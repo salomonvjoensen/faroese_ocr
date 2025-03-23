@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-03-07T13:34:14.223505+00:00</Created>
+        <LastChange>2025-03-09T16:22:50.905157+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="heimskringla_20250304_0049.png" imageWidth="2480" imageHeight="3507">
+    <TextRegion id="eSc_textblock_4f60d7c2"  custom="structure {type:text;}">
+      <Coords points="321,288 2158,296 2158,387 2127,436 2150,722 2220,847 2173,1013 2189,1182 2072,1270 2095,1416 881,1447 701,1470 637,1509 311,1509 288,833 296,311 321,288"/>
+      <TextLine id="eSc_line_bd5342bc" custom="structure {type:default;}">
+        <Coords points="304,300 306,340 306,366 2150,362 2152,337 2148,300 321,292 319,292 317,292 315,292 304,300"/>
+        <Baseline points="306,340 2152,337"/>
+        <TextEquiv>
+          <Unicode>Kristinmanshundi stendur tap til, tí huldu-hundurin hevur helsi, sum forðar</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1e04b385" custom="structure {type:default;}">
+        <Coords points="305,431 2069,432 2072,413 2070,374 306,370 306,409"/>
+        <Baseline points="306,409 2072,413"/>
+        <TextEquiv>
+          <Unicode>hinum, so hann fær ikki bitið. Tá ið Jógvan sær hetta, setur hann stavin</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_98f5c62c" custom="structure {type:default;}">
+        <Coords points="305,506 2060,507 2064,483 2062,434 1969,434 1967,434 1965,434 1963,434 1947,444 1696,434 1657,434 1655,434 1643,434 1585,444 1548,436 1538,434 1536,434 1534,434 1532,434 1530,436 1514,446 1378,446 1345,436 1331,434 1329,434 1306,436 1245,444 1208,436 1181,432 1179,432 1152,438 1128,442 1103,438 1076,432 1074,432 306,440 306,479"/>
+        <Baseline points="306,479 2064,483"/>
+        <TextEquiv>
+          <Unicode>niður ímillun hálsin og helsið á hulduhundinun, so helsið brestur, og nú</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e2e12da5" custom="structure {type:default;}">
+        <Coords points="310,553 310,570 2123,572 2127,553 2125,516 310,516 310,553"/>
+        <Baseline points="310,553 2127,553"/>
+        <TextEquiv>
+          <Unicode>vinnur hansara hundur. So rúka menninir báðir saman at berjast. Jógvani</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1335ac57" custom="structure {type:default;}">
+        <Coords points="306,651 1794,649 1795,625 1791,580 350,580 348,580 304,590 306,629"/>
+        <Baseline points="306,629 1795,625"/>
+        <TextEquiv>
+          <Unicode>stendur tap til, men hundur hansara loypir í knæsbøturnar á</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1ceeadb6" custom="structure {type:default;}">
+        <Coords points="306,701 306,716 2131,718 2134,695 2131,658 1910,658 1889,646 1887,646 1885,646 1522,658 1446,648 1444,648 1132,658 949,648 947,648 891,660 863,650 861,650 859,650 631,660 610,650 608,650 606,650 343,658 323,650 321,650 319,650 317,650 315,650 304,658 306,701"/>
+        <Baseline points="306,701 2134,695"/>
+        <TextEquiv>
+          <Unicode>huldumanninun, og tá verður Jógvan við yvirlutan og drepur huldumannin.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1aaad6f5" custom="structure {type:default;}">
+        <Coords points="308,771 308,785 1641,785 1641,771 1641,732 308,732 308,771"/>
+        <Baseline points="308,771 1641,771"/>
+        <TextEquiv>
+          <Unicode>Síðan dró hann hann oman á Ennið og gróv hann har.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c39b4b99" custom="structure {type:default;}">
+        <Coords points="2199,816 2189,798 347,798 348,841 348,857 1271,867 1273,867 1333,857 1339,857 2207,857 2208,837 2207,831 2199,816"/>
+        <Baseline points="348,841 2208,837"/>
+        <TextEquiv>
+          <Unicode>Tá ið Jógvan kom aftur í Dalar, var hann ikki greiður at møta. Eingin tordi at</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9e804d60" custom="structure {type:default;}">
+        <Coords points="306,911 306,929 2162,925 2164,907 2158,868 304,874 306,911"/>
+        <Baseline points="306,911 2164,907"/>
+        <TextEquiv>
+          <Unicode>fara á fund hansara uttan Andras, hann tordi at møta honun, segði hann: tí</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6d53e4d4" custom="structure {type:default;}">
+        <Coords points="308,993 308,1011 2123,1005 2125,989 2119,946 306,948 308,993"/>
+        <Baseline points="308,993 2125,989"/>
+        <TextEquiv>
+          <Unicode>sær tordi Jógvan einki at gera. Hesin Andras var tiltikin, bæði firi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5669b886" custom="structure {type:default;}">
+        <Coords points="308,1098 1861,1101 1860,1071 1856,1028 1308,1017 1306,1017 1304,1017 1302,1017 1288,1026 1263,1017 1261,1017 1259,1017 1117,1026 1084,1017 1082,1017 1080,1017 994,1028 961,1018 959,1018 957,1018 518,1028 426,1018 425,1018 423,1018 384,1028 354,1018 352,1018 350,1018 348,1018 304,1030 306,1075"/>
+        <Baseline points="306,1075 1860,1071"/>
+        <TextEquiv>
+          <Unicode>stødd og styrki. Eitt løgboðið var tá í tíðini í Føroyum, at</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3837ed1a" custom="structure {type:default;}">
+        <Coords points="306,1155 306,1186 2177,1180 2179,1149 2173,1098 1692,1108 1627,1102 1588,1098 1587,1098 1585,1098 1573,1102 1550,1110 1454,1104 1401,1100 1399,1100 1397,1100 1388,1104 1374,1112 1109,1112 1080,1106 1033,1100 1031,1100 1029,1100 1013,1106 1006,1110 982,1108 930,1100 928,1100 861,1108 844,1110 826,1108 777,1102 775,1102 774,1102 772,1102 762,1110 756,1112 744,1110 711,1102 709,1102 707,1102 684,1110 676,1112 649,1110 559,1102 557,1102 481,1112 471,1112 464,1112 399,1102 397,1102 304,1112 306,1155"/>
+        <Baseline points="306,1155 2179,1149"/>
+        <TextEquiv>
+          <Unicode>neytagarður skuldi til hæddar vera undir hond á manni, men ikki á</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_98e1799a" custom="structure {type:default;}">
+        <Coords points="306,1237 306,1254 2021,1254 2021,1237 2021,1194 306,1194 306,1237"/>
+        <Baseline points="306,1237 2021,1237"/>
+        <TextEquiv>
+          <Unicode>Lítla Manni í Hesti og ikki á Andras í Lon í Vestmanna - tí Lítli</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f457d6b6" custom="structure {type:default;}">
+        <Coords points="310,1315 310,1332 986,1332 988,1332 1019,1342 1021,1342 1023,1342 1711,1332 1713,1319 1711,1276 1653,1264 1651,1264 1649,1264 1622,1274 1602,1264 1600,1264 1598,1264 1520,1274 1511,1274 1489,1274 1331,1264 1329,1264 1288,1272 1275,1274 1251,1272 1181,1264 1179,1264 1177,1264 1163,1272 1158,1274 1144,1272 1113,1264 1111,1264 1015,1270 978,1272 972,1270 957,1262 955,1262 953,1262 906,1270 885,1272 310,1266 310,1315"/>
+        <Baseline points="310,1315 1713,1319"/>
+        <TextEquiv>
+          <Unicode>Maður í Hesti var ov lítil og Andras í Lon ov stórur.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ea6df927" custom="structure {type:default;}">
+        <Coords points="354,1400 354,1426 696,1426 697,1426 711,1435 713,1435 715,1435 717,1435 719,1435 750,1426 752,1426 791,1435 793,1435 795,1435 873,1426 875,1426 889,1435 891,1435 892,1435 894,1435 896,1435 935,1426 937,1426 941,1426 1019,1435 1021,1435 1023,1435 1056,1426 1058,1426 1064,1426 1154,1435 1156,1435 1265,1426 1277,1426 2080,1426 2082,1396 2078,1354 352,1354 354,1400"/>
+        <Baseline points="354,1400 2082,1396"/>
+        <TextEquiv>
+          <Unicode>Men síðan ta tíð hevur deyðseyði verið pikkaður í Dølum sum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_903c3506" custom="structure {type:default;}">
+        <Coords points="308,1482 308,1513 354,1513 366,1523 366,1525 368,1525 370,1525 372,1525 645,1519 645,1482 645,1439 614,1430 612,1430 610,1430 608,1430 586,1439 567,1428 565,1428 563,1428 561,1428 514,1437 489,1428 487,1428 485,1428 483,1428 438,1439 352,1428 350,1428 348,1428 308,1439 308,1482"/>
+        <Baseline points="308,1482 645,1482"/>
+        <TextEquiv>
+          <Unicode>aðrastaðni.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_320fe34c"  custom="structure {type:text;}">
+      <Coords points="2138,3031 2212,3047 2197,3123 2105,3107 2105,3047 2138,3031"/>
+      <TextLine id="eSc_line_998802d1" custom="structure {type:default;}">
+        <Coords points="2178,3039 2120,3039 2120,3092 2117,3127 2199,3127 2202,3094 2196,3062 2178,3039"/>
+        <Baseline points="2123,3093 2203,3095"/>
+        <TextEquiv>
+          <Unicode>45</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

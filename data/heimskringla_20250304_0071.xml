@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-03-07T13:34:32.063388+00:00</Created>
+        <LastChange>2025-03-11T14:52:53.554122+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="heimskringla_20250304_0071.png" imageWidth="2480" imageHeight="3507">
+    <TextRegion id="eSc_textblock_935dbf2f"  custom="structure {type:text;}">
+      <Coords points="290,288 770,296 803,498 1152,514 1167,553 1128,590 740,590 553,621 426,748 512,810 512,870 434,948 350,964 350,997 2134,1028 2127,1221 2173,1254 2173,1315 2158,1533 2103,1611 1754,1626 1651,1689 1076,1704 1043,1722 1066,1876 988,1985 910,2032 965,2065 1021,2174 2127,2213 2134,2328 2189,2439 2158,2717 1815,2795 280,2788 272,2213 405,2180 413,1728 395,1696 272,1673 265,1052 319,980 272,870 265,319 290,288"/>
+      <TextLine id="eSc_line_cd22bf9b" custom="structure {type:default;}">
+        <Coords points="758,303 282,303 282,337 282,350 364,362 366,364 750,364 750,362 752,362 772,350 772,337 768,315 758,303"/>
+        <Baseline points="282,337 772,337"/>
+        <TextEquiv>
+          <Unicode>V. U. Hammershaimb</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d7562969" custom="structure {type:default;}">
+        <Coords points="283,436 766,440 766,411 766,377 280,377 280,411"/>
+        <Baseline points="280,411 766,411"/>
+        <TextEquiv>
+          <Unicode>Antiquarisk Tidsskrift</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a3928beb" custom="structure {type:default;}">
+        <Coords points="280,498 304,510 306,510 308,510 428,509 499,508 501,508 503,508 504,508 520,496 520,483 514,448 278,452 280,487"/>
+        <Baseline points="280,487 520,483"/>
+        <TextEquiv>
+          <Unicode>udgivet af</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_690d3e9c" custom="structure {type:default;}">
+        <Coords points="1146,520 280,520 280,559 280,576 306,588 308,588 310,588 370,578 395,588 397,588 399,590 577,590 577,588 579,588 581,588 590,578 592,578 610,578 717,588 719,588 779,580 801,578 822,580 873,588 875,588 918,582 941,578 1152,582 1154,559 1154,526 1146,520"/>
+        <Baseline points="280,559 1154,559"/>
+        <TextEquiv>
+          <Unicode>Det Kongelige Nordiske Oldtids-Selskab</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f167cfa4" custom="structure {type:default;}">
+        <Coords points="286,634 286,654 508,666 511,634 511,590 286,590 286,634"/>
+        <Baseline points="288,637 513,635"/>
+        <TextEquiv>
+          <Unicode>1849-1851</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d85616eb" custom="structure {type:default;}">
+        <Coords points="503,802 284,800 284,849 284,867 317,880 319,880 321,880 323,880 360,868 409,880 411,880 413,880 506,867 506,849 506,806 503,802"/>
+        <Baseline points="284,849 506,849"/>
+        <TextEquiv>
+          <Unicode>Trøllanes</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_caaac105" custom="structure {type:default;}">
+        <Coords points="2092,1026 2072,1026 2053,1026 2033,1026 2017,1024 278,1030 280,1067 281,1088 2118,1094 2119,1059 2113,1026 2111,1026"/>
+        <Baseline points="280,1067 2119,1059"/>
+        <TextEquiv>
+          <Unicode>So er sagt, at trøll fegin søkja hús hjá monnum, helst tá ið tey finnast tóm. Fyri</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_03803a0c" custom="structure {type:default;}">
+        <Coords points="282,1161 2092,1162 2093,1133 2090,1102 1189,1094 1187,1094 1185,1094 1162,1104 750,1096 748,1096 746,1096 744,1096 729,1106 364,1098 362,1098 280,1108 282,1141"/>
+        <Baseline points="282,1141 2093,1133"/>
+        <TextEquiv>
+          <Unicode>norðan Núgvunes á Borgardali í Mykinesi er bygt eitt hús fyri seyðamennirnar at</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ea1ae5e1" custom="structure {type:default;}">
+        <Coords points="285,1239 2070,1233 2072,1206 2068,1174 1893,1165 1891,1165 280,1178 282,1215"/>
+        <Baseline points="282,1215 2072,1206"/>
+        <TextEquiv>
+          <Unicode>liggja í á summum ársins tíðum, tá ið teir sita hjá seyðinum at venja hann við</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_def9a0be" custom="structure {type:default;}">
+        <Coords points="284,1311 2160,1312 2162,1280 2158,1248 1897,1239 1895,1239 282,1252 284,1287"/>
+        <Baseline points="284,1287 2162,1280"/>
+        <TextEquiv>
+          <Unicode>snjóstøður ella hjálpa honum, tá ið hann er kavaður undir. Hesin hagaparturin liggur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_df6fba6c" custom="structure {type:default;}">
+        <Coords points="280,1387 2153,1381 2154,1356 2150,1326 278,1322 280,1361"/>
+        <Baseline points="280,1361 2154,1356"/>
+        <TextEquiv>
+          <Unicode>longst frá bygdini, sum er vestast á oynni. Eina náttina fór ein av seyðamonnunum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0816cb1b" custom="structure {type:default;}">
+        <Coords points="282,1457 2112,1456 2111,1430 2107,1398 294,1393 292,1393 290,1393 288,1393 280,1398 282,1435"/>
+        <Baseline points="282,1435 2111,1430"/>
+        <TextEquiv>
+          <Unicode>hissini burtur í haga eystur á Borgardal, og tá ið eitt grumt æl kom á hann har,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1a743d1c" custom="structure {type:default;}">
+        <Coords points="282,1531 2141,1532 2144,1502 2140,1472 1520,1463 1518,1463 1516,1463 1497,1472 1269,1465 1267,1465 1187,1474 1027,1465 1025,1465 1023,1465 972,1476 319,1469 317,1469 315,1469 280,1480 282,1511"/>
+        <Baseline points="282,1511 2144,1502"/>
+        <TextEquiv>
+          <Unicode>ætlaði hann sær at kroka inni í húsinum. Nú hann nærkaðist tí, hoyrdi hann innan</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_28002e0e" custom="structure {type:default;}">
+        <Coords points="282,1601 621,1611 623,1611 2101,1597 2103,1578 2097,1545 280,1550 282,1583"/>
+        <Baseline points="282,1583 2103,1578"/>
+        <TextEquiv>
+          <Unicode>frá gleim og dun. Hann fór at glugganum og varð nú varur við, at húsið alt var</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0cfe616e" custom="structure {type:default;}">
+        <Coords points="282,1689 386,1681 701,1689 703,1689 705,1689 740,1679 1647,1685 1651,1654 1647,1624 292,1619 290,1619 288,1619 286,1619 286,1621 280,1624 282,1659"/>
+        <Baseline points="282,1659 1651,1654"/>
+        <TextEquiv>
+          <Unicode>fult av trøllum, sum hildu sær at gaman, dansaðu og kvóðu:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6c2863ef" custom="structure {type:default;}">
+        <Coords points="432,1786 890,1787 891,1763 887,1732 766,1720 764,1720 762,1720 760,1720 750,1730 748,1732 643,1734 620,1728 602,1722 600,1722 598,1722 596,1722 594,1722 588,1728 573,1737 499,1737 489,1726 487,1726 487,1724 485,1724 483,1724 481,1724 430,1724 432,1769"/>
+        <Baseline points="432,1769 891,1763"/>
+        <TextEquiv>
+          <Unicode>Trum, trum, trallalei,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_33005eae" custom="structure {type:default;}">
+        <Coords points="1048,1804 805,1792 803,1792 801,1792 799,1792 785,1804 649,1794 647,1794 645,1794 643,1794 629,1804 567,1796 565,1796 512,1806 450,1794 448,1794 446,1794 444,1794 426,1804 428,1843 424,1866 1054,1864 1058,1839 1054,1819 1050,1808"/>
+        <Baseline points="428,1843 1058,1839"/>
+        <TextEquiv>
+          <Unicode>kalt er í fjøllum hjá trøllum,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_006a3413" custom="structure {type:default;}">
+        <Coords points="428,1930 984,1936 988,1913 984,1878 446,1874 444,1874 442,1874 440,1874 426,1880 428,1917"/>
+        <Baseline points="428,1917 988,1913"/>
+        <TextEquiv>
+          <Unicode>betri er við hús í bakka</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2158ed6b" custom="structure {type:default;}">
+        <Coords points="428,2011 764,2010 766,1989 762,1956 606,1946 604,1946 602,1946 600,1946 588,1956 450,1948 448,1948 446,1948 426,1956 428,1993"/>
+        <Baseline points="428,1993 766,1989"/>
+        <TextEquiv>
+          <Unicode>á Skálavøllum;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9c7615ca" custom="structure {type:default;}">
+        <Coords points="429,2085 871,2087 873,2067 873,2034 863,2024 863,2022 861,2022 859,2022 857,2022 662,2034 639,2022 637,2022 635,2022 633,2022 631,2022 620,2032 590,2024 588,2024 586,2024 584,2024 582,2024 569,2036 430,2036 430,2067"/>
+        <Baseline points="430,2067 873,2067"/>
+        <TextEquiv>
+          <Unicode>trum, trum, trallalei,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_58eb9984" custom="structure {type:default;}">
+        <Coords points="428,2154 980,2150 982,2137 978,2106 458,2098 456,2098 454,2098 426,2106 428,2141"/>
+        <Baseline points="428,2141 982,2137"/>
+        <TextEquiv>
+          <Unicode>dansið tætt at durunum.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c609b7dd" custom="structure {type:default;}">
+        <Coords points="2076,2211 2056,2209 2037,2209 2017,2209 1998,2207 1978,2207 1959,2207 1957,2205 294,2205 282,2207 284,2246 282,2273 2103,2270 2105,2240 2101,2211 2095,2211"/>
+        <Baseline points="284,2246 2105,2240"/>
+        <TextEquiv>
+          <Unicode>Verri sigst at hava gingist á Trøllanesi, sum er norðasta bygd í Kallsoy, tí hagar</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_49ad3b78" custom="structure {type:default;}">
+        <Coords points="280,2344 2088,2341 2090,2314 2086,2283 298,2277 296,2277 294,2277 292,2277 278,2283 280,2320"/>
+        <Baseline points="280,2320 2090,2314"/>
+        <TextEquiv>
+          <Unicode>komu trøllini hvørja trettandu nátt tysjandi úr øllum ættum í so stórari múgvu, at</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8ef85270" custom="structure {type:default;}">
+        <Coords points="282,2421 2144,2419 2146,2388 2140,2353 280,2363 282,2400"/>
+        <Baseline points="282,2400 2146,2388"/>
+        <TextEquiv>
+          <Unicode>bygdamennirnir máttu so samt flýggja haðani til Mikladals og sita har, meðan hetta</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7069da2c" custom="structure {type:default;}">
+        <Coords points="284,2495 972,2493 974,2493 1091,2484 1097,2484 1111,2484 1413,2491 1415,2491 2171,2490 2173,2460 2168,2429 282,2433 284,2470"/>
+        <Baseline points="284,2470 2173,2460"/>
+        <TextEquiv>
+          <Unicode>herskapið var á Trøllanesi og leikaði har. Av hesum hevur bygdin fingið navn og er</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_391dc91b" custom="structure {type:default;}">
+        <Coords points="284,2556 647,2558 649,2544 649,2509 284,2503 284,2544"/>
+        <Baseline points="284,2544 649,2544"/>
+        <TextEquiv>
+          <Unicode>kallað Trøllanes.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3767473f" custom="structure {type:default;}">
+        <Coords points="333,2642 1754,2636 1756,2636 2113,2635 2113,2610 2109,2577 1949,2577 1949,2575 1928,2565 1926,2565 1924,2565 1840,2575 1838,2575 1774,2565 1772,2565 1723,2575 1713,2577 1661,2575 1454,2567 1452,2567 1415,2575 1395,2579 1339,2575 1255,2569 1253,2569 1146,2575 1037,2581 1004,2575 982,2571 980,2571 978,2571 968,2575 951,2581 331,2575 333,2620"/>
+        <Baseline points="333,2620 2113,2610"/>
+        <TextEquiv>
+          <Unicode>So bar til eina ferðina, at ein gomul kelling var ikki ment at flýggja við hinum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_754308d7" custom="structure {type:default;}">
+        <Coords points="282,2716 2156,2715 2156,2684 2152,2653 2037,2643 2035,2643 1610,2653 1579,2653 1575,2653 1532,2643 1530,2643 1528,2643 1497,2653 1489,2655 1462,2653 1351,2645 1349,2645 1347,2645 1331,2653 1325,2657 280,2657 282,2696"/>
+        <Baseline points="282,2696 2156,2684"/>
+        <TextEquiv>
+          <Unicode>bygdarfólkinum, og mátti tí liggja eftir heima trettandu nátt. Hon legði seg undir eitt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6def85f5" custom="structure {type:default;}">
+        <Coords points="286,2766 286,2791 475,2791 501,2803 503,2803 504,2805 579,2805 579,2803 581,2803 582,2803 602,2791 639,2803 641,2803 643,2803 645,2803 682,2791 705,2803 707,2803 709,2805 822,2805 822,2803 902,2790 930,2801 931,2801 933,2801 1013,2791 1087,2801 1089,2801 1091,2801 1123,2790 1171,2801 1173,2801 1175,2801 1271,2790 1343,2801 1345,2801 1347,2801 1397,2788 1401,2788 1409,2788 1501,2799 1503,2799 1505,2799 1507,2799 1524,2788 1526,2788 1565,2797 1567,2797 1569,2797 1678,2788 1680,2788 1682,2788 1698,2799 1700,2799 1702,2799 1704,2799 1928,2786 1928,2760 1924,2729 284,2725 286,2766"/>
+        <Baseline points="286,2766 1928,2760"/>
+        <TextEquiv>
+          <Unicode>borð í roykstovuni og krógvaði seg har, at trøllini ikki skuldu síggja hana.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_a7dd0a9a"  custom="structure {type:text;}">
+      <Coords points="2146,3031 2189,3039 2189,3107 2113,3099 2113,3047 2146,3031"/>
+      <TextLine id="eSc_line_d817fc45" custom="structure {type:default;}">
+        <Coords points="2123,3086 2123,3119 2181,3107 2181,3086 2181,3045 2123,3045 2123,3086"/>
+        <Baseline points="2123,3086 2181,3086"/>
+        <TextEquiv>
+          <Unicode>67</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

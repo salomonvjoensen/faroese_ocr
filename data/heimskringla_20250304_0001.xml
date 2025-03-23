@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-03-02T11:45:01.755047+00:00</Created>
+        <LastChange>2025-03-13T21:49:06.018335+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="heimskringla_20250304_0001.png" imageWidth="2480" imageHeight="3507">
+    <TextRegion id="eSc_textblock_28e86abd"  custom="structure {type:text;}">
+      <Coords points="1651,358 1682,374 1690,434 1674,481 1588,496 374,504 327,481 319,374 378,342"/>
+      <TextLine id="eSc_line_9cbf740e" custom="structure {type:default;}">
+        <Coords points="337,475 477,471 485,477 499,489 501,489 503,489 504,489 506,489 530,479 616,489 618,489 674,475 705,469 715,475 729,487 731,487 733,487 735,489 840,489 840,487 842,487 875,475 891,469 926,475 947,477 949,477 1035,473 1189,467 1204,473 1234,485 1236,485 1238,487 1329,487 1329,485 1331,485 1378,471 1390,469 1407,471 1468,481 1470,481 1516,471 1544,465 1550,471 1565,483 1567,483 1569,483 1571,483 1661,469 1663,442 1657,381 1587,381 1583,379 1555,366 1553,366 1551,366 1550,366 1548,366 1532,376 1458,366 1456,366 1454,366 1452,366 1436,379 1433,383 1329,383 1319,377 1304,368 1302,368 1300,368 1298,368 1296,368 1269,377 1253,385 1070,385 1056,377 1048,374 1046,374 1045,374 1027,377 986,385 914,385 904,376 896,370 894,370 892,370 805,370 803,370 801,370 783,376 760,383 750,376 744,370 742,370 740,370 738,370 711,376 688,379 678,376 668,370 666,370 664,370 662,370 647,374 604,387 335,374 337,450"/>
+        <Baseline points="337,450 1663,442"/>
+        <TextEquiv>
+          <Unicode>Føroysk tjóðminni og ævintýr</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_b1b36026"  custom="structure {type:text;}">
+      <Coords points="988,763 1011,824 972,956 1137,965 1128,1036 1121,1143 1066,1215 1084,1254 1651,1285 1682,1317 1674,1361 1565,1395 1581,1439 1550,1478 1440,1496 1440,1665 1394,1751 1349,1759 1316,1712 1247,1704 1160,1761 1177,1901 1339,1909 1370,1885 1425,1924 1417,2117 1526,2119 1581,2158 1581,2297 1550,2328 1310,2297 1316,2328 1269,2367 1082,2415 1035,2515 1091,2548 1269,2556 1284,2624 1167,2665 1152,2827 1105,2873 1019,2883 1011,3029 980,3068 467,3060 452,981 444,896 335,855 337,755"/>
+      <TextLine id="eSc_line_5a203bc0" custom="structure {type:default;}">
+        <Coords points="984,771 692,771 686,767 680,761 680,759 678,759 676,759 668,759 577,759 575,759 524,765 450,773 436,763 434,761 432,761 430,761 428,761 426,761 421,763 401,771 337,763 339,822 339,843 990,839 992,816 986,773 984,771"/>
+        <Baseline points="339,822 992,816"/>
+        <TextEquiv>
+          <Unicode>Yvirnatúrligar verur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3158858d" custom="structure {type:default;}">
+        <Coords points="473,919 473,933 491,942 493,942 495,942 699,931 699,919 699,884 643,870 641,870 639,870 532,884 528,884 526,884 510,870 508,870 506,870 504,870 503,870 473,882 473,919"/>
+        <Baseline points="473,919 699,919"/>
+        <TextEquiv>
+          <Unicode>Bembil</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_68a69837" custom="structure {type:default;}">
+        <Coords points="772,919 772,929 795,937 799,919 799,876 772,876 772,919"/>
+        <Baseline points="772,919 799,919"/>
+        <TextEquiv>
+          <Unicode>1</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_603623dc" custom="structure {type:default;}">
+        <Coords points="473,1028 473,1042 842,1050 844,1050 846,1050 877,1038 877,1024 873,987 709,987 705,985 694,976 692,976 690,976 688,976 686,976 664,983 657,987 471,983 473,1028"/>
+        <Baseline points="473,1028 877,1024"/>
+        <TextEquiv>
+          <Unicode>Biskupsheygur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6a4a2644" >
+        <Coords points="1058,1019 1058,1052 1093,1052 1093,1019 1090,970 1058,970 1058,1019"/>
+        <Baseline points="1059,1022 1096,1022"/>
+        <TextEquiv>
+          <Unicode>2</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_71b47572" custom="structure {type:default;}">
+        <Coords points="954,1151 962,1131 957,1096 855,1096 844,1091 813,1079 811,1079 809,1079 692,1083 690,1083 688,1083 688,1085 686,1087 678,1093 586,1083 555,1081 553,1081 551,1081 547,1083 522,1093 479,1081 479,1133 479,1153"/>
+        <Baseline points="479,1133 946,1131"/>
+        <TextEquiv>
+          <Unicode>Brúdleypið í Stapa</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d8b7270c" custom="structure {type:default;}">
+        <Coords points="1043,1153 1098,1149 1100,1130 1099,1093 1066,1079 1064,1079 1062,1079 1060,1079 1037,1094 1041,1131"/>
+        <Baseline points="1041,1131 1089,1128"/>
+        <TextEquiv>
+          <Unicode>3</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_06785001" custom="structure {type:default;}">
+        <Coords points="473,1252 703,1254 705,1237 705,1200 473,1192 473,1237"/>
+        <Baseline points="473,1237 705,1237"/>
+        <TextEquiv>
+          <Unicode>Dvørgar</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_365c9dfa" >
+        <Coords points="769,1233 769,1253 807,1247 807,1233 807,1180 769,1177 769,1233"/>
+        <Baseline points="770,1236 809,1236"/>
+        <TextEquiv>
+          <Unicode>7</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4154eaf4" custom="structure {type:default;}">
+        <Coords points="475,1344 475,1363 686,1373 688,1373 690,1373 719,1363 721,1363 750,1373 752,1373 754,1373 799,1363 811,1373 813,1373 814,1373 816,1373 939,1371 941,1371 943,1371 959,1361 961,1361 1007,1371 1009,1371 1160,1361 1226,1369 1228,1369 1230,1369 1247,1359 1249,1359 1271,1369 1273,1369 1275,1371 1462,1371 1462,1369 1464,1369 1507,1357 1507,1338 1503,1299 1442,1287 1440,1287 1438,1287 1436,1287 1423,1297 1329,1287 1327,1287 1325,1287 1294,1297 473,1297 475,1344"/>
+        <Baseline points="475,1344 1507,1338"/>
+        <TextEquiv>
+          <Unicode>Fimti, Sakaris og fjørutrøllini í Hattarvík</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bd334e4f" custom="structure {type:default;}">
+        <Coords points="1658,1294 1643,1288 1628,1288 1628,1341 1628,1385 1661,1385 1661,1341 1661,1297 1658,1294"/>
+        <Baseline points="1629,1342 1664,1342"/>
+        <TextEquiv>
+          <Unicode>8</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d047685b" custom="structure {type:default;}">
+        <Coords points="473,1449 473,1465 896,1474 898,1474 1358,1461 1358,1445 1355,1408 1119,1396 1117,1396 1115,1396 1093,1406 1082,1396 1080,1396 1078,1396 1076,1396 1004,1406 957,1396 955,1396 881,1408 641,1398 639,1398 637,1398 596,1408 493,1398 491,1398 489,1398 487,1398 471,1406 473,1449"/>
+        <Baseline points="473,1449 1358,1445"/>
+        <TextEquiv>
+          <Unicode>Gásadalsmaðurin í huldubátinum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_93401e15" custom="structure {type:default;}">
+        <Coords points="1481,1482 1560,1480 1561,1443 1555,1400 1473,1393 1479,1449"/>
+        <Baseline points="1479,1449 1548,1450"/>
+        <TextEquiv>
+          <Unicode>10</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a88d6d91" custom="structure {type:default;}">
+        <Coords points="473,1558 473,1574 1144,1568 1146,1552 1144,1513 1111,1502 1109,1502 1107,1502 970,1511 931,1502 930,1502 928,1502 926,1502 924,1502 924,1504 912,1513 774,1504 772,1504 727,1513 697,1504 696,1504 694,1504 608,1515 487,1506 485,1506 483,1506 481,1506 471,1511 473,1558"/>
+        <Baseline points="473,1558 1146,1552"/>
+        <TextEquiv>
+          <Unicode>Haffrú (Havfrúgv / havfrú)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9a952b10" custom="structure {type:default;}">
+        <Coords points="1336,1551 1336,1575 1403,1578 1406,1551 1403,1499 1336,1499 1336,1551"/>
+        <Baseline points="1339,1554 1409,1552"/>
+        <TextEquiv>
+          <Unicode>12</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b13f1107" custom="structure {type:default;}">
+        <Coords points="475,1661 475,1681 1062,1685 1064,1685 1066,1685 1103,1673 1103,1658 1099,1624 1011,1624 1009,1622 998,1611 996,1611 994,1611 992,1611 990,1611 965,1622 951,1611 949,1611 947,1611 945,1611 889,1621 875,1624 777,1624 772,1619 764,1613 762,1613 760,1613 758,1613 756,1613 754,1613 754,1615 748,1619 742,1624 690,1619 639,1613 637,1613 635,1613 633,1613 629,1617 623,1622 614,1617 602,1613 600,1613 598,1613 473,1615 475,1661"/>
+        <Baseline points="475,1661 1103,1658"/>
+        <TextEquiv>
+          <Unicode>Havfrúgv - Lucas Debes</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6fea70e5" custom="structure {type:default;}">
+        <Coords points="1342,1662 1342,1680 1400,1686 1403,1662 1403,1610 1342,1610 1342,1662"/>
+        <Baseline points="1345,1663 1406,1663"/>
+        <TextEquiv>
+          <Unicode>13</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a9db9caa" custom="structure {type:default;}">
+        <Coords points="473,1769 473,1784 781,1790 783,1790 836,1778 838,1765 834,1728 785,1716 783,1716 781,1716 752,1726 746,1730 668,1730 664,1726 655,1716 653,1716 651,1716 649,1716 471,1724 473,1769"/>
+        <Baseline points="473,1769 838,1765"/>
+        <TextEquiv>
+          <Unicode>Huldubarnið</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c4f4afae" custom="structure {type:default;}">
+        <Coords points="1043,1767 1043,1774 1123,1786 1124,1763 1119,1720 1039,1724 1043,1767"/>
+        <Baseline points="1043,1767 1124,1763"/>
+        <TextEquiv>
+          <Unicode>14</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d02d9057" custom="structure {type:default;}">
+        <Coords points="475,1868 473,1885 483,1893 485,1893 487,1893 489,1893 764,1885 766,1872 766,1835 655,1819 653,1819 651,1819 625,1831 621,1833 616,1831 596,1817 594,1817 592,1817 590,1817 588,1817 551,1829 542,1831 536,1827 516,1817 514,1817 512,1817 475,1825 475,1868"/>
+        <Baseline points="475,1868 766,1872"/>
+        <TextEquiv>
+          <Unicode>Huldufólk</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_08c37127" custom="structure {type:default;}">
+        <Coords points="1064,1893 1119,1893 1131,1849 1093,1813 1048,1833 1060,1874"/>
+        <Baseline points="1060,1874 1111,1872"/>
+        <TextEquiv>
+          <Unicode>16</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9f91992f" custom="structure {type:default;}">
+        <Coords points="475,1977 475,1995 1126,1995 1126,1977 1126,1938 1097,1928 1095,1928 1093,1928 1091,1928 1054,1938 1052,1940 855,1940 840,1934 818,1928 816,1928 814,1928 813,1928 803,1934 791,1940 672,1940 662,1930 660,1928 658,1928 657,1928 563,1928 561,1928 559,1928 557,1928 534,1938 475,1928 475,1977"/>
+        <Baseline points="475,1977 1126,1977"/>
+        <TextEquiv>
+          <Unicode>Huldukonan í barnsneyð</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9e81df31" custom="structure {type:default;}">
+        <Coords points="1356,2002 1409,2004 1411,1977 1421,1928 1362,1924 1355,1979"/>
+        <Baseline points="1363,1977 1404,1977"/>
+        <TextEquiv>
+          <Unicode>17</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b39e2ead" custom="structure {type:default;}">
+        <Coords points="475,2102 1160,2102 1160,2084 1160,2044 475,2045 475,2084"/>
+        <Baseline points="475,2084 1160,2084"/>
+        <TextEquiv>
+          <Unicode>Huldumaðurin í Gullsteini</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7d15fe96" custom="structure {type:default;}">
+        <Coords points="1345,2083 1345,2110 1406,2107 1406,2080 1397,2022 1342,2025 1345,2083"/>
+        <Baseline points="1347,2084 1409,2083"/>
+        <TextEquiv>
+          <Unicode>18</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0668fdb2" custom="structure {type:default;}">
+        <Coords points="475,2191 475,2207 1319,2201 1319,2186 1316,2150 1175,2139 1173,2139 1171,2139 1169,2139 1156,2150 1078,2150 1039,2139 1037,2139 1035,2139 1033,2139 1002,2152 842,2152 754,2141 752,2141 750,2141 699,2152 489,2143 487,2143 485,2143 483,2143 473,2149 475,2191"/>
+        <Baseline points="475,2191 1319,2186"/>
+        <TextEquiv>
+          <Unicode>Huldumaðurin og seyðamaðurin</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_97c8925f" custom="structure {type:default;}">
+        <Coords points="1498,2212 1553,2213 1562,2188 1553,2135 1496,2139 1498,2188"/>
+        <Baseline points="1506,2189 1546,2187"/>
+        <TextEquiv>
+          <Unicode>19</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5d6fc7ae" custom="structure {type:default;}">
+        <Coords points="473,2297 473,2322 1277,2314 1277,2293 1273,2254 1013,2244 1011,2244 1009,2244 1007,2244 994,2254 957,2244 955,2244 953,2244 951,2244 949,2244 949,2246 939,2256 830,2256 828,2256 809,2246 807,2246 805,2246 762,2256 760,2256 758,2256 729,2246 727,2246 725,2246 666,2256 655,2246 653,2246 651,2246 649,2246 647,2246 621,2256 594,2246 592,2246 590,2246 588,2246 586,2246 577,2256 557,2246 555,2246 553,2246 551,2246 549,2246 549,2248 540,2256 493,2246 491,2246 489,2246 471,2254 473,2297"/>
+        <Baseline points="473,2297 1277,2293"/>
+        <TextEquiv>
+          <Unicode>Huldumaðurin undir Líðasteini</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eba749a3" custom="structure {type:default;}">
+        <Coords points="1482,2294 1482,2352 1552,2355 1555,2294 1555,2241 1482,2241 1482,2294"/>
+        <Baseline points="1483,2297 1558,2297"/>
+        <TextEquiv>
+          <Unicode>20</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_22c08088" custom="structure {type:default;}">
+        <Coords points="477,2398 475,2413 610,2423 612,2423 614,2423 655,2412 657,2402 657,2363 625,2353 623,2353 621,2353 620,2353 618,2353 604,2363 600,2363 520,2351 518,2351 477,2359 477,2398"/>
+        <Baseline points="477,2398 657,2402"/>
+        <TextEquiv>
+          <Unicode>Knávi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_12f566e2" custom="structure {type:default;}">
+        <Coords points="909,2399 909,2422 976,2425 979,2399 979,2352 909,2352 909,2399"/>
+        <Baseline points="910,2402 980,2402"/>
+        <TextEquiv>
+          <Unicode>22</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7c403209" custom="structure {type:default;}">
+        <Coords points="473,2507 473,2527 783,2525 786,2504 780,2463 497,2449 494,2449 491,2449 488,2449 470,2457 473,2507"/>
+        <Baseline points="475,2509 789,2507"/>
+        <TextEquiv>
+          <Unicode>Kópakonan</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3b7cfd83" custom="structure {type:default;}">
+        <Coords points="909,2504 909,2533 985,2525 985,2504 985,2460 909,2460 909,2504"/>
+        <Baseline points="912,2506 986,2505"/>
+        <TextEquiv>
+          <Unicode>24</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6e67f409" custom="structure {type:default;}">
+        <Coords points="476,2612 476,2636 1064,2647 1067,2612 1067,2565 476,2563 476,2612"/>
+        <Baseline points="477,2614 1069,2613"/>
+        <TextEquiv>
+          <Unicode>Kópakonan úr Skálavík</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a62bfebd" custom="structure {type:default;}">
+        <Coords points="1181,2614 1181,2632 1265,2641 1265,2608 1257,2560 1177,2575 1181,2614"/>
+        <Baseline points="1181,2614 1265,2608"/>
+        <TextEquiv>
+          <Unicode>27</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_34c5969c" custom="structure {type:default;}">
+        <Coords points="475,2719 475,2735 818,2733 820,2717 814,2673 545,2678 485,2669 483,2669 481,2669 479,2669 479,2671 473,2675 475,2719"/>
+        <Baseline points="475,2719 820,2717"/>
+        <TextEquiv>
+          <Unicode>Marmennil 1</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cef936ef" custom="structure {type:default;}">
+        <Coords points="1052,2719 1052,2745 1124,2747 1126,2719 1126,2677 1052,2677 1052,2719"/>
+        <Baseline points="1052,2719 1126,2719"/>
+        <TextEquiv>
+          <Unicode>28</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b2681f41" custom="structure {type:default;}">
+        <Coords points="475,2827 475,2842 643,2852 645,2852 816,2840 816,2823 813,2782 489,2778 487,2778 485,2778 483,2778 473,2784 475,2827"/>
+        <Baseline points="475,2827 816,2823"/>
+        <TextEquiv>
+          <Unicode>Marmennil 2</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5e6e0233" custom="structure {type:default;}">
+        <Coords points="1052,2826 1052,2875 1114,2890 1117,2826 1114,2773 1052,2773 1052,2826"/>
+        <Baseline points="1054,2828 1119,2828"/>
+        <TextEquiv>
+          <Unicode>29</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d40f5bee" custom="structure {type:default;}">
+        <Coords points="477,2932 477,2943 618,2957 620,2957 621,2957 662,2941 662,2930 658,2897 475,2883 477,2932"/>
+        <Baseline points="477,2932 662,2930"/>
+        <TextEquiv>
+          <Unicode>Marra</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a31ae742" custom="structure {type:default;}">
+        <Coords points="906,2955 986,2955 982,2926 988,2885 904,2885 908,2930"/>
+        <Baseline points="908,2930 984,2931"/>
+        <TextEquiv>
+          <Unicode>30</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d67d21a4" custom="structure {type:default;}">
+        <Coords points="479,3037 479,3074 551,3064 779,3068 781,3037 781,3000 697,3000 688,2994 658,2982 657,2982 655,2982 653,2982 616,2992 598,2996 584,2990 569,2982 567,2982 565,2982 479,2984 479,3037"/>
+        <Baseline points="479,3037 781,3037"/>
+        <TextEquiv>
+          <Unicode>Niðagrísur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_41b0b69d" custom="structure {type:default;}">
+        <Coords points="897,3039 897,3094 935,3106 938,3106 941,3106 944,3106 985,3083 985,3039 985,2989 897,2989 897,3039"/>
+        <Baseline points="900,3041 986,3040"/>
+        <TextEquiv>
+          <Unicode>32</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_21a4f2d4"  custom="structure {type:text;}">
+      <Coords points="1355,1868 1349,1868 1349,1862 1353,1862"/>
+    </TextRegion>
+  </Page>
+</PcGts>

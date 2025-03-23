@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-03-07T13:34:22.406514+00:00</Created>
+        <LastChange>2025-03-09T21:03:43.894305+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="heimskringla_20250304_0059.png" imageWidth="2480" imageHeight="3507">
+    <TextRegion id="eSc_textblock_25a722bc"  custom="structure {type:text;}">
+      <Coords points="282,288 910,288 949,311 941,372 826,403 785,504 723,553 801,716 793,855 754,880 754,933 545,966 2088,997 2056,1229 2088,1393 2158,1426 2142,1564 2181,1644 2173,2063 2150,2073 2197,2197 2173,2398 1076,2413 951,2429 879,2476 272,2460 282,288"/>
+      <TextLine id="eSc_line_a1ab8be8" custom="structure {type:default;}">
+        <Coords points="824,290 822,290 820,290 818,290 818,292 809,300 524,292 522,292 362,301 298,292 296,292 294,292 292,292 276,323 278,342 278,362 933,358 935,339 931,301 930,300"/>
+        <Baseline points="278,342 935,339"/>
+        <TextEquiv>
+          <Unicode>Færoæ et Færoa reserata</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_01482c3a" custom="structure {type:default;}">
+        <Coords points="280,465 331,475 333,475 460,465 483,475 485,475 487,475 643,463 657,473 658,473 660,473 662,475 756,475 756,473 758,473 760,473 777,461 777,448 775,407 758,397 756,397 754,397 637,397 635,397 633,397 631,397 620,407 534,399 532,399 530,399 528,399 514,409 382,399 380,399 317,409 296,399 294,399 292,399 290,399 288,399 278,405 280,452"/>
+        <Baseline points="280,452 777,448"/>
+        <TextEquiv>
+          <Unicode>Lucas Debes 1673</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fa605d5f" custom="structure {type:default;}">
+        <Coords points="282,654 717,656 719,637 719,592 489,580 487,580 485,580 483,580 465,592 282,592 282,637"/>
+        <Baseline points="282,637 719,637"/>
+        <TextEquiv>
+          <Unicode>Símun í Kirkjubø</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_53b7034e" custom="structure {type:default;}">
+        <Coords points="285,766 616,767 618,767 762,765 764,765 785,754 785,742 781,707 645,707 643,703 633,695 633,693 631,693 629,693 627,693 625,693 598,703 584,707 551,703 499,695 497,695 495,695 493,695 485,701 477,707 465,701 452,695 450,695 448,695 446,695 426,701 395,709 378,699 372,697 370,697 368,697 282,697 284,748"/>
+        <Baseline points="284,748 785,742"/>
+        <TextEquiv>
+          <Unicode>Týtt úr donskum av</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_53fbedb9" custom="structure {type:default;}">
+        <Coords points="282,822 282,845 516,839 571,841 740,849 742,849 744,849 770,837 770,822 770,785 462,773 460,773 395,783 370,773 368,773 366,773 364,773 327,783 311,773 310,773 308,773 306,773 304,773 282,783 282,822"/>
+        <Baseline points="282,822 770,822"/>
+        <TextEquiv>
+          <Unicode>Anker Eli Petersen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e28bfaee" custom="structure {type:default;}">
+        <Coords points="2037,995 2017,995 1998,995 1988,993 1181,985 1179,985 1035,995 313,987 311,987 310,987 282,995 284,1044 284,1057 2076,1055 2078,1040 2076,1038 2056,995"/>
+        <Baseline points="284,1044 2078,1040"/>
+        <TextEquiv>
+          <Unicode>Í bókini FÆROÆ ET FÆROA RESERATA frá 1673, á blaðsíðu 320 -21,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1fa67a8d" custom="structure {type:default;}">
+        <Coords points="286,1139 2049,1131 2051,1112 2047,1075 1201,1067 1199,1067 1197,1067 1163,1077 337,1071 335,1071 284,1081 286,1120"/>
+        <Baseline points="286,1120 2051,1112"/>
+        <TextEquiv>
+          <Unicode>skrivar hin kendi presturin og próvsturin Lucas Debes um hendingina</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_588a4f3a" custom="structure {type:default;}">
+        <Coords points="286,1206 319,1217 321,1217 323,1217 325,1217 368,1207 415,1217 417,1217 419,1217 446,1207 616,1207 625,1217 625,1219 627,1219 629,1219 631,1219 869,1207 871,1194 869,1155 288,1151 288,1190"/>
+        <Baseline points="288,1190 871,1194"/>
+        <TextEquiv>
+          <Unicode>við Símun úr Kirkjubø:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b5861ec5" custom="structure {type:default;}">
+        <Coords points="282,1322 2055,1320 2056,1299 2053,1260 1941,1250 1939,1250 1766,1258 1739,1246 1737,1246 1735,1246 1733,1246 1731,1246 1709,1260 1421,1260 1382,1246 1380,1246 1378,1246 1376,1246 1374,1246 1355,1260 1271,1260 1224,1246 1222,1246 1220,1246 1123,1260 1039,1248 861,1248 859,1248 857,1248 818,1260 719,1248 717,1248 625,1260 600,1248 598,1248 432,1248 430,1248 428,1248 382,1260 310,1248 308,1248 306,1248 280,1260 282,1303"/>
+        <Baseline points="282,1303 2056,1299"/>
+        <TextEquiv>
+          <Unicode>Det hafver hændt sig for 50 Aar eller der offver, at der hafver boet en</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_84f1943b" custom="structure {type:default;}">
+        <Coords points="283,1402 2002,1397 2004,1375 2000,1338 282,1336 284,1379"/>
+        <Baseline points="284,1379 2004,1375"/>
+        <TextEquiv>
+          <Unicode>Bonde paa den gamle Biscops-Gaard Kirckebøe, ved Naffn Simon</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_df8b5399" custom="structure {type:default;}">
+        <Coords points="2129,1412 1590,1404 1588,1404 1450,1414 1442,1414 1423,1414 1002,1406 1000,1406 282,1416 284,1457 285,1477 2136,1474 2140,1451 2136,1416 2134,1416"/>
+        <Baseline points="284,1457 2140,1451"/>
+        <TextEquiv>
+          <Unicode>Simonsøn, til hvilcken Gaard ligger en Holm under Sandøe kaldet Hødde</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_354fa848" custom="structure {type:default;}">
+        <Coords points="284,1556 2025,1550 2025,1527 2021,1490 1466,1480 1464,1480 1462,1480 1419,1490 1132,1482 1130,1482 859,1492 315,1484 313,1484 311,1484 282,1494 284,1533"/>
+        <Baseline points="284,1533 2025,1527"/>
+        <TextEquiv>
+          <Unicode>eller Troldhoffved, hvor paa gaa Oxer baade Vinter oc Sommer. Paa</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_388af757" custom="structure {type:default;}">
+        <Coords points="284,1629 2107,1626 2109,1605 2105,1568 914,1560 912,1560 910,1560 887,1570 329,1562 327,1562 282,1572 284,1611"/>
+        <Baseline points="284,1611 2109,1605"/>
+        <TextEquiv>
+          <Unicode>samme Holm er der funden en Oxe som Bonden icke tilhørde, ey heller</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_96ff39ef" custom="structure {type:default;}">
+        <Coords points="282,1712 452,1700 499,1710 501,1710 623,1700 795,1708 836,1710 838,1710 857,1708 920,1700 1097,1706 1169,1708 1171,1708 1202,1706 1271,1698 1319,1704 1351,1708 1353,1708 1509,1702 1643,1698 1694,1700 1795,1708 1797,1708 1850,1700 1865,1698 1904,1700 2078,1708 2080,1708 2171,1696 2173,1681 2170,1644 1253,1634 1251,1634 1249,1634 1222,1644 364,1636 362,1636 280,1646 282,1685"/>
+        <Baseline points="282,1685 2173,1681"/>
+        <TextEquiv>
+          <Unicode>nogen Mand i Landet, hvorfor Lands-Fogeden hafver tilegnet sig den paa</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f803ab9b" custom="structure {type:default;}">
+        <Coords points="282,1783 2058,1777 2060,1757 2056,1722 298,1714 296,1714 294,1714 292,1714 280,1720 282,1761"/>
+        <Baseline points="282,1761 2060,1757"/>
+        <TextEquiv>
+          <Unicode>Kongens vegne, oc befalet Bonden, at hand skulde hente sig samme</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9f953b2b" custom="structure {type:default;}">
+        <Coords points="280,1860 2131,1856 2134,1831 2131,1792 1934,1782 1932,1782 1930,1782 1893,1792 1891,1792 1858,1782 1856,1782 1854,1782 1760,1792 1719,1782 1717,1782 1715,1782 1713,1782 1668,1794 1663,1794 1637,1794 1460,1784 1458,1784 1407,1794 1384,1784 1382,1784 1380,1784 1286,1794 1226,1784 1224,1784 1222,1784 1193,1796 1191,1796 1189,1796 1171,1786 1169,1786 1167,1786 941,1796 937,1796 902,1786 900,1786 898,1786 795,1796 756,1786 754,1786 752,1786 750,1786 748,1786 735,1798 733,1798 713,1798 493,1788 491,1788 489,1788 458,1798 434,1788 432,1788 430,1788 362,1798 300,1788 298,1788 296,1788 278,1796 280,1839"/>
+        <Baseline points="280,1839 2134,1831"/>
+        <TextEquiv>
+          <Unicode>Oxe, hvilcket hand oc giorde, oc haffde vel med sit gandske Folck stoer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fcbd73f4" custom="structure {type:default;}">
+        <Coords points="282,1935 2133,1929 2134,1907 2131,1872 1922,1860 1920,1860 1918,1860 1916,1860 1898,1870 1479,1862 1477,1862 1329,1874 1048,1864 1046,1864 1045,1864 1017,1876 1015,1876 294,1868 292,1868 290,1868 288,1868 280,1874 282,1917"/>
+        <Baseline points="282,1917 2134,1907"/>
+        <TextEquiv>
+          <Unicode>Umage, førend hand samme Oxe kunde offvervinde, oc faa den bunden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f07143b8" custom="structure {type:default;}">
+        <Coords points="282,2018 389,2008 1031,2010 1370,2012 1372,2012 2140,2007 2142,1983 2138,1948 1881,1936 1879,1936 1821,1946 1791,1936 1789,1936 1787,1936 1785,1936 1783,1936 1768,1948 1764,1948 1735,1948 1526,1938 1524,1938 1522,1938 1487,1948 1485,1948 1483,1948 1466,1938 1464,1938 1462,1938 1409,1948 1394,1950 1353,1948 1234,1940 1232,1940 1015,1948 902,1952 883,1948 853,1942 852,1942 744,1948 651,1954 604,1948 565,1944 563,1944 280,1948 282,1993"/>
+        <Baseline points="282,1993 2142,1983"/>
+        <TextEquiv>
+          <Unicode>lagt i Baaden. oc der hand foer fra Holmen mer Baaden udi got Veier, er</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_53964320" custom="structure {type:default;}">
+        <Coords points="282,2089 2058,2082 2060,2061 2056,2026 1637,2014 1635,2014 1633,2014 1610,2026 1532,2016 1530,2016 1528,2016 1526,2016 1511,2028 1390,2028 1349,2016 1347,2016 1345,2016 1286,2026 1243,2016 1241,2016 1240,2016 1126,2028 1124,2028 1121,2028 783,2018 781,2018 779,2018 777,2018 762,2028 590,2020 588,2020 586,2020 567,2030 545,2020 543,2020 542,2020 352,2030 298,2020 296,2020 294,2020 292,2020 280,2026 282,2069"/>
+        <Baseline points="282,2069 2060,2061"/>
+        <TextEquiv>
+          <Unicode>hand med det gandske Folck oc Oxe borttagen. Baaden kom heel oc</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8898a453" custom="structure {type:default;}">
+        <Coords points="282,2162 2080,2162 2082,2141 2076,2100 280,2100 282,2147"/>
+        <Baseline points="282,2147 2082,2141"/>
+        <TextEquiv>
+          <Unicode>holden med Aarer oc alt uskad til Lands, saa der var ingen Tegn til, at</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a833a37f" custom="structure {type:default;}">
+        <Coords points="282,2239 2181,2239 2181,2217 2175,2170 280,2170 282,2221"/>
+        <Baseline points="282,2221 2181,2217"/>
+        <TextEquiv>
+          <Unicode>Folcket i andre Maader skulde forulyckis. Derforuden haffde Bonden taget</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_45c0f86a" custom="structure {type:default;}">
+        <Coords points="280,2321 1992,2314 1994,2291 1990,2254 1587,2244 1585,2244 1583,2244 1555,2254 1193,2246 1191,2246 1128,2256 781,2248 779,2248 280,2260 282,2299"/>
+        <Baseline points="282,2299 1994,2291"/>
+        <TextEquiv>
+          <Unicode>med sig i Baaden, tre aff sine egne Øxen, hvilcke fløde i Søen hos</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bd6e2b10" custom="structure {type:default;}">
+        <Coords points="284,2398 2175,2392 2175,2367 2170,2324 282,2326 284,2375"/>
+        <Baseline points="284,2375 2175,2367"/>
+        <TextEquiv>
+          <Unicode>Baaden oc blefve optagne. Dette skede som alle gamle forstandige Folck</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8ef49689" custom="structure {type:default;}">
+        <Coords points="286,2468 311,2480 313,2480 315,2480 873,2468 873,2451 873,2410 848,2400 846,2400 844,2400 612,2410 594,2400 592,2400 590,2400 588,2400 586,2400 559,2410 499,2400 497,2400 438,2410 428,2402 428,2400 426,2400 425,2400 352,2400 350,2400 286,2410 286,2451"/>
+        <Baseline points="286,2451 873,2451"/>
+        <TextEquiv>
+          <Unicode>er vitterligt Anno 1617.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_220333d6"  custom="structure {type:text;}">
+      <Coords points="2138,3039 2197,3070 2181,3130 2097,3115 2097,3062 2138,3039"/>
+      <TextLine id="eSc_line_40b54203" custom="structure {type:default;}">
+        <Coords points="2167,3054 2161,3051 2108,3051 2108,3054 2108,3106 2108,3127 2172,3135 2175,3106 2172,3056 2167,3054"/>
+        <Baseline points="2111,3107 2178,3108"/>
+        <TextEquiv>
+          <Unicode>55</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

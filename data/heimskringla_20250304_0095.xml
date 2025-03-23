@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-03-07T13:34:51.434667+00:00</Created>
+        <LastChange>2025-03-12T21:46:40.828098+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="heimskringla_20250304_0095.png" imageWidth="2480" imageHeight="3507">
+    <TextRegion id="eSc_textblock_563c29fa"  custom="structure {type:text;}">
+      <Coords points="284,288 887,288 926,303 926,372 848,428 816,504 738,535 319,613 272,512 284,288"/>
+      <TextLine id="eSc_line_9bd28914" custom="structure {type:default;}">
+        <Coords points="280,296 278,296 280,346 280,364 914,362 916,342 912,301 286,294 284,294 282,294 280,294"/>
+        <Baseline points="280,346 916,342"/>
+        <TextEquiv>
+          <Unicode>V. U. Hammershaimb</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_14e47508" custom="structure {type:default;}">
+        <Coords points="282,448 819,448 820,422 820,377 282,376 282,422"/>
+        <Baseline points="282,422 820,422"/>
+        <TextEquiv>
+          <Unicode>Færøsk Anthologi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_36c09183" custom="structure {type:default;}">
+        <Coords points="282,498 282,516 735,512 735,494 731,457 608,446 606,446 604,446 602,446 602,448 592,457 495,457 467,448 465,448 464,448 384,457 292,448 290,448 288,448 286,448 286,450 280,453 282,498"/>
+        <Baseline points="282,498 735,494"/>
+        <TextEquiv>
+          <Unicode>København 1891</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_e960e169"  custom="structure {type:text;}">
+      <Coords points="315,623 949,662 965,738 762,816 327,816 272,746 272,670 315,623"/>
+      <TextLine id="eSc_line_75770318" custom="structure {type:default;}">
+        <Coords points="282,718 282,736 306,748 308,748 310,748 409,736 438,750 440,750 442,752 614,752 614,750 692,734 922,748 924,748 926,748 928,748 949,732 949,715 945,672 850,660 848,660 736,668 686,672 678,668 668,660 666,660 664,660 662,660 660,660 635,668 610,674 581,666 561,662 559,662 557,662 555,662 540,666 512,674 280,664 282,718"/>
+        <Baseline points="282,718 949,715"/>
+        <TextEquiv>
+          <Unicode>Flotoyggjar 2 - Svínoy</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d7c7d16d"  custom="structure {type:text;}">
+      <Coords points="308,865 2111,896 2150,981 2142,1198 2189,1387 2189,1665 2090,1720 1986,1852 2082,1963 2150,1995 2150,2071 2072,2221 2150,2283 2150,2375 2017,2445 717,2452 522,2476 473,2515 280,2515 272,888 308,865"/>
+      <TextLine id="eSc_line_e9a8013d" custom="structure {type:default;}">
+        <Coords points="2039,894 2019,894 2000,894 1980,892 1961,892 1941,892 1922,892 1902,892 1889,892 1883,892 1863,890 1844,890 1836,890 1824,890 1805,890 1785,890 1783,890 1626,892 1610,890 1590,886 1571,886 1551,886 1548,890 1542,894 1314,894 1292,888 1249,880 1247,880 1187,888 1142,894 1119,888 1097,882 1095,882 1093,882 1091,882 1072,888 1050,894 1013,888 980,882 857,882 855,882 853,882 842,886 826,894 682,886 627,884 625,884 612,886 563,896 503,886 489,884 487,884 284,884 286,937 291,970 2080,961 2080,929 2076,894 2058,894"/>
+        <Baseline points="286,937 2080,929"/>
+        <TextEquiv>
+          <Unicode>Tað er manna søgn, at Svínoy sum aðrar av oyggjunum var flotoy av</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_896f254a" custom="structure {type:default;}">
+        <Coords points="279,1043 2134,1034 2136,1007 2132,968 1782,954 1780,954 1668,968 1666,968 1665,968 1407,956 1405,956 1403,956 1401,956 1384,968 1224,970 1204,970 1202,970 1134,958 1132,958 1048,970 928,958 926,958 924,958 922,958 902,972 772,972 746,958 744,958 742,958 740,958 715,972 690,960 688,960 686,960 684,960 657,972 655,972 464,960 462,960 460,960 423,972 397,960 395,960 393,960 333,970 302,960 300,960 298,960 296,960 294,960 278,968 280,1015"/>
+        <Baseline points="280,1015 2136,1007"/>
+        <TextEquiv>
+          <Unicode>fyrstu tíð. Hon kom upp fyri norðan, men sást sjáldan av fólki, tí at hon</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_30581486" custom="structure {type:default;}">
+        <Coords points="280,1117 2134,1115 2132,1085 2129,1044 1522,1034 1520,1034 1450,1044 1442,1046 280,1046 282,1091"/>
+        <Baseline points="282,1091 2132,1085"/>
+        <TextEquiv>
+          <Unicode>førdi sum oftast toku við sær, og var sjálv huld í mjørka. Nú skal sigast</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c6d8ac13" custom="structure {type:default;}">
+        <Coords points="283,1189 769,1189 783,1180 844,1190 846,1190 1372,1190 1376,1169 1376,1126 1347,1114 1345,1114 1343,1114 1208,1124 1206,1124 1045,1114 1043,1114 1041,1114 1039,1114 1029,1124 1027,1126 877,1126 875,1124 852,1114 850,1114 848,1114 846,1114 844,1114 830,1122 820,1114 820,1112 818,1112 816,1112 814,1112 813,1112 811,1112 797,1122 670,1112 668,1112 282,1120 282,1165"/>
+        <Baseline points="282,1165 1376,1169"/>
+        <TextEquiv>
+          <Unicode>frá, hvussu til bar, at hon varð føst oyggj.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_df99e23a" custom="structure {type:default;}">
+        <Coords points="282,1300 2136,1297 2140,1270 2134,1227 2031,1229 2025,1225 2006,1215 2004,1215 2002,1215 2000,1215 1998,1215 1982,1225 1975,1231 1592,1231 1565,1225 1520,1215 1518,1215 1516,1215 1491,1223 1470,1233 1257,1233 1241,1223 1240,1221 1238,1221 1236,1221 1234,1221 1212,1223 1152,1231 1097,1223 1060,1217 1058,1217 1056,1217 1037,1223 1007,1231 791,1221 715,1219 713,1219 699,1221 655,1233 620,1221 612,1219 610,1219 608,1219 577,1221 483,1229 467,1221 464,1219 462,1219 460,1219 458,1219 452,1221 426,1229 280,1221 282,1276"/>
+        <Baseline points="282,1276 2140,1270"/>
+        <TextEquiv>
+          <Unicode>Í bygdini Viðareiði á Viðoynni áttu menn eina súgv, men ongan gølt, og</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_50a0dac3" custom="structure {type:default;}">
+        <Coords points="285,1381 2158,1377 2158,1346 2152,1297 1655,1303 1633,1301 1590,1293 1588,1293 1450,1301 1386,1305 1358,1303 1302,1295 1300,1295 1298,1295 1273,1303 1263,1305 1236,1303 1136,1295 1134,1295 1043,1305 1033,1305 1029,1305 996,1295 994,1295 992,1295 990,1295 963,1305 953,1305 742,1297 740,1297 738,1297 736,1297 723,1307 721,1309 637,1309 596,1309 532,1297 530,1297 528,1297 487,1307 448,1297 446,1297 444,1297 362,1307 310,1297 308,1297 306,1297 282,1307 284,1352"/>
+        <Baseline points="284,1352 2158,1346"/>
+        <TextEquiv>
+          <Unicode>tó varð súgvin kviðin á hvørjum ári og átti grísar. Allir undraðust mikið á</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dae934ab" custom="structure {type:default;}">
+        <Coords points="282,1453 2170,1454 2171,1422 2168,1383 1996,1383 1996,1381 1975,1371 1973,1371 1971,1371 1969,1371 1936,1381 1934,1381 1930,1381 1858,1371 1856,1371 1854,1371 1822,1381 1821,1381 1809,1381 1694,1371 1692,1371 1388,1379 1312,1381 1306,1379 1294,1371 1292,1371 1290,1371 1288,1371 1238,1379 1210,1383 1162,1379 1095,1373 1093,1373 1091,1373 1078,1379 1066,1383 1060,1379 1052,1373 1050,1373 1048,1373 1046,1373 988,1379 933,1383 900,1377 867,1373 865,1373 783,1377 692,1383 678,1377 668,1373 666,1373 664,1373 643,1377 614,1383 579,1377 553,1373 551,1373 528,1377 495,1383 280,1377 282,1426"/>
+        <Baseline points="282,1426 2171,1422"/>
+        <TextEquiv>
+          <Unicode>hetta, og kundu ikki fáa skil á, hvussu hetta bar til. Fólk søgdu nú, at tey</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b1ea849d" custom="structure {type:default;}">
+        <Coords points="283,1529 2129,1534 2129,1500 2125,1459 280,1459 282,1504"/>
+        <Baseline points="282,1504 2129,1500"/>
+        <TextEquiv>
+          <Unicode>høvdu saknað hana stundum úr bygdini, men at hon tó altíð var komin</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fc04fb69" custom="structure {type:default;}">
+        <Coords points="284,1603 608,1603 608,1582 608,1543 538,1543 493,1525 491,1525 489,1525 487,1525 440,1541 428,1531 428,1529 426,1529 425,1529 358,1525 356,1525 354,1525 352,1525 352,1527 343,1535 331,1527 329,1527 327,1527 325,1527 323,1527 284,1541 284,1582"/>
+        <Baseline points="284,1582 608,1582"/>
+        <TextEquiv>
+          <Unicode>skjótt aftur.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_98ea4b5f" custom="structure {type:default;}">
+        <Coords points="331,1673 504,1685 506,1685 551,1675 553,1675 569,1675 930,1685 931,1685 974,1675 988,1673 1004,1675 1048,1683 1050,1683 1117,1675 1146,1673 1165,1675 1204,1683 1206,1685 1317,1685 1317,1683 1319,1683 1321,1683 1331,1677 1337,1673 1364,1677 1419,1683 1421,1683 1563,1677 1655,1680 2177,1677 2179,1652 2173,1603 329,1609 331,1658"/>
+        <Baseline points="331,1658 2179,1652"/>
+        <TextEquiv>
+          <Unicode>Ein dagin fór hon kvikliga eystur ígjøgnum bygdina og yvir um eið móti</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aaa10a82" custom="structure {type:default;}">
+        <Coords points="280,1759 2048,1760 2049,1728 2045,1679 871,1679 869,1679 729,1689 727,1689 723,1689 294,1681 292,1681 290,1681 288,1681 280,1685 282,1734"/>
+        <Baseline points="282,1734 2049,1728"/>
+        <TextEquiv>
+          <Unicode>Eiðsvík. Ein kona fekk fatur á henni og bant lyklakippu upp í halan á</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4d33d4cb" custom="structure {type:default;}">
+        <Coords points="280,1823 350,1835 352,1835 354,1835 356,1835 372,1825 534,1835 536,1835 590,1825 670,1825 682,1835 684,1835 686,1835 688,1835 690,1835 692,1835 707,1825 814,1835 816,1835 1316,1825 1417,1835 1419,1835 1472,1823 1472,1808 1472,1767 1440,1755 1438,1755 1436,1755 1434,1755 1403,1767 1240,1755 1238,1755 1236,1755 1234,1755 1214,1769 961,1769 949,1757 947,1757 945,1757 943,1757 941,1757 898,1767 836,1755 834,1755 832,1755 793,1767 766,1755 764,1755 762,1755 760,1755 721,1767 662,1755 660,1755 658,1755 657,1755 657,1757 645,1767 588,1757 586,1757 584,1757 582,1757 569,1767 516,1755 514,1755 378,1767 300,1755 298,1755 296,1755 294,1755 280,1763 280,1808"/>
+        <Baseline points="280,1808 1472,1808"/>
+        <TextEquiv>
+          <Unicode>henni. Súgvin fór á sjógvin og svam frá landi.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6f9bf225" custom="structure {type:default;}">
+        <Coords points="331,1909 978,1911 980,1911 1060,1901 1089,1911 1091,1911 1093,1911 1158,1899 1165,1899 1169,1899 1195,1909 1197,1909 1199,1909 1253,1899 1261,1899 1269,1899 1329,1909 1331,1909 1397,1899 1403,1899 1407,1899 1440,1909 1442,1909 1444,1909 1706,1906 1719,1899 1723,1899 1852,1909 1854,1909 1910,1897 1912,1882 1908,1841 1830,1829 1828,1829 1764,1839 1760,1841 1409,1841 1405,1839 1384,1829 1382,1829 1380,1829 1288,1837 1269,1839 1265,1837 1255,1829 1253,1829 1251,1829 1142,1829 1140,1829 1138,1829 1136,1829 1124,1837 1115,1843 943,1843 933,1837 928,1831 926,1831 924,1831 922,1831 898,1837 877,1841 861,1837 846,1831 844,1831 842,1831 840,1831 822,1835 803,1841 329,1835 331,1885"/>
+        <Baseline points="331,1885 1912,1882"/>
+        <TextEquiv>
+          <Unicode>Nakað eftir hetta síggja menn á Viðareiði oyggj koma undan</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ab943c8a" custom="structure {type:default;}">
+        <Coords points="282,1988 2019,1985 2021,1960 2015,1911 1700,1917 1633,1913 1551,1907 1550,1907 1548,1907 1546,1907 1536,1913 1532,1917 1526,1913 1518,1907 1516,1907 1514,1907 1512,1907 1511,1907 1491,1913 1481,1917 1475,1913 1462,1907 1460,1907 1349,1907 1347,1907 1345,1907 1329,1915 1323,1919 974,1919 955,1917 885,1909 883,1909 814,1919 803,1919 775,1919 567,1909 565,1909 563,1909 536,1919 444,1911 442,1911 280,1921 282,1963"/>
+        <Baseline points="282,1963 2021,1960"/>
+        <TextEquiv>
+          <Unicode>sunnanvert á eiðinum. Teir manna sum skjótast út bát og rógva at</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c285f8da" custom="structure {type:default;}">
+        <Coords points="279,2066 2139,2061 2138,2032 2134,1991 2012,1979 2010,1979 2008,1979 1988,1989 1797,1979 1795,1979 1741,1991 1602,1981 1600,1981 1598,1981 1559,1991 1540,1981 1538,1981 1536,1981 1390,1993 1027,1983 1025,1983 1023,1983 982,1995 653,1985 651,1985 277,1998 280,2041"/>
+        <Baseline points="280,2041 2138,2032"/>
+        <TextEquiv>
+          <Unicode>oynni, og nú kundu teir bæði finna hana og lenda á henni. Tá ið súgvin</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ad0ae609" custom="structure {type:default;}">
+        <Coords points="282,2143 2080,2137 2080,2108 2076,2069 1772,2069 1748,2057 1746,2057 1744,2057 1743,2057 1719,2067 1598,2059 1596,2059 1546,2069 1532,2059 1530,2059 1528,2059 1526,2059 1470,2069 1029,2061 1027,2061 1025,2061 994,2071 731,2061 729,2061 727,2061 703,2073 384,2063 382,2063 325,2073 296,2063 294,2063 292,2063 290,2063 288,2063 280,2069 282,2115"/>
+        <Baseline points="282,2115 2080,2108"/>
+        <TextEquiv>
+          <Unicode>hevði borið jarn á hana, festist hon, og straks lýsti í mjørkanum, sum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9685bb8a" custom="structure {type:default;}">
+        <Coords points="282,2217 1601,2219 1602,2187 1600,2147 1563,2135 1561,2135 1559,2135 1557,2135 1555,2135 1542,2145 1489,2135 1487,2135 1261,2145 1187,2135 1185,2135 1087,2145 1029,2135 1027,2135 1025,2135 1006,2145 928,2137 926,2137 924,2137 922,2137 922,2139 912,2147 850,2137 848,2137 846,2137 844,2137 830,2147 678,2137 676,2137 567,2147 555,2137 553,2137 551,2137 389,2137 387,2137 319,2147 296,2137 294,2137 292,2137 290,2137 288,2137 288,2139 280,2145 282,2191"/>
+        <Baseline points="282,2191 1602,2187"/>
+        <TextEquiv>
+          <Unicode>hevði ligið um hana. Og har hevur hon ligið síðani.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dc10a26f" custom="structure {type:default;}">
+        <Coords points="332,2293 2021,2289 2023,2262 2017,2217 329,2221 331,2267"/>
+        <Baseline points="331,2267 2023,2262"/>
+        <TextEquiv>
+          <Unicode>Men teir kallaðu hana Svínoy, av tí hon var full av svínum, tá teir</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8b097f34" custom="structure {type:default;}">
+        <Coords points="280,2367 2147,2364 2146,2338 2136,2297 1789,2287 1787,2287 1705,2297 1686,2287 1684,2287 1682,2287 1633,2299 1626,2299 1596,2299 1448,2289 1446,2289 1296,2299 1267,2299 1257,2299 1210,2289 1208,2289 1160,2299 1142,2300 1132,2299 1113,2291 1111,2291 1109,2291 1043,2299 1011,2300 992,2299 955,2291 953,2291 951,2291 930,2299 922,2300 914,2299 898,2291 896,2291 894,2291 807,2299 738,2302 278,2299 280,2345"/>
+        <Baseline points="280,2345 2146,2338"/>
+        <TextEquiv>
+          <Unicode>komu út á hana, og svín hevði fest hana í botn, so at hon ikki var flotoy</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c19541a7" custom="structure {type:default;}">
+        <Coords points="282,2445 2012,2446 2014,2412 2010,2371 715,2365 713,2365 711,2365 709,2365 697,2375 294,2367 292,2367 290,2367 288,2367 280,2373 282,2419"/>
+        <Baseline points="282,2419 2014,2412"/>
+        <TextEquiv>
+          <Unicode>longur. Men úti á henni var tað, at Viðareiðissúgvin hevði søkt sær</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0630d561" custom="structure {type:default;}">
+        <Coords points="282,2495 282,2517 366,2528 368,2528 471,2517 471,2495 471,2454 440,2443 438,2443 436,2443 434,2443 403,2454 348,2443 347,2443 345,2443 323,2454 304,2443 302,2443 300,2443 298,2443 296,2443 294,2443 282,2451 282,2495"/>
+        <Baseline points="282,2495 471,2495"/>
+        <TextEquiv>
+          <Unicode>brund.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_97641b35"  custom="structure {type:text;}">
+      <Coords points="2140,3086 2197,3125 2181,3177 2090,3154 2097,3101 2140,3086"/>
+      <TextLine id="eSc_line_3aee9e20" custom="structure {type:default;}">
+        <Coords points="2181,3115 2166,3105 2103,3105 2103,3154 2103,3169 2181,3179 2183,3154 2183,3117 2181,3115"/>
+        <Baseline points="2103,3154 2183,3154"/>
+        <TextEquiv>
+          <Unicode>91</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

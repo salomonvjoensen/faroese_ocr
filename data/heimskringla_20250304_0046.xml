@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-03-07T13:34:11.769916+00:00</Created>
+        <LastChange>2025-03-09T15:50:09.325531+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="heimskringla_20250304_0046.png" imageWidth="2480" imageHeight="3507">
+    <TextRegion id="eSc_textblock_e7c21ec9"  custom="structure {type:text;}">
+      <Coords points="384,288 2173,311 2173,372 2064,444 2088,522 2072,660 1815,740 1910,841 2134,857 2181,896 2166,1011 2134,1034 2212,1254 2205,1595 2033,1745 2119,1808 2134,1977 2212,2041 2212,2234 2072,2314 2072,2382 2010,2454 2111,2525 2119,2655 1302,2671 1201,2686 1152,2733 304,2717 304,553 311,374 335,311 384,288"/>
+      <TextLine id="eSc_line_28a06f75" custom="structure {type:default;}">
+        <Coords points="2134,309 2115,309 2095,309 2076,309 2056,309 2037,309 2017,307 1998,307 1978,307 1959,307 1939,307 1920,307 1900,307 1881,307 1861,305 1842,305 1822,305 1803,305 1783,305 1770,305 1641,307 1598,303 1588,303 1569,301 1550,301 1530,301 1511,301 1491,301 1472,301 1452,301 1433,301 1413,300 1394,300 1374,300 1368,300 976,305 963,296 961,296 959,296 362,296 362,342 361,364 2166,372 2166,348 2162,309 2154,309"/>
+        <Baseline points="362,342 2166,348"/>
+        <TextEquiv>
+          <Unicode>Tá ið hann kom aftur til bátin, vóru hinir fegnir: teir høvdu mist hann reint</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_61e97b87" custom="structure {type:default;}">
+        <Coords points="1965,440 1969,416 1967,381 1111,370 1109,370 879,372 352,377 319,368 317,413 315,441"/>
+        <Baseline points="317,413 1969,416"/>
+        <TextEquiv>
+          <Unicode>burtur, søgdu teir, og høvdu kvíðað firi honun. So halda teir norður.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0b06e52d" custom="structure {type:default;}">
+        <Coords points="355,514 2036,515 2037,489 2033,450 354,444 356,490"/>
+        <Baseline points="356,490 2037,489"/>
+        <TextEquiv>
+          <Unicode>Nú er at siga frá, at bóndin norðuri í Vági giftist og fekk eitt rættuligt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a8292c7e" custom="structure {type:default;}">
+        <Coords points="315,584 2071,585 2070,561 2070,522 315,522 315,561"/>
+        <Baseline points="315,561 2070,561"/>
+        <TextEquiv>
+          <Unicode>avinnudýr til son, ið fekst næstan ongantíð út. Eina ferð vóru teir á fjalli</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6ddf3a38" custom="structure {type:default;}">
+        <Coords points="2050,660 2056,635 2053,588 1780,596 1750,586 1748,586 1746,586 1744,586 1707,596 1670,586 1668,586 1666,586 1665,586 1641,596 1571,584 1559,584 1557,584 1524,584 1321,594 1271,584 1269,584 1267,584 1265,584 1222,594 1208,584 1206,584 1204,584 1202,584 1199,584 990,592 951,582 949,582 947,582 945,582 943,582 941,582 922,592 891,582 889,582 887,582 885,582 883,582 881,582 844,592 699,582 676,580 674,580 653,580 530,590 504,580 503,580 501,580 499,580 497,580 495,580 475,592 352,592 317,580 315,627 316,654"/>
+        <Baseline points="315,627 2056,635"/>
+        <TextEquiv>
+          <Unicode>innanvíkar í Vági. Bóndin hevði sonin við sær. Tá ið seyðurin er komin í</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6c77655a" custom="structure {type:default;}">
+        <Coords points="315,724 1705,732 1709,707 1707,670 317,662 317,701"/>
+        <Baseline points="317,701 1709,707"/>
+        <TextEquiv>
+          <Unicode>rættina, rópar sonur bóndans - hann situr uppi á rættini:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6dbedbaf" custom="structure {type:default;}">
+        <Coords points="366,773 366,785 428,798 430,800 503,800 503,798 504,798 506,798 520,787 569,796 571,796 573,796 596,787 697,798 699,798 701,798 744,787 760,798 762,798 764,798 766,800 906,800 906,798 908,798 939,785 939,773 939,734 366,728 366,773"/>
+        <Baseline points="366,773 939,773"/>
+        <TextEquiv>
+          <Unicode>&quot;Pápi, nú hugsi eg eitt!&quot;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ff6d1d91" custom="structure {type:default;}">
+        <Coords points="362,857 444,868 446,868 894,861 1111,870 1113,870 1854,873 1854,847 1852,808 1123,808 1109,800 1101,796 1099,796 1097,796 906,798 485,804 364,794 364,843"/>
+        <Baseline points="364,843 1854,847"/>
+        <TextEquiv>
+          <Unicode>&quot;Fátækur, tað man vera prýðiligt, ið tú hugsar,&quot; svarar pápin.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_65f5e8c8" custom="structure {type:default;}">
+        <Coords points="2158,878 2156,876 364,868 364,917 364,933 2164,937 2168,917 2166,884 2158,878"/>
+        <Baseline points="364,917 2168,917"/>
+        <TextEquiv>
+          <Unicode>&quot;Eg hugsi tað,&quot; sigur sonurin, &quot;at tað hevði verið ein ónatúrligur ketil, ið øll</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_22e9ffca" custom="structure {type:default;}">
+        <Coords points="315,985 313,999 370,1011 372,1011 1214,1003 1216,989 1214,942 315,944 315,985"/>
+        <Baseline points="315,985 1216,989"/>
+        <TextEquiv>
+          <Unicode>henda gongan sikuldi verið kókað í.&quot;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_656ffc03" custom="structure {type:default;}">
+        <Coords points="358,1057 356,1073 534,1085 536,1085 906,1077 939,1087 941,1087 943,1087 1450,1079 1520,1089 1522,1089 2099,1079 2101,1063 2099,1022 358,1015 358,1057"/>
+        <Baseline points="358,1057 2101,1063"/>
+        <TextEquiv>
+          <Unicode>Tá mutlaði hin gamli: &quot;Eg hugsaði so.&quot; Okkurt býttligt mundi tað fara at</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_74d7681a" custom="structure {type:default;}">
+        <Coords points="318,1128 315,1145 716,1148 722,1131 719,1087 318,1084 318,1128"/>
+        <Baseline points="320,1130 725,1133"/>
+        <TextEquiv>
+          <Unicode>vera, visti hann.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_64bf0810" custom="structure {type:default;}">
+        <Coords points="1271,1167 1228,1159 1201,1155 1199,1155 1004,1157 545,1163 352,1153 352,1204 352,1226 2186,1230 2185,1207 2183,1182 2177,1167"/>
+        <Baseline points="352,1204 2185,1207"/>
+        <TextEquiv>
+          <Unicode>Frá Haraldsundsbóndanun er at siga, at hann fekk fimm útvaldar dugandi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9c247eda" custom="structure {type:default;}">
+        <Coords points="318,1299 2194,1305 2199,1276 2197,1239 1988,1239 1986,1237 1955,1227 1953,1227 1951,1227 1846,1237 1840,1237 1838,1237 1805,1227 1803,1227 1801,1227 1721,1237 1713,1239 1569,1239 1565,1237 1548,1227 1546,1227 1544,1227 1070,1235 1052,1235 1023,1225 1021,1225 1019,1225 317,1233 317,1272"/>
+        <Baseline points="317,1272 2199,1276"/>
+        <TextEquiv>
+          <Unicode>synir. Tá ið teir vóru nakað tilkomnir, vóru teir frálíka dúguligir útróðrarmenn.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9a36187a" custom="structure {type:default;}">
+        <Coords points="354,1370 2179,1375 2183,1348 2181,1311 2115,1299 2113,1299 2054,1309 2051,1309 2047,1309 2010,1299 2008,1299 2006,1299 1945,1309 1936,1309 1920,1309 1830,1299 1828,1299 1635,1305 1536,1309 1512,1305 1481,1299 1479,1299 1477,1299 1460,1305 1442,1309 1423,1305 1397,1299 1395,1299 1394,1299 1392,1299 1386,1303 1378,1309 1362,1303 1349,1299 1347,1299 1345,1299 1312,1303 1269,1309 1128,1309 1119,1301 1113,1297 1111,1297 1109,1297 1107,1297 908,1301 547,1307 524,1297 522,1297 520,1297 352,1297 352,1344"/>
+        <Baseline points="352,1344 2183,1348"/>
+        <TextEquiv>
+          <Unicode>Ein morgun - tá var hin rádni Rasmus, pápi teirra, avgamal - fóru teir eldru</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ea963c5b" custom="structure {type:default;}">
+        <Coords points="315,1446 2120,1445 2123,1418 2123,1381 315,1381 315,1418"/>
+        <Baseline points="315,1418 2123,1418"/>
+        <TextEquiv>
+          <Unicode>synirnir fyri dag av Haraldsundi og ætlaðu sær til útróðrar. Sum teir koma</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_40308e8d" custom="structure {type:default;}">
+        <Coords points="311,1511 2144,1517 2150,1496 2148,1455 313,1445 313,1486"/>
+        <Baseline points="313,1486 2150,1496"/>
+        <TextEquiv>
+          <Unicode>norður fyri Búadal (ímillum Haraldsunds og Skarðs, har sigst at vera íbygt),</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2c06b29b" custom="structure {type:default;}">
+        <Coords points="315,1558 313,1576 364,1587 366,1587 2195,1585 2197,1564 2195,1525 315,1519 315,1558"/>
+        <Baseline points="315,1558 2197,1564"/>
+        <TextEquiv>
+          <Unicode>síggja teir ein bát flóta inni á einari gjógv, nevnd Torvgjógv (tríggjar fjórðingar</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_07471f1e" custom="structure {type:default;}">
+        <Coords points="313,1630 311,1646 2045,1652 2049,1636 2047,1599 1520,1599 1512,1597 1470,1587 1468,1587 313,1591 313,1630"/>
+        <Baseline points="313,1630 2049,1636"/>
+        <TextEquiv>
+          <Unicode>norðanfyri Haraldsund). Teir halda hetta vera Strandarmenn (menn av</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8cce6882" custom="structure {type:default;}">
+        <Coords points="315,1722 1884,1729 1881,1704 1881,1667 315,1659 315,1704"/>
+        <Baseline points="315,1704 1881,1704"/>
+        <TextEquiv>
+          <Unicode>Strond á BorSoynni), og ein av brøðrunun rópar fyri at speireka:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_754a3c07" custom="structure {type:default;}">
+        <Coords points="358,1799 1031,1802 1033,1802 1278,1790 1296,1790 1343,1799 1676,1800 1678,1800 1680,1800 1709,1788 1709,1772 1705,1735 356,1735 358,1776"/>
+        <Baseline points="358,1776 1709,1772"/>
+        <TextEquiv>
+          <Unicode>&quot;Óreint og tíðliga eru Strandarnósarnir á veg í morgun!&quot;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cd7b201c" custom="structure {type:default;}">
+        <Coords points="354,1868 2107,1874 2109,1852 2107,1813 356,1804 356,1845"/>
+        <Baseline points="356,1845 2109,1852"/>
+        <TextEquiv>
+          <Unicode>&quot;Hetta skal verða bevnt,&quot; verður aftursvaraði úr gjónni. Brøðurnir hugsa</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_47f83676" custom="structure {type:default;}">
+        <Coords points="311,1915 310,1930 339,1940 341,1940 343,1940 637,1932 801,1942 803,1942 1267,1932 1269,1919 1269,1882 311,1878 311,1915"/>
+        <Baseline points="311,1915 1269,1919"/>
+        <TextEquiv>
+          <Unicode>einki meira um hetta og rógva til havs.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9bdc09a7" custom="structure {type:default;}">
+        <Coords points="354,2019 2088,2017 2090,1989 2086,1954 1815,1954 1813,1952 1799,1942 1797,1942 1795,1942 1793,1942 1754,1952 1746,1954 1522,1954 1516,1950 1501,1942 1499,1942 1497,1942 1411,1950 1370,1952 1349,1948 1302,1940 1300,1940 1243,1948 1212,1952 1162,1948 1095,1942 1093,1942 1066,1948 1031,1954 994,1946 976,1944 974,1944 972,1944 970,1944 968,1946 955,1956 814,1956 789,1946 779,1942 777,1942 775,1942 750,1946 694,1954 678,1944 674,1942 672,1942 670,1942 668,1942 352,1942 354,1993"/>
+        <Baseline points="354,1993 2090,1989"/>
+        <TextEquiv>
+          <Unicode>Tá ið teir koma aftur um kvøldið, spyr hin gamli, hvussu teimum hevur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a23a4778" custom="structure {type:default;}">
+        <Coords points="1904,2024 1858,2012 1856,2012 1854,2012 1815,2024 1588,2024 1522,2012 1520,2012 1335,2022 1259,2012 1257,2012 1255,2012 1253,2012 1238,2024 1162,2014 1160,2014 1158,2014 1121,2024 928,2014 926,2014 871,2024 846,2014 844,2014 842,2014 764,2024 750,2014 748,2014 746,2014 343,2014 341,2014 339,2014 311,2024 313,2065 315,2088 2193,2091 2193,2061 2189,2024 2187,2024"/>
+        <Baseline points="313,2065 2193,2061"/>
+        <TextEquiv>
+          <Unicode>gingist. Teir siga honum frá Strandarnósunun, at teir hava borið eyga við teir</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bcedafd0" custom="structure {type:default;}">
+        <Coords points="311,2135 311,2150 551,2150 573,2160 575,2160 577,2162 709,2162 709,2160 711,2160 713,2160 713,2158 723,2150 774,2160 775,2160 873,2150 1173,2160 1175,2160 1230,2150 1253,2160 1255,2160 1257,2160 1339,2149 1339,2135 1339,2098 311,2098 311,2135"/>
+        <Baseline points="311,2135 1339,2135"/>
+        <TextEquiv>
+          <Unicode>inni á Torvgjógv, rópað á teir og skýrt teir.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f1007cbb" custom="structure {type:default;}">
+        <Coords points="356,2203 354,2217 413,2228 415,2228 666,2221 680,2221 686,2221 770,2230 2197,2232 2201,2213 2197,2162 1975,2170 1887,2160 1877,2160 1875,2160 1873,2160 1871,2160 1852,2170 1832,2160 1826,2158 1824,2158 1822,2158 1762,2160 1587,2168 1499,2160 1458,2156 1456,2156 1399,2160 1294,2166 356,2158 356,2203"/>
+        <Baseline points="356,2203 2201,2213"/>
+        <TextEquiv>
+          <Unicode>&quot;Ringir nósar munnu fara at vera burtur úr fyri tykkum,&quot; heldur hin gamli og</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ddcecb5d" custom="structure {type:default;}">
+        <Coords points="310,2273 308,2289 1764,2295 1768,2279 1764,2232 310,2234 310,2273"/>
+        <Baseline points="310,2273 1768,2279"/>
+        <TextEquiv>
+          <Unicode>snerkir nøsina, &quot;hetta man koma tykkun aftur um brekkur.&quot;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_790e745d" custom="structure {type:default;}">
+        <Coords points="350,2351 350,2367 2037,2369 2039,2351 2039,2312 350,2312 350,2351"/>
+        <Baseline points="350,2351 2039,2351"/>
+        <TextEquiv>
+          <Unicode>Hann orðar við synirnar, at sama dagin aftur í ársmóti skulu teir siga</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8233945c" custom="structure {type:default;}">
+        <Coords points="312,2440 1218,2444 1218,2423 1216,2384 1119,2373 947,2373 945,2373 943,2373 941,2373 930,2382 928,2382 914,2382 836,2373 834,2373 731,2380 719,2380 709,2373 709,2371 707,2371 705,2371 703,2371 310,2376 310,2419"/>
+        <Baseline points="310,2419 1218,2423"/>
+        <TextEquiv>
+          <Unicode>honum frá, tá ið teir fara til útróðrar.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2a7b98bd" custom="structure {type:default;}">
+        <Coords points="347,2516 1936,2511 1939,2489 1936,2454 1579,2454 1577,2452 1563,2443 1561,2443 1559,2443 1557,2443 1195,2452 1099,2454 1091,2452 1072,2445 1070,2445 1068,2445 1025,2452 1011,2454 1004,2452 984,2445 982,2445 980,2445 978,2445 955,2452 945,2454 916,2452 838,2445 836,2445 834,2445 805,2452 791,2454 768,2452 709,2445 707,2445 705,2445 688,2452 680,2454 674,2452 655,2445 653,2445 651,2445 347,2451 348,2493"/>
+        <Baseline points="348,2493 1939,2489"/>
+        <TextEquiv>
+          <Unicode>So líður árið - teir rógva út við sama lag. Kvøldið frammanundan</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_516773c8" custom="structure {type:default;}">
+        <Coords points="310,2587 2098,2588 2097,2564 2097,2528 310,2528 310,2564"/>
+        <Baseline points="310,2564 2097,2564"/>
+        <TextEquiv>
+          <Unicode>ársdeginun eftir hetta fer hin gamli í loynd og leggur seg í bátin inn undir</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_93305e2e" custom="structure {type:default;}">
+        <Coords points="310,2632 308,2657 2105,2665 2109,2638 2107,2601 310,2595 310,2632"/>
+        <Baseline points="310,2632 2109,2638"/>
+        <TextEquiv>
+          <Unicode>seglið frammi í skuti; hann hugsar, sum beint man vera, at synirnir munu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4aa1eb39" custom="structure {type:default;}">
+        <Coords points="310,2702 308,2735 399,2729 413,2737 415,2739 417,2739 419,2739 623,2741 625,2741 627,2741 637,2737 658,2727 869,2727 892,2735 912,2743 914,2743 916,2743 955,2735 984,2729 1150,2733 1154,2708 1152,2669 865,2655 863,2655 861,2655 834,2665 758,2655 756,2655 754,2655 721,2665 719,2665 717,2665 688,2655 686,2655 684,2655 682,2655 658,2665 657,2665 491,2665 491,2663 481,2655 481,2653 479,2653 477,2653 475,2653 310,2661 310,2702"/>
+        <Baseline points="310,2702 1154,2708"/>
+        <TextEquiv>
+          <Unicode>ikki siga honum frá, tá ið teir fara.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_45275b4f"  custom="structure {type:text;}">
+      <Coords points="2162,3039 2212,3054 2197,3123 2113,3107 2121,3047 2162,3039"/>
+      <TextLine id="eSc_line_0b45d0dd" custom="structure {type:default;}">
+        <Coords points="2181,3045 2175,3042 2152,3039 2129,3042 2123,3045 2126,3097 2126,3132 2205,3129 2205,3094 2202,3092 2181,3045"/>
+        <Baseline points="2128,3098 2207,3097"/>
+        <TextEquiv>
+          <Unicode>42</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

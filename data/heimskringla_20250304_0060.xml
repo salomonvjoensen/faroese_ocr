@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-03-07T13:34:23.185390+00:00</Created>
+        <LastChange>2025-03-09T21:11:08.892984+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="heimskringla_20250304_0060.png" imageWidth="2480" imageHeight="3507">
+    <TextRegion id="eSc_textblock_512b4a5a"  custom="structure {type:text;}">
+      <Coords points="313,288 855,296 928,366 1448,374 1464,434 1433,457 881,457 608,489 543,582 380,660 723,693 754,724 738,785 536,839 343,847 296,761 296,709 335,668 296,535 313,288"/>
+      <TextLine id="eSc_line_1274f733" custom="structure {type:default;}">
+        <Coords points="859,301 840,296 838,296 836,296 834,296 807,305 781,296 779,296 777,296 775,296 752,305 713,296 711,296 709,296 707,296 682,305 680,307 532,307 526,303 510,296 508,296 506,296 317,301 311,313 311,346 311,362 871,362 871,346 871,313 859,301"/>
+        <Baseline points="311,346 871,346"/>
+        <TextEquiv>
+          <Unicode>V. U. Hammershaimb</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0cd9b9f7" custom="structure {type:default;}">
+        <Coords points="1444,385 1259,376 1257,376 1255,376 1253,376 1243,385 1241,387 1167,387 1165,385 1156,376 1156,374 1154,374 1152,374 1150,374 1148,374 1126,383 1004,374 1002,374 926,383 916,383 910,383 859,372 857,372 855,372 834,381 783,372 781,372 571,379 547,370 545,370 543,370 542,370 520,379 462,370 460,370 458,370 432,379 430,381 358,381 356,379 347,370 345,370 343,370 341,370 339,370 308,377 308,418 306,444 1446,446 1450,426 1448,391 1444,385"/>
+        <Baseline points="308,418 1450,426"/>
+        <TextEquiv>
+          <Unicode>Annaler for nordisk oldkyndighed og historie</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b5d8da82" custom="structure {type:default;}">
+        <Coords points="317,527 317,541 362,555 364,555 366,557 428,557 428,555 430,555 432,555 446,545 450,543 458,545 487,555 489,555 491,555 555,547 555,527 555,490 497,477 495,477 493,477 491,477 475,489 426,477 425,477 423,477 421,477 391,489 372,477 370,477 368,477 366,477 317,487 317,527"/>
+        <Baseline points="317,527 555,527"/>
+        <TextEquiv>
+          <Unicode>1846-54</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_da304ea2" custom="structure {type:default;}">
+        <Coords points="736,709 651,709 649,707 641,699 641,697 639,697 637,697 635,697 553,705 520,707 310,701 310,752 310,772 740,772 740,752 740,713 738,711"/>
+        <Baseline points="310,752 740,752"/>
+        <TextEquiv>
+          <Unicode>Símun í Kirkjubø</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_fe04a1d8"  custom="structure {type:text;}">
+      <Coords points="347,888 2197,927 2212,972 2142,1223 2166,1548 2142,1696 2072,1769 2080,1954 2205,2018 2181,2515 1973,2562 1932,2608 1614,2632 1557,2678 311,2678 288,2624 296,935 347,888"/>
+      <TextLine id="eSc_line_2082da3c" custom="structure {type:default;}">
+        <Coords points="313,923 313,964 310,988 2197,995 2199,972 2197,937 2193,933"/>
+        <Baseline points="313,964 2199,972"/>
+        <TextEquiv>
+          <Unicode>Tveir menn eru gitnir víða í Føroyum, ið báðir livdu um somu tíð. Æt annar</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3a5f9ea2" custom="structure {type:default;}">
+        <Coords points="307,1063 2145,1072 2148,1050 2144,1011 2017,1011 2006,1009 1971,999 1969,999 1967,999 1889,1007 1850,1011 1838,1007 1819,999 1817,999 1815,999 1762,1005 1723,1011 1680,1005 1626,997 1624,997 1526,1003 1436,1009 1403,1001 1378,997 1316,997 1314,997 1312,997 1310,997 1304,1001 1290,1009 1230,1001 1216,999 1214,999 1167,999 887,1007 867,997 867,995 865,995 863,995 861,995 859,995 855,997 834,1007 758,995 740,993 738,993 684,995 387,1005 310,991 310,1042"/>
+        <Baseline points="310,1042 2148,1050"/>
+        <TextEquiv>
+          <Unicode>Símun, og sat í Kirkjubø, annar æt Jón (Jógvan) í Skúvoy. Hesin Jón var</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e29f193f" custom="structure {type:default;}">
+        <Coords points="307,1145 2131,1150 2134,1130 2132,1091 2082,1079 2080,1079 1787,1087 1785,1087 1752,1077 1750,1077 1748,1077 1579,1087 1555,1087 1550,1087 1505,1075 1503,1075 1501,1075 1403,1085 1397,1085 1378,1085 1045,1073 1043,1073 947,1083 930,1083 668,1083 664,1081 651,1071 649,1071 647,1071 645,1071 532,1079 528,1079 503,1069 501,1069 499,1069 310,1077 310,1118"/>
+        <Baseline points="310,1118 2134,1130"/>
+        <TextEquiv>
+          <Unicode>sonur Ísaks Ísmalssonar í Dímun, sum var sýslumaður í Sandoyar sýslu.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f5d2e801" custom="structure {type:default;}">
+        <Coords points="308,1215 2089,1226 2092,1206 2090,1167 1822,1155 1821,1155 1752,1163 1737,1165 1729,1163 1688,1153 1686,1153 1538,1153 1536,1153 1534,1153 1512,1163 1509,1163 1477,1161 1292,1151 1290,1151 1189,1159 1167,1163 1043,1163 1037,1159 1013,1149 1011,1149 1009,1149 965,1159 961,1159 947,1149 945,1149 943,1149 941,1149 939,1149 937,1149 926,1159 924,1159 916,1159 869,1149 867,1149 809,1157 793,1159 781,1157 742,1149 740,1149 738,1149 719,1157 713,1159 310,1155 310,1196"/>
+        <Baseline points="310,1196 2092,1206"/>
+        <TextEquiv>
+          <Unicode>Men hann var ovbundin á Dímun, tí at hann kundi ikki hava bát har og</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b656b7b0" custom="structure {type:default;}">
+        <Coords points="308,1291 2073,1301 2072,1280 2070,1241 310,1233 310,1272"/>
+        <Baseline points="310,1272 2072,1280"/>
+        <TextEquiv>
+          <Unicode>soleiðis sleppa av oynni. Oyggin er brøtt niður í sjógvin ølluminni, og</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_258c6e8a" custom="structure {type:default;}">
+        <Coords points="304,1368 2132,1378 2136,1356 2136,1315 306,1301 306,1348"/>
+        <Baseline points="306,1348 2136,1356"/>
+        <TextEquiv>
+          <Unicode>hevur einki undirlendi til at seta bát á. Av teirri orsøk flutti hann úr oynni</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0d8d9e4d" custom="structure {type:default;}">
+        <Coords points="307,1445 1991,1452 1992,1430 1990,1387 308,1387 308,1424"/>
+        <Baseline points="308,1424 1992,1430"/>
+        <TextEquiv>
+          <Unicode>sjálvur sekstandi, og sjálvur ellifti av monnum. Hann settist niður í</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_468186c3" custom="structure {type:default;}">
+        <Coords points="307,1522 2147,1530 2150,1509 2148,1461 308,1457 308,1502"/>
+        <Baseline points="308,1502 2150,1509"/>
+        <TextEquiv>
+          <Unicode>Skúvoy, hvar hann fekk Stórstovugarð (sum Sigmundur Brestisson hevði</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_225b7fd1" custom="structure {type:default;}">
+        <Coords points="306,1591 378,1603 380,1603 871,1595 924,1605 926,1605 2129,1606 2131,1583 2129,1545 308,1539 308,1578"/>
+        <Baseline points="308,1578 2131,1583"/>
+        <TextEquiv>
+          <Unicode>átt) og tann sunnasta triðingin av jarðargóðsinum í Skúvoy - hinir báðir</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b2af5960" custom="structure {type:default;}">
+        <Coords points="304,1676 2126,1682 2127,1659 2125,1622 2064,1611 2062,1611 1984,1621 1982,1621 1961,1611 1959,1611 1957,1611 1912,1621 1908,1621 1900,1621 1791,1611 1789,1611 1727,1621 1719,1621 1709,1621 1647,1611 1645,1611 1643,1611 1641,1611 1627,1619 1626,1621 1616,1619 1567,1611 1565,1611 1511,1619 1495,1622 1218,1622 1201,1619 1160,1609 1158,1609 1101,1617 1087,1619 1078,1617 1039,1609 1037,1609 1000,1617 988,1619 967,1617 896,1609 894,1609 838,1617 814,1619 803,1617 779,1609 777,1609 775,1609 688,1615 639,1619 620,1615 586,1609 584,1609 582,1609 567,1615 557,1619 538,1615 508,1609 506,1609 306,1613 306,1656"/>
+        <Baseline points="306,1656 2127,1659"/>
+        <TextEquiv>
+          <Unicode>partarnir vóru býttir millum Jón Ólavsson, sum átti mittpartin, og bróður</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_54c81e9d" custom="structure {type:default;}">
+        <Coords points="1545,1756 1550,1735 1548,1698 1136,1698 1119,1693 1097,1687 1095,1687 1093,1687 826,1689 347,1693 308,1683 306,1730 304,1749"/>
+        <Baseline points="306,1730 1550,1735"/>
+        <TextEquiv>
+          <Unicode>hans Rasmus, sum átti norðasta partin av oynni.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e55cc263" custom="structure {type:default;}">
+        <Coords points="358,1819 456,1831 458,1831 828,1823 1489,1835 1491,1835 2030,1833 2031,1813 2031,1774 1998,1763 1996,1763 1994,1763 1945,1772 1943,1772 1939,1772 1834,1763 1832,1763 1830,1763 1813,1772 1809,1774 1602,1774 1594,1769 1581,1763 1579,1763 1577,1763 1546,1769 1524,1772 1316,1772 1308,1767 1302,1761 1300,1761 1298,1761 1296,1761 1294,1761 1282,1767 1271,1771 1146,1765 1066,1761 1064,1761 1009,1763 891,1769 873,1761 865,1759 863,1759 861,1759 859,1759 852,1761 830,1769 678,1759 657,1759 655,1759 653,1759 651,1759 625,1769 610,1759 608,1759 606,1759 604,1759 600,1759 540,1769 524,1759 522,1759 520,1759 360,1757 360,1808"/>
+        <Baseline points="360,1808 2031,1813"/>
+        <TextEquiv>
+          <Unicode>Tá ið hesin Ísakur doyði, fekk sonur hansara, Jógvan, garðin eftir</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_878c3eb7" custom="structure {type:default;}">
+        <Coords points="2044,1912 2049,1889 2047,1847 339,1847 306,1835 304,1882 301,1905"/>
+        <Baseline points="304,1882 2049,1889"/>
+        <TextEquiv>
+          <Unicode>honum. Jón Ísaksson var kønur í gandi, sum seinni her í søguni skal</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0fe17bb4" custom="structure {type:default;}">
+        <Coords points="306,1961 306,1977 454,1985 456,1985 458,1985 460,1985 460,1983 467,1975 469,1975 582,1975 582,1961 582,1924 540,1913 538,1913 491,1913 489,1913 487,1913 485,1913 485,1915 477,1923 475,1923 473,1923 460,1913 458,1913 456,1913 454,1913 452,1913 432,1921 419,1924 306,1917 306,1961"/>
+        <Baseline points="306,1961 582,1961"/>
+        <TextEquiv>
+          <Unicode>sigast frá.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4b66a54b" custom="structure {type:default;}">
+        <Coords points="2047,1991 2045,1991 1610,1997 1366,1998 1356,1993 1351,1989 1349,1989 1347,1989 1345,1989 1216,1993 1002,1998 976,1991 967,1987 965,1987 963,1987 961,1987 951,1989 931,1997 908,1989 900,1987 898,1987 896,1987 861,1989 754,1997 680,1987 672,1987 670,1987 664,1987 618,1997 588,1987 586,1987 584,1987 582,1987 456,1997 356,1985 356,2036 354,2054 2185,2063 2189,2041 2187,2008 2170,2000"/>
+        <Baseline points="356,2036 2189,2041"/>
+        <TextEquiv>
+          <Unicode>Símun var slektaður úr Sunnbø - abbi hans var Jenis í Laðangarði, sum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_badb46f0" custom="structure {type:default;}">
+        <Coords points="302,2123 325,2135 327,2135 329,2135 604,2133 631,2127 641,2127 787,2137 789,2137 1095,2131 1238,2134 1261,2133 1292,2139 1294,2139 1450,2135 1590,2139 2179,2146 2183,2117 2181,2082 1932,2071 1930,2071 1928,2071 1926,2071 1910,2080 1908,2082 1746,2082 1743,2080 1713,2069 1711,2069 1458,2069 1456,2069 1454,2069 1427,2078 1425,2078 1417,2078 1345,2069 1343,2069 1277,2078 1267,2078 1263,2078 1232,2067 1230,2067 1228,2067 1179,2076 1177,2076 1091,2067 1089,2067 982,2076 972,2076 963,2076 885,2067 883,2067 881,2067 879,2067 865,2076 861,2076 618,2076 616,2074 596,2065 594,2065 592,2065 304,2073 304,2110"/>
+        <Baseline points="304,2110 2183,2117"/>
+        <TextEquiv>
+          <Unicode>aðrar sagnir eru um - hann [Símun] var komin til Kirkjubøar og fekk hann</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_66b3f780" custom="structure {type:default;}">
+        <Coords points="300,2213 2181,2219 2185,2193 2183,2154 302,2145 302,2187"/>
+        <Baseline points="302,2187 2185,2193"/>
+        <TextEquiv>
+          <Unicode>í festi. Kona Símunar var systir áðurnevnda Jóns Ólafssonar í Skúvoy. Ikki</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_65a5119b" custom="structure {type:default;}">
+        <Coords points="305,2286 2152,2293 2156,2271 2154,2232 306,2224 306,2263"/>
+        <Baseline points="306,2263 2156,2271"/>
+        <TextEquiv>
+          <Unicode>sigist hann at hava verið góður og blíður við konuna, uttan heldur fingist</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a7be31f1" custom="structure {type:default;}">
+        <Coords points="302,2351 343,2363 345,2363 347,2363 582,2355 623,2365 625,2365 627,2365 1272,2363 1273,2345 1273,2308 1243,2297 1241,2297 1240,2297 1238,2297 1197,2306 1041,2297 1039,2297 994,2306 990,2306 986,2306 951,2295 949,2295 947,2295 945,2295 918,2304 820,2295 818,2295 816,2295 814,2295 814,2297 805,2304 805,2306 637,2306 633,2304 600,2293 598,2293 596,2293 594,2293 592,2293 581,2302 522,2293 520,2293 304,2300 304,2339"/>
+        <Baseline points="304,2339 1273,2345"/>
+        <TextEquiv>
+          <Unicode>við at sláa hana og fara illa við henni.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_112d0d5d" custom="structure {type:default;}">
+        <Coords points="350,2438 2182,2446 2187,2423 2185,2378 352,2373 352,2415"/>
+        <Baseline points="352,2415 2187,2423"/>
+        <TextEquiv>
+          <Unicode>Símun var bæði stórur og sterkur. Honum kravdi til stúku, tríggjar stikkur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_19f5c37d" custom="structure {type:default;}">
+        <Coords points="302,2513 1224,2513 1236,2515 1288,2523 1290,2523 1579,2515 1600,2515 1610,2515 1743,2525 1744,2525 2156,2515 2158,2499 2156,2458 302,2452 302,2491"/>
+        <Baseline points="302,2491 2158,2499"/>
+        <TextEquiv>
+          <Unicode>tvíhvølvt av vaðmali. Fram um hann tordi eingin av húskøllunum at fara á</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a3b6dfd0" custom="structure {type:default;}">
+        <Coords points="304,2593 1922,2603 1924,2575 1924,2538 1893,2526 1891,2526 1889,2526 1887,2526 1861,2536 1860,2536 1743,2526 1741,2526 1698,2534 1688,2536 1680,2534 1655,2526 1653,2526 1651,2526 1616,2534 1604,2536 1598,2534 1585,2526 1583,2526 1581,2526 1579,2526 1555,2532 1542,2536 1518,2532 1466,2525 1464,2525 1462,2525 1433,2532 1419,2536 1197,2536 1171,2528 1156,2525 1154,2525 1152,2525 1117,2528 1074,2532 1066,2526 1060,2523 1058,2523 1056,2523 1054,2523 1015,2526 961,2532 937,2526 926,2523 924,2523 922,2523 920,2523 914,2525 896,2532 855,2525 842,2523 840,2523 822,2525 760,2532 618,2523 616,2523 421,2530 304,2519 304,2567"/>
+        <Baseline points="304,2567 1924,2575"/>
+        <TextEquiv>
+          <Unicode>fjalli,, uttan hann vildi missa lív. Um so var, at seyðurin slapp úr</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b44dd6e0" custom="structure {type:default;}">
+        <Coords points="304,2645 302,2673 1557,2678 1561,2649 1559,2612 1456,2601 1454,2601 1405,2610 1403,2612 1275,2612 1275,2610 1265,2602 1265,2601 1263,2601 1261,2601 1259,2601 1257,2601 1218,2610 1214,2610 1206,2610 1119,2601 1117,2601 863,2608 859,2608 857,2608 775,2599 774,2599 304,2606 304,2645"/>
+        <Baseline points="304,2645 1561,2649"/>
+        <TextEquiv>
+          <Unicode>fjallgonguni, var Símun tó altíð fremstur av øllum.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_4acf0e18"  custom="structure {type:text;}">
+      <Coords points="2132,3109 2205,3125 2189,3193 2113,3185 2105,3132 2132,3109"/>
+      <TextLine id="eSc_line_1781a07e" custom="structure {type:default;}">
+        <Coords points="2152,3119 2150,3119 2148,3119 2146,3119 2119,3130 2119,3169 2119,3191 2193,3197 2195,3169 2193,3162 2191,3131"/>
+        <Baseline points="2119,3169 2195,3169"/>
+        <TextEquiv>
+          <Unicode>56</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

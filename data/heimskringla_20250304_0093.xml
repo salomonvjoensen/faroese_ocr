@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-03-07T13:34:49.690786+00:00</Created>
+        <LastChange>2025-03-12T21:16:25.964932+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="heimskringla_20250304_0093.png" imageWidth="2480" imageHeight="3507">
+    <TextRegion id="eSc_textblock_4a46aca9"  custom="structure {type:text;}">
+      <Coords points="1491,288 2166,303 2189,537 2166,987 990,1011 785,1065 280,1065 272,389 327,296 1491,288"/>
+      <TextLine id="eSc_line_571a6aa9" custom="structure {type:default;}">
+        <Coords points="2105,301 2086,301 2066,300 2047,300 2027,300 2008,300 1988,298 1969,298 1949,298 1930,298 1910,298 1906,296 1516,303 1292,300 970,296 968,296 933,303 922,305 822,305 354,298 352,298 350,298 331,305 333,350 332,380 2148,372 2148,344 2142,301 2125,301"/>
+        <Baseline points="333,350 2148,344"/>
+        <TextEquiv>
+          <Unicode>Akrabirgisbóndin og synir hansara tordu ikki at søkja at honum har, tí</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_60baff80" custom="structure {type:default;}">
+        <Coords points="284,452 2021,450 2023,420 2019,381 1442,370 1440,370 1438,370 1405,381 1257,372 1255,372 1253,372 1251,372 1236,383 1101,383 1064,372 1062,372 1060,372 1007,381 968,372 967,372 965,372 858,383 313,374 311,374 310,374 280,385 282,426"/>
+        <Baseline points="282,426 2023,420"/>
+        <TextEquiv>
+          <Unicode>at hann hevði vápn, og múrurin var vígdur. Tó lovaðu teir, at hann</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4043bb82" custom="structure {type:default;}">
+        <Coords points="284,530 2153,523 2156,496 2152,455 1704,444 1702,444 1700,444 1698,444 1678,455 1491,446 1489,446 1407,455 1374,446 1372,446 1370,446 1278,455 1241,446 1240,446 1238,446 1236,446 1208,457 961,448 959,448 912,457 869,448 867,448 865,448 746,459 384,450 382,450 380,450 356,459 323,450 321,450 319,450 317,450 282,461 284,504"/>
+        <Baseline points="284,504 2156,496"/>
+        <TextEquiv>
+          <Unicode>skuldi ikki sleppa og vóru tí standandi undir múrinum at forða honum at</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0267b85a" custom="structure {type:default;}">
+        <Coords points="284,594 885,603 887,603 970,594 974,594 996,594 1456,602 1458,602 1536,592 1563,601 2170,600 2171,572 2168,535 1973,535 1973,533 1937,524 1936,524 1934,524 1932,524 1900,533 1869,524 1867,524 1865,524 1715,533 1707,533 1698,533 1479,526 1477,526 1475,526 1452,533 1446,535 1415,533 1306,526 1304,526 1234,533 1210,535 1175,533 1070,526 1068,526 963,533 898,537 873,533 842,527 840,527 838,527 824,533 814,537 758,533 690,527 688,527 653,533 621,537 282,533 284,578"/>
+        <Baseline points="284,578 2171,572"/>
+        <TextEquiv>
+          <Unicode>koma oman aftur av honum, fyrr enn hann gafst sjálvur. Í tríggjar nætur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_adcbc693" custom="structure {type:default;}">
+        <Coords points="284,684 2141,678 2142,650 2138,603 399,603 397,603 282,613 284,656"/>
+        <Baseline points="284,656 2142,650"/>
+        <TextEquiv>
+          <Unicode>og dagar helt so hetta við, men tá ið triði dagurin var liðin at kvøldi, fell</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_99c6d519" custom="structure {type:default;}">
+        <Coords points="283,758 2162,756 2164,728 2160,687 2070,676 1920,676 1918,676 1916,676 1893,685 1834,676 1832,676 1772,685 1770,687 1649,687 1647,685 1631,676 1629,676 1627,676 1626,676 1544,685 1538,687 1427,687 1425,685 1409,676 1407,676 1405,676 1403,676 1255,685 1216,687 1189,685 1113,678 1111,678 1035,685 1009,687 982,685 912,678 910,678 908,678 887,685 879,687 805,685 618,678 616,678 280,683 282,732"/>
+        <Baseline points="282,732 2164,728"/>
+        <TextEquiv>
+          <Unicode>bispurin í óvit av svongd og tosta og datt út av múrinum niður á jørðina.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1f04c2cf" custom="structure {type:default;}">
+        <Coords points="282,808 282,837 354,826 538,833 540,833 635,824 672,833 674,833 676,833 678,833 703,824 1035,831 1113,831 1115,831 1117,831 1119,831 1121,829 1132,822 1179,829 1199,831 1201,831 1218,829 1255,822 1282,828 1298,831 1300,831 1302,831 1304,831 1306,831 1310,828 1319,820 1360,828 1376,829 1378,829 1401,828 1454,820 1491,826 1514,829 1516,829 2006,820 2008,798 2004,761 1803,750 1801,750 1729,759 1707,750 1705,750 1704,750 1702,750 1657,761 1409,752 1407,752 1405,752 1382,761 1286,754 1284,754 1282,754 1249,765 1027,765 972,754 970,754 867,765 627,755 625,755 561,767 294,757 292,757 290,757 288,757 280,763 282,808"/>
+        <Baseline points="282,808 2008,798"/>
+        <TextEquiv>
+          <Unicode>Hann raknaði tó við av fallinum, men tá varð hann straks dripin av</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c256b95b" custom="structure {type:default;}">
+        <Coords points="286,900 596,900 596,882 596,845 514,831 512,831 475,837 458,841 444,837 423,829 421,829 419,829 417,829 403,835 387,841 366,833 356,829 354,829 352,829 350,829 341,831 315,839 288,829 286,882 286,900"/>
+        <Baseline points="286,882 596,882"/>
+        <TextEquiv>
+          <Unicode>bóndanum.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9d634e9b" custom="structure {type:default;}">
+        <Coords points="345,997 791,997 793,997 828,1009 830,1009 832,1011 953,1011 953,1009 955,1009 957,1009 972,997 976,995 994,997 1050,1007 1052,1009 1218,1009 1218,1007 1220,1007 1238,997 1245,995 1280,999 1370,1007 1372,1009 1555,1009 1555,1007 1557,1007 1585,999 1604,993 1766,993 1778,999 1785,1005 1787,1005 1789,1005 1791,1005 1881,999 1980,993 2168,999 2170,954 2166,911 1772,900 1770,900 1690,909 1534,902 1532,902 1530,902 1499,911 1495,911 1462,911 1163,902 1162,902 1160,902 1126,911 1124,913 343,913 345,960"/>
+        <Baseline points="345,960 2170,954"/>
+        <TextEquiv>
+          <Unicode>Tá ið bóndin í Akrabirgi var deyður, settu synir hansara búgv í Sumbæ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_20bf6972" custom="structure {type:default;}">
+        <Coords points="288,1062 346,1062 374,1059 394,1056 429,1057 449,1058 486,1058 518,1060 585,1059 773,1058 775,1034 775,990 286,990 286,1034"/>
+        <Baseline points="288,1036 775,1036"/>
+        <TextEquiv>
+          <Unicode>og vóru kristnaðir.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_bed0604d"  custom="structure {type:text;}">
+      <Coords points="2115,3054 2197,3070 2181,3146 2097,3138 2115,3054"/>
+      <TextLine id="eSc_line_6bffc0f0" >
+        <Coords points="2172,3065 2158,3062 2114,3062 2114,3118 2120,3159 2137,3144 2175,3159 2181,3118 2181,3065 2172,3065"/>
+        <Baseline points="2116,3121 2182,3121"/>
+        <TextEquiv>
+          <Unicode>89</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

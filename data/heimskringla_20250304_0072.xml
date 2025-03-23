@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-03-07T13:34:32.741738+00:00</Created>
+        <LastChange>2025-03-11T14:57:46.229729+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="heimskringla_20250304_0072.png" imageWidth="2480" imageHeight="3507">
+    <TextRegion id="eSc_textblock_320866be"  custom="structure {type:text;}">
+      <Coords points="360,288 2150,303 2166,535 2017,644 2142,685 2119,785 2041,870 2134,904 2134,956 2189,989 2181,1042 2088,1120 1317,1128 1167,1190 296,1182 288,381 360,288"/>
+      <TextLine id="eSc_line_cdac539d" custom="structure {type:default;}">
+        <Coords points="2132,301 2131,301 1587,307 1434,309 1195,309 1185,303 1173,298 1171,298 1169,298 1066,301 974,305 965,300 959,296 957,296 955,296 953,296 877,300 764,305 725,298 705,294 703,294 664,298 588,303 464,294 446,294 444,294 442,294 440,294 425,303 356,294 348,301 348,339 347,357 2152,375 2156,348 2156,311 2136,301 2134,301"/>
+        <Baseline points="348,339 2156,348"/>
+        <TextEquiv>
+          <Unicode>Nú ið leið út á kvøldið, sá hon trøllini tyrpast inn um dyrnar sum seyður í rætt,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fac0532b" custom="structure {type:default;}">
+        <Coords points="302,424 321,436 323,436 325,436 748,435 787,438 789,438 791,438 1132,430 1208,440 1210,440 2112,441 2115,420 2113,387 304,379 304,413"/>
+        <Baseline points="304,413 2115,420"/>
+        <TextEquiv>
+          <Unicode>og so mong at ikki fekst tal á. Tey fóru tá straks at halda gleim og dynja sum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4c78fd17" custom="structure {type:default;}">
+        <Coords points="301,510 2155,520 2160,494 2158,461 304,446 304,487"/>
+        <Baseline points="304,487 2160,494"/>
+        <TextEquiv>
+          <Unicode>harðast. Men sum tey vóru í kátasta lagi, fór hon at rópa, har hon hevði fjalt seg</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a22f2f8f" custom="structure {type:default;}">
+        <Coords points="304,559 302,576 313,584 315,584 317,584 319,584 428,576 479,586 481,586 649,576 651,563 649,531 304,527 304,559"/>
+        <Baseline points="304,559 651,563"/>
+        <TextEquiv>
+          <Unicode>undir borðinum:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6bf34532" custom="structure {type:default;}">
+        <Coords points="362,648 481,660 483,660 485,660 520,648 584,659 586,660 588,660 629,646 731,658 733,658 735,658 736,658 758,644 758,635 752,592 621,603 600,594 598,594 596,594 592,594 471,605 360,598 362,641"/>
+        <Baseline points="362,641 758,635"/>
+        <TextEquiv>
+          <Unicode>&quot;Jesus náði meg!&quot;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ea36fc84" custom="structure {type:default;}">
+        <Coords points="2107,672 1926,668 1924,668 1889,672 1842,678 1793,672 1758,668 1756,668 1727,672 1680,678 1668,672 1661,668 1659,668 1657,668 1629,672 1583,678 1548,672 1530,668 1528,668 1526,668 1524,668 1520,670 1509,679 1399,679 1321,670 1292,668 1290,668 1288,668 1280,670 1257,679 1072,679 1031,670 1021,668 1019,668 996,670 892,678 799,668 785,668 783,668 781,668 777,668 742,678 701,668 697,668 354,668 354,715 354,736 2117,746 2119,715 2119,678 2109,674"/>
+        <Baseline points="354,715 2119,715"/>
+        <TextEquiv>
+          <Unicode>Tá ið trøllini hoyrdu tað signaða jesusarnavnið, sum tey øll ræðast og hata, tá</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9cc6e20b" custom="structure {type:default;}">
+        <Coords points="301,807 863,810 865,810 1372,800 1374,787 1374,755 300,752 300,783"/>
+        <Baseline points="300,783 1374,787"/>
+        <TextEquiv>
+          <Unicode>fóru tey øll at nýsta og søgdu við hvørt annað:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c0d9e9ed" custom="structure {type:default;}">
+        <Coords points="358,881 947,882 949,882 951,882 953,882 980,880 980,859 982,822 356,820 358,861"/>
+        <Baseline points="358,861 965,857"/>
+        <TextEquiv>
+          <Unicode>&quot;Giðja loypti splitt í dansin.&quot;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_47641173" custom="structure {type:default;}">
+        <Coords points="345,944 397,956 399,956 906,948 930,958 931,958 933,958 2098,961 2099,939 2097,905 347,894 347,933"/>
+        <Baseline points="347,933 2099,939"/>
+        <TextEquiv>
+          <Unicode>Harvið hvurvu tey øll út av húsinum, og hava síðani ikki torað at gera hesari</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e19bb98a" custom="structure {type:default;}">
+        <Coords points="2170,978 300,974 300,1007 299,1030 2174,1036 2177,1013 2175,981 2171,980"/>
+        <Baseline points="300,1007 2177,1013"/>
+        <TextEquiv>
+          <Unicode>bygd ófrið. Tá ið nú fólkini eftir hátíðina komu heim aftur frá Mikladali, væntaðu tey</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_121dd129" custom="structure {type:default;}">
+        <Coords points="298,1098 335,1112 337,1112 339,1112 341,1112 374,1102 489,1102 504,1112 506,1112 508,1112 510,1114 2093,1114 2095,1089 2093,1055 300,1048 300,1081"/>
+        <Baseline points="300,1081 2095,1089"/>
+        <TextEquiv>
+          <Unicode>at finna gomlu Giðju deyða; men hon var tó á fótum og kundi siga teimum frá,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f1eb2168" custom="structure {type:default;}">
+        <Coords points="302,1155 300,1176 331,1188 333,1188 335,1190 438,1190 438,1188 440,1188 442,1188 442,1186 452,1178 647,1188 649,1188 651,1188 668,1178 682,1188 684,1188 686,1188 688,1188 978,1180 1107,1190 1109,1190 1199,1178 1201,1159 1199,1126 1050,1114 1048,1114 992,1122 982,1124 978,1122 968,1114 967,1114 965,1114 963,1114 961,1114 935,1122 926,1124 302,1116 302,1155"/>
+        <Baseline points="302,1155 1201,1159"/>
+        <TextEquiv>
+          <Unicode>hvussu hevði gingist henni við trøllunum.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_85024cbe"  custom="structure {type:text;}">
+      <Coords points="2146,3047 2197,3078 2173,3130 2105,3107 2146,3047"/>
+      <TextLine id="eSc_line_be164af2" custom="structure {type:default;}">
+        <Coords points="2173,3064 2129,3066 2119,3084 2119,3101 2119,3127 2183,3127 2192,3101 2189,3087 2187,3069"/>
+        <Baseline points="2119,3101 2183,3101"/>
+        <TextEquiv>
+          <Unicode>68</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

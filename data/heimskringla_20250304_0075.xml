@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-03-07T13:34:35.259530+00:00</Created>
+        <LastChange>2025-03-11T15:21:32.643287+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="heimskringla_20250304_0075.png" imageWidth="2480" imageHeight="3507">
+    <TextRegion id="eSc_textblock_6770a6d5"  custom="structure {type:text;}">
+      <Coords points="777,296 785,356 723,420 645,629 1035,662 1035,730 926,792 584,849 2166,872 2166,1237 2119,1309 2095,1447 2189,1488 2205,1548 2142,1751 2064,1792 2088,1954 2150,1971 2150,2047 1356,2063 1216,2078 1144,2125 288,2125 265,1130 296,818 265,358 272,296 306,280"/>
+      <TextLine id="eSc_line_197f1151" custom="structure {type:default;}">
+        <Coords points="760,298 286,300 288,337 288,352 774,348 775,333 770,303 760,298"/>
+        <Baseline points="288,337 775,333"/>
+        <TextEquiv>
+          <Unicode>V. U. Hammershaimb</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d292e4e8" custom="structure {type:default;}">
+        <Coords points="284,424 690,430 692,407 688,370 302,364 300,364 298,364 296,364 282,370 284,411"/>
+        <Baseline points="284,411 692,407"/>
+        <TextEquiv>
+          <Unicode>Færøsk Anthologi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c4fa4752" custom="structure {type:default;}">
+        <Coords points="286,483 286,496 660,494 662,479 660,450 616,436 614,436 612,436 456,450 430,438 428,438 426,438 425,438 374,450 308,438 306,438 304,438 302,438 284,448 286,483"/>
+        <Baseline points="286,483 662,479"/>
+        <TextEquiv>
+          <Unicode>København 1891</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_86313e48" custom="structure {type:default;}">
+        <Coords points="1009,658 990,658 978,656 953,662 951,662 939,662 736,652 735,652 733,652 717,658 707,662 697,658 680,652 678,652 676,652 641,658 608,662 592,656 581,652 579,652 577,652 575,652 565,656 547,662 530,656 520,652 518,652 516,652 491,654 430,662 407,654 403,652 401,652 399,652 389,652 343,662 288,652 288,699 288,718 1025,726 1027,699 1027,662 1019,658 1009,658"/>
+        <Baseline points="288,699 1027,699"/>
+        <TextEquiv>
+          <Unicode>Vættrar og vísa Marjun í Øravík</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7f86f60e" custom="structure {type:default;}">
+        <Coords points="2080,870 2060,870 2045,870 2023,876 1976,868 1963,868 1943,868 1939,868 1920,876 1830,867 1826,867 1807,867 1787,867 1780,867 1624,876 1618,876 1614,876 1542,865 1540,865 1538,865 1509,876 1503,880 1257,880 1243,876 1189,867 1187,867 1140,876 1126,878 1111,876 1050,867 1048,867 1046,867 1017,876 1015,876 1013,876 986,867 984,867 982,867 853,876 814,878 789,876 727,868 725,868 723,868 721,868 711,876 703,880 678,876 649,870 647,870 620,876 596,880 565,876 530,870 528,870 493,876 462,880 446,876 425,868 423,868 421,868 286,874 286,894 288,915 288,927 348,939 350,939 442,929 446,929 452,929 672,939 674,939 676,939 707,929 711,929 744,929 967,937 968,937 1058,931 1107,927 1115,931 1123,937 1124,937 1126,937 1128,937 1187,931 1226,927 1481,931 1668,935 1670,935 1672,935 1678,933 1694,925 1739,933 1756,935 1758,935 1799,933 1908,925 1934,933 1939,935 1941,935 1943,935 2170,933 2170,909 2166,878 2111,870 2099,870"/>
+        <Baseline points="288,915 2170,909"/>
+        <TextEquiv>
+          <Unicode>Vættrar eru smáir, fríðir til útsjóndar, góðir andar, sum búgva í húsunum hjá góðum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b27a6fe5" custom="structure {type:default;}">
+        <Coords points="287,1014 2127,1010 2129,983 2123,948 284,948 286,989"/>
+        <Baseline points="286,989 2129,983"/>
+        <TextEquiv>
+          <Unicode>fólki, og undir teirra lívd njóta tey sælu og fáa styrk av teimum, so at alt gongur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_79b11728" custom="structure {type:default;}">
+        <Coords points="286,1083 2108,1083 2109,1059 2105,1020 350,1020 348,1020 284,1030 286,1063"/>
+        <Baseline points="286,1063 2109,1059"/>
+        <TextEquiv>
+          <Unicode>væl í lag í tí húsi, har vættrar eru. Sælur er vættravinur, tí at hann kann hvørki</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ad4b56c1" custom="structure {type:default;}">
+        <Coords points="287,1159 1849,1161 1848,1137 1848,1104 288,1104 288,1137"/>
+        <Baseline points="288,1137 1848,1137"/>
+        <TextEquiv>
+          <Unicode>trøll ella huldufólk ella nakar livandi undir jørðini ella á jørðini granda.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_68bccda9" custom="structure {type:default;}">
+        <Coords points="333,1233 2150,1233 2154,1207 2150,1176 1245,1167 1243,1167 1162,1176 1154,1178 333,1178 335,1211"/>
+        <Baseline points="335,1211 2154,1207"/>
+        <TextEquiv>
+          <Unicode>Marjun í Øravík var komin norðan úr Kollafirði til Suðuroyar, og er søgd at hava</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e016bbea" custom="structure {type:default;}">
+        <Coords points="286,1311 2065,1305 2066,1280 2060,1248 284,1252 286,1285"/>
+        <Baseline points="286,1285 2066,1280"/>
+        <TextEquiv>
+          <Unicode>verið ein av ramastu konum í gandi, sum í minni eru har havdar. Hon var hin</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_379b9af0" custom="structure {type:default;}">
+        <Coords points="288,1383 2083,1380 2084,1356 2080,1324 1201,1315 1199,1315 1197,1315 1175,1324 323,1317 321,1317 319,1317 286,1326 288,1359"/>
+        <Baseline points="288,1359 2084,1356"/>
+        <TextEquiv>
+          <Unicode>vitugasta og dúgnaligasta kona í allar mátar. Hon var fyrndarrík og átti nøgd av</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_29789bbc" custom="structure {type:default;}">
+        <Coords points="287,1454 1045,1457 1046,1457 1123,1447 1138,1457 1140,1457 1142,1457 1144,1457 1146,1457 1175,1445 1179,1445 1238,1445 1583,1455 1585,1455 1635,1445 1637,1445 1639,1445 1672,1455 1674,1455 1676,1455 2015,1452 2015,1430 2012,1396 376,1393 374,1393 284,1402 286,1433"/>
+        <Baseline points="286,1433 2015,1430"/>
+        <TextEquiv>
+          <Unicode>neyti og seyði og øllum góðgætum - ei undur í! - vættrarnir búðu hjá henni.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7704b84a" custom="structure {type:default;}">
+        <Coords points="317,1498 315,1498 313,1498 284,1508 286,1545 285,1567 2192,1562 2191,1537 2187,1504 2183,1498"/>
+        <Baseline points="286,1545 2191,1537"/>
+        <TextEquiv>
+          <Unicode>(Í uppskriftini hjá Hammershaimb kemur her ein søga um ta ferðina tá Marjun beindi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f03c8231" custom="structure {type:default;}">
+        <Coords points="290,1615 290,1634 2170,1624 2170,1609 2166,1570 1577,1570 1575,1570 1548,1574 1512,1580 1263,1576 931,1572 930,1572 928,1572 912,1580 906,1582 787,1580 366,1574 364,1574 288,1583 290,1615"/>
+        <Baseline points="290,1615 2170,1609"/>
+        <TextEquiv>
+          <Unicode>turkiskar ránsmenn av aftur bygdini. Hetta brotið lata vit fella burtur her, og tann ið</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6673b6c1" custom="structure {type:default;}">
+        <Coords points="288,1691 288,1716 450,1706 1099,1714 1101,1714 1165,1704 1407,1714 1415,1714 1417,1714 1421,1714 1532,1702 2134,1712 2138,1685 2134,1654 904,1646 902,1646 816,1656 329,1648 327,1648 325,1648 286,1658 288,1691"/>
+        <Baseline points="288,1691 2138,1685"/>
+        <TextEquiv>
+          <Unicode>vil lesa tað, finnur tað í bókini Færøsk Anthologi av V. U. Hammershaimb, á síðu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9060f805" custom="structure {type:default;}">
+        <Coords points="289,1768 289,1782 406,1785 409,1765 400,1715 286,1721 289,1768"/>
+        <Baseline points="290,1769 412,1767"/>
+        <TextEquiv>
+          <Unicode>328).</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e9447bed" custom="structure {type:default;}">
+        <Coords points="286,1894 2052,1893 2053,1868 2049,1837 1988,1825 1986,1825 1984,1825 1982,1825 1969,1835 1967,1837 1756,1837 1754,1835 1739,1823 1737,1823 1735,1823 1733,1823 1731,1823 1694,1835 1688,1835 1674,1833 1579,1823 1577,1823 1575,1823 1573,1823 1557,1833 1553,1835 1415,1833 1154,1827 1152,1827 1124,1831 1082,1837 1025,1831 980,1825 978,1825 953,1829 926,1835 883,1829 848,1825 846,1825 844,1825 830,1829 805,1837 770,1829 758,1827 756,1827 711,1829 569,1835 493,1827 465,1825 464,1825 450,1827 397,1837 384,1827 382,1825 380,1825 378,1825 376,1825 284,1825 286,1872"/>
+        <Baseline points="286,1872 2053,1868"/>
+        <TextEquiv>
+          <Unicode>Marjun í Øravík hevði góða eydnu við sær í øllum, hon fekst við, og alt gekk</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a06eb57b" custom="structure {type:default;}">
+        <Coords points="285,1972 1590,1967 1592,1967 1594,1967 1618,1958 1644,1966 2027,1966 2029,1940 2023,1909 284,1909 286,1948"/>
+        <Baseline points="286,1948 2029,1940"/>
+        <TextEquiv>
+          <Unicode>henni væl í lag; og tað komst av tí, at teir góðu vættrarnir búðu hjá henni í</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4a35720a" custom="structure {type:default;}">
+        <Coords points="286,2045 600,2055 602,2055 793,2045 820,2045 2146,2045 2146,2016 2138,1977 752,1977 750,1977 748,1977 723,1987 721,1987 690,1987 321,1979 319,1979 317,1979 284,1989 286,2024"/>
+        <Baseline points="286,2024 2146,2016"/>
+        <TextEquiv>
+          <Unicode>stórafjósi. Men hon gloymdi heldur ikki at seta eina dyllu við mjólk til teirra, hvørja</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a39ab78d" custom="structure {type:default;}">
+        <Coords points="288,2096 288,2125 524,2117 569,2123 604,2127 606,2127 637,2121 668,2117 703,2121 754,2127 756,2127 807,2119 828,2117 832,2119 840,2127 842,2127 844,2127 846,2129 1021,2129 1021,2127 1146,2115 1146,2096 1146,2063 1105,2053 1103,2053 1101,2053 499,2063 485,2053 483,2053 481,2053 479,2053 386,2063 310,2053 308,2053 306,2053 288,2061 288,2096"/>
+        <Baseline points="288,2096 1146,2096"/>
+        <TextEquiv>
+          <Unicode>ferð neytakonur høvdu mjólkað kúnum.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_a9e76763"  custom="structure {type:text;}">
+      <Coords points="2189,3093 2205,3130 2181,3162 2127,3161 2122,3097"/>
+      <TextLine id="eSc_line_cd073558" >
+        <Coords points="2131,3103 2131,3138 2132,3156 2185,3156 2186,3138 2184,3102 2160,3103"/>
+        <Baseline points="2133,3141 2176,3141"/>
+        <TextEquiv>
+          <Unicode>71</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
