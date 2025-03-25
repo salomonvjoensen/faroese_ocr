@@ -1,0 +1,74 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-03-07T13:34:59.786030+00:00</Created>
+        <LastChange>2025-03-13T15:40:56.283661+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="heimskringla_20250304_0106.png" imageWidth="2480" imageHeight="3507">
+    <TextRegion id="eSc_textblock_f5f6f991" custom="structure {type:text;}">
+      <Coords points="282,296 824,311 824,387 738,459 707,582 497,701 621,779 621,855 497,980 296,980 280,948 257,374 282,296"/>
+      <TextLine id="eSc_line_6d68bbd1" custom="structure {type:default;}">
+        <Coords points="772,309 758,315 668,305 666,305 664,305 662,305 649,315 647,317 487,317 485,313 475,305 473,305 471,305 469,305 280,311 280,358 280,374 333,387 335,387 389,376 456,387 458,387 816,376 816,358 816,315 799,309 787,309"/>
+        <Baseline points="280,358 816,358"/>
+        <TextEquiv>
+          <Unicode>V. U. Hammershaimb</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>V. U. Hammershaimb</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_0148a7d9" custom="structure {type:default;}">
+        <Coords points="278,471 715,484 719,454 717,407 276,407 278,459"/>
+        <Baseline points="278,459 713,455"/>
+        <TextEquiv>
+          <Unicode>Færøsk Anthologi</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>Færøsk Anthologi</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_9a5cc26b" custom="structure {type:default;}">
+        <Coords points="280,553 280,570 696,570 696,549 690,498 483,514 469,508 456,502 454,502 452,502 397,512 382,514 380,512 368,502 368,500 366,500 364,500 294,500 292,500 290,500 288,500 288,502 278,510 280,553"/>
+        <Baseline points="280,553 696,549"/>
+        <TextEquiv>
+          <Unicode>København 1891</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>København 1891</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_15c8cf72" custom="structure {type:default;}">
+        <Coords points="590,759 588,757 555,767 465,761 399,757 397,757 278,767 278,818 278,837 594,839 596,818 592,759 590,759"/>
+        <Baseline points="278,818 596,818"/>
+        <TextEquiv>
+          <Unicode>Skrúðhettan</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>Skrúðhettan</Unicode></TextEquiv></TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_6e857af8" custom="structure {type:text;}">
+      <Coords points="300,989 1052,1028 2025,1028 2049,1190 2010,1213 1271,1229 1167,1307 288,1307 265,1283 257,1106 300,989"/>
+      <TextLine id="eSc_line_819813ec" custom="structure {type:default;}">
+        <Coords points="282,1034 282,1077 283,1108 2027,1110 2025,1077 2023,1048 2017,1030"/>
+        <Baseline points="282,1077 2025,1077"/>
+        <TextEquiv>
+          <Unicode>Skrúðhettan er ein stórur steinur, sum stendur í sjóvarmálanum við Fossá</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>Skrúðhettan er ein stórur steinur, sum stendur í sjóvarmálanum við Fossá</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_8e1423c4" custom="structure {type:default;}">
+        <Coords points="1912,1126 1910,1126 1288,1137 1144,1126 1142,1126 1021,1137 990,1126 988,1126 818,1126 816,1126 814,1126 785,1139 657,1139 586,1126 391,1126 389,1126 280,1137 280,1176 280,1202 1485,1211 1487,1211 1489,1211 1499,1209 1528,1202 1674,1209 1707,1211 1709,1211 1750,1211 1982,1202 2037,1211 2039,1176 2039,1147 2037,1137"/>
+        <Baseline points="280,1176 2039,1176"/>
+        <TextEquiv>
+          <Unicode>norðanfyri Hvannasund í Viðoynni. Søgnin gongur, at í sama bili Krist var</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>norðanfyri Hvannasund í Viðoynni. Søgnin gongur, at í sama bili Krist var</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_d6f8fe58" custom="structure {type:default;}">
+        <Coords points="282,1270 280,1291 456,1307 458,1307 460,1307 483,1297 495,1307 497,1307 499,1307 501,1309 621,1309 621,1307 623,1307 625,1307 639,1297 643,1295 666,1297 772,1309 774,1309 775,1309 805,1299 813,1297 900,1297 908,1301 922,1309 924,1309 926,1309 928,1309 970,1301 998,1297 1179,1303 1183,1274 1183,1237 1132,1223 1130,1223 1128,1223 1126,1223 1105,1235 1043,1235 1039,1235 1025,1225 1023,1225 1021,1225 1019,1225 949,1235 947,1235 943,1235 871,1223 869,1223 797,1235 793,1235 789,1235 733,1221 731,1221 540,1233 501,1221 499,1221 497,1221 409,1233 407,1233 391,1221 389,1221 387,1221 386,1221 384,1221 382,1221 368,1231 302,1221 300,1221 298,1221 296,1221 282,1229 282,1270"/>
+        <Baseline points="282,1270 1183,1274"/>
+        <TextEquiv>
+          <Unicode>føddur, klovnaði hesin stóri steinurin.</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>føddur, klovnaði hesin stóri steinurin.</Unicode></TextEquiv></TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_b5acad70" custom="structure {type:text;}">
+      <Coords points="2093,3054 2181,3070 2166,3146 2066,3130 2066,3070 2093,3054"/>
+      <TextLine id="eSc_line_a3af11d4" custom="structure {type:default;}">
+        <Coords points="2140,3062 2082,3062 2082,3115 2082,3156 2170,3156 2170,3115 2164,3089 2140,3062"/>
+        <Baseline points="2083,3116 2084,3116 2172,3116"/>
+        <TextEquiv>
+          <Unicode>102</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>102</Unicode></TextEquiv></TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

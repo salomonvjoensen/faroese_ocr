@@ -1,0 +1,232 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-03-07T13:34:56.161310+00:00</Created>
+        <LastChange>2025-03-13T15:13:52.131812+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="heimskringla_20250304_0101.png" imageWidth="2480" imageHeight="3507">
+    <TextRegion id="eSc_textblock_4da976c6" custom="structure {type:text;}">
+      <Coords points="337,288 1729,296 1809,374 2095,389 2119,442 2189,483 2205,800 2049,948 1284,981 1341,1005 2033,1013 2181,1059 2158,1231 2181,1946 2025,1985 686,1985 582,2018 709,2049 2181,2088 2181,2164 2127,2189 2080,2322 2111,2413 2189,2454 2197,2509 2181,2842 2205,2975 2158,3060 2072,3021 1949,3021 1846,3060 296,3060 280,366 288,303 337,288"/>
+      <TextLine id="eSc_line_08b2bef6" custom="structure {type:default;}">
+        <Coords points="298,339 298,358 1735,358 1735,339 1735,303 306,296 298,300"/>
+        <Baseline points="298,339 1735,339"/>
+        <TextEquiv>
+          <Unicode>Man igjentager den Fortælning, som L. Debes sigter til, at der</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>Man igjentager den Fortælning, som L. Debes sigter til, at der</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_70db8666" custom="structure {type:default;}">
+        <Coords points="298,448 2086,451 2090,430 2088,395 298,395 298,430"/>
+        <Baseline points="298,430 2090,430"/>
+        <TextEquiv>
+          <Unicode>fra Kalsøen og Viderøen skal have været for mindre end 20 Aar siden seet en</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>fra Kalsøen og liderøen skal have været for mindre end í Aar siden seet en</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_db660527" custom="structure {type:default;}">
+        <Coords points="296,541 2178,542 2179,518 2175,477 311,475 310,475 308,475 306,475 294,481 296,522"/>
+        <Baseline points="296,522 2179,518"/>
+        <TextEquiv>
+          <Unicode>Flyd-Øe, den største Deel af Dagen. Denne berettes at have havt 2 Fjelde, et paa</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>Filyd-Øe, den største Deel af Dagen. Denne berettes at have havt 2 Fjelde, et paa</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_8a9d9e20" custom="structure {type:default;}">
+        <Coords points="298,631 2142,633 2144,609 2140,572 296,572 298,613"/>
+        <Baseline points="298,613 2144,609"/>
+        <TextEquiv>
+          <Unicode>Syd- og et paa Nord-Enden, hvoraf det sydligere var mørkere, og troedes derfor</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>Syd- og et paa Nord-Enden, hvoraf det sydligere var mørkere, og troedes derfor</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_22c3ab3d" custom="structure {type:default;}">
+        <Coords points="299,723 2162,726 2164,703 2164,668 298,668 298,703"/>
+        <Baseline points="298,703 2164,703"/>
+        <TextEquiv>
+          <Unicode>at være begroet med Lyng. At den for Resten skulde være græs groet til Toppen,</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>at være begroet med Lyng. At den for Resten skulde være græs groet til Toppen,</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_5a73e171" custom="structure {type:default;}">
+        <Coords points="298,816 2193,817 2193,794 2193,757 1477,746 1475,746 1473,746 1472,746 1456,757 1292,757 1259,746 1257,746 1255,746 1253,746 1224,757 1033,757 1006,746 1004,746 1002,746 926,755 871,746 869,746 822,757 575,757 528,746 526,746 407,755 372,746 370,746 368,746 298,755 298,794"/>
+        <Baseline points="298,794 2193,794"/>
+        <TextEquiv>
+          <Unicode>og have store rindende Aaer; det har alle færøeske Flyd-Øer til fælles med denne.</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>og have store rindende Aaer; det har alle færøeske Flyd-Øer til fælles med denne.</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_37769ce3" custom="structure {type:default;}">
+        <Coords points="298,906 2084,906 2082,884 2082,849 298,839 298,884"/>
+        <Baseline points="298,884 2082,884"/>
+        <TextEquiv>
+          <Unicode>Ligeledes beretter man endnu, skjønt længere hen i Tiden, at have seet slige</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>Ligeledes berelter man endnu, skjønt længere hen i Tiden, at have seet slige</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_b06c97b0" custom="structure {type:default;}">
+        <Coords points="297,995 1159,996 1160,974 1160,937 298,937 298,974"/>
+        <Baseline points="298,974 1160,974"/>
+        <TextEquiv>
+          <Unicode>Flyd-Øer fra Mygenes og Suder øen.</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>Flyd-Øer fra lgenes og Suder øer.</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_d782bec6" custom="structure {type:default;}">
+        <Coords points="298,1120 2173,1120 2168,1094 2164,1055 296,1050 298,1098"/>
+        <Baseline points="298,1098 2168,1094"/>
+        <TextEquiv>
+          <Unicode>Men hvad ere vel disse Flyd-Øer, og hvad kunde de vel være uden en blot Fabel?</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>Men hvad ere vel disse Flyd- Øer, og hvad kunde de vel være uden en blot Fabel?</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_d3a9bcf1" custom="structure {type:default;}">
+        <Coords points="296,1213 2112,1212 2111,1188 2107,1149 296,1151 296,1188"/>
+        <Baseline points="296,1188 2111,1188"/>
+        <TextEquiv>
+          <Unicode>At Klipper, hvoraf de for den største Deel vel maatte bestaae, kunde flyde paa</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>At Klipper, hvoraf de for den største Deel vel maatte bestaae, kunde flyde paa</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_aa69fd55" custom="structure {type:default;}">
+        <Coords points="297,1302 2129,1300 2131,1274 2127,1241 296,1237 298,1278"/>
+        <Baseline points="298,1278 2131,1274"/>
+        <TextEquiv>
+          <Unicode>Vandet, synes efter hydrostatiske Regler fornuftstridigt. Fabelen om slige Flyd-</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>Vandet, synes efter hydrostatiske Regler fornuftstridigt. Fabelen om slige Flyd-</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_c59aff05" custom="structure {type:default;}">
+        <Coords points="294,1387 2136,1391 2140,1371 2138,1334 1709,1322 1707,1322 1651,1328 1622,1332 1596,1328 1557,1322 1555,1322 1501,1328 1454,1332 1429,1326 1403,1322 1401,1322 1399,1322 1397,1322 1392,1326 1382,1334 1286,1334 1247,1326 1216,1320 1214,1320 1183,1324 1148,1332 805,1332 783,1322 779,1320 777,1320 775,1320 774,1320 768,1322 735,1330 719,1320 717,1320 715,1320 713,1320 703,1320 649,1330 596,1320 592,1320 590,1320 588,1320 545,1330 485,1320 483,1320 364,1330 296,1319 296,1367"/>
+        <Baseline points="296,1367 2140,1371"/>
+        <TextEquiv>
+          <Unicode>Øer er ikke des mindre meget gammel; thi man finder i den ældste Fabel-Lære,</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>Øer er ikke des mindre meget gammel; thi man finder i den ældste Fabel -Lære,</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_d9775a84" custom="structure {type:default;}">
+        <Coords points="298,1476 2151,1484 2152,1461 2150,1424 298,1414 298,1457"/>
+        <Baseline points="298,1457 2152,1461"/>
+        <TextEquiv>
+          <Unicode>at Øen Delus, hvorpaa Latona fødte Apollo og Diana, flød op af Havet. Jeg maae</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>at Øen elus, hvorpaa atona fødte oollo og Diana, flød op af Havet. Jeg maae</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_6440b983" custom="structure {type:default;}">
+        <Coords points="296,1571 2069,1570 2070,1546 2064,1509 294,1513 296,1550"/>
+        <Baseline points="296,1550 2070,1546"/>
+        <TextEquiv>
+          <Unicode>anmærke, at man fra disse Flyd-Øer maae undtage ej allene de Øer, der ved</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>anmærke, at man fra disse Flyd-Øer maae undtage ej allene de er, der ved</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_881b7225" custom="structure {type:default;}">
+        <Coords points="298,1665 2123,1664 2123,1642 2123,1605 296,1605 296,1642"/>
+        <Baseline points="296,1642 2123,1642"/>
+        <TextEquiv>
+          <Unicode>Jordskjelv kunne opkomme af Havet, men endog dem, der efter Vinden vandre</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>Jordskjelv kunne opkomme af Havet, men endog dem, der efter Vinden vandre</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_c19f0148" custom="structure {type:default;}">
+        <Coords points="298,1751 2151,1756 2152,1734 2150,1695 298,1683 298,1728"/>
+        <Baseline points="298,1728 2152,1734"/>
+        <TextEquiv>
+          <Unicode>omkring paa Overfladen af visse Indsøer (Biisching og Speculum regale) og ikke</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>omkring paa Overfladen af visse lndsøer (Bisohing og Soeculum regale) og ikke</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_bbe02c18" custom="structure {type:default;}">
+        <Coords points="295,1844 2095,1843 2097,1819 2092,1780 1185,1786 1181,1784 1163,1776 1162,1776 885,1776 883,1776 824,1786 820,1786 816,1786 746,1776 744,1776 662,1786 592,1776 590,1776 588,1776 586,1776 569,1788 430,1788 345,1776 343,1776 341,1776 294,1788 296,1821"/>
+        <Baseline points="296,1821 2097,1819"/>
+        <TextEquiv>
+          <Unicode>vel kunne være andet, end Muld og Grønsvær, der efterhaanden ere revne fra</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>vel kunne være andet, end Muld og Grønsvær, der efterhaanden ere revne fra</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_e40783a4" custom="structure {type:default;}">
+        <Coords points="2093,1866 2092,1866 2090,1866 2070,1876 2029,1866 2027,1866 2025,1866 1577,1874 1378,1876 1366,1872 1353,1866 1351,1866 1349,1866 1310,1872 1278,1876 1263,1872 1245,1866 1243,1866 1241,1866 1201,1870 1160,1876 1103,1870 1056,1866 1054,1866 1021,1870 974,1876 945,1870 928,1866 926,1866 924,1866 918,1870 904,1876 807,1868 768,1866 766,1866 711,1868 538,1876 495,1866 489,1866 487,1866 479,1866 419,1876 405,1866 403,1866 401,1866 399,1866 395,1866 345,1876 298,1866 298,1913 298,1938 2179,1938 2179,1913 2179,1884 2177,1876"/>
+        <Baseline points="298,1913 2179,1913"/>
+        <TextEquiv>
+          <Unicode>Søebreddene, og samlede til en Masse, der efter Vandvejningens Regler ikke kan</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>Søebreddene, og samlede til en Masse, der efter Vandvejningens Regler ikke kan</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_c15e5511" custom="structure {type:default;}">
+        <Coords points="298,2002 298,2014 325,2026 327,2026 329,2026 473,2014 473,2002 473,1971 323,1960 321,1960 319,1960 298,1969 298,2002"/>
+        <Baseline points="298,2002 473,2002"/>
+        <TextEquiv>
+          <Unicode>synke.</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>synke.</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_fd9106bd" custom="structure {type:default;}">
+        <Coords points="2129,2086 2109,2086 2090,2084 2054,2090 2053,2092 1705,2092 1700,2088 1672,2078 1670,2078 1668,2078 1534,2088 1493,2092 1351,2092 1341,2086 1319,2078 1317,2078 1316,2078 1171,2086 1121,2088 1101,2086 1052,2078 1050,2078 1048,2078 1027,2086 1011,2090 296,2082 296,2127 296,2150 2170,2152 2171,2127 2171,2090 2156,2086 2148,2086"/>
+        <Baseline points="296,2127 2171,2127"/>
+        <TextEquiv>
+          <Unicode>Efter de Tanker ieg giør mig om disse Flyd-Øer, ere slige phænomena ikke andet,</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>Efter de Tanker ieg giør mig om disse Flyd-Øer, ere slige ohænomena ikke andet,</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_ff973dd3" custom="structure {type:default;}">
+        <Coords points="296,2242 2072,2241 2074,2221 2070,2172 296,2176 296,2217"/>
+        <Baseline points="296,2217 2074,2221"/>
+        <TextEquiv>
+          <Unicode>end enten faste Skyer ved Horizonten, der ofte sees som Øer med Fjelde, og</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>end enten faste Skyer ved Horigcnten, der ofte sees som Øer med Fjelde, og</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_6d6af928" custom="structure {type:default;}">
+        <Coords points="298,2333 1938,2331 1939,2304 1936,2271 368,2262 366,2262 296,2271 298,2306"/>
+        <Baseline points="298,2306 1939,2304"/>
+        <TextEquiv>
+          <Unicode>undertiden paatage sig andre besynderlige Skikkelser, hvoraf man ved</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>undertiden paatage sig andre besynderlige Skikkelser, hvoraf man ved</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_0ba9abd2" custom="structure {type:default;}">
+        <Coords points="296,2427 2071,2429 2070,2400 2070,2363 296,2361 296,2400"/>
+        <Baseline points="296,2400 2070,2400"/>
+        <TextEquiv>
+          <Unicode>Phantasiens Hjelp snart kan skabe hvad man vil, især naar de vise sig for et</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>Phantasiens Hjelp snart kan skabe hvad man vil, især naar de vise sig for et</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_0cbcbbb3" custom="structure {type:default;}">
+        <Coords points="296,2511 2173,2512 2175,2488 2171,2452 1969,2441 1967,2441 1910,2451 1551,2441 1550,2441 1548,2441 1526,2451 1472,2441 1470,2441 1380,2451 1327,2441 1325,2441 1232,2452 1173,2443 1171,2443 1117,2452 1091,2443 1089,2443 1087,2443 1085,2443 1046,2452 972,2443 970,2443 842,2452 738,2443 736,2443 735,2443 701,2452 653,2443 651,2443 590,2452 575,2443 573,2443 571,2443 372,2443 370,2443 294,2454 296,2491"/>
+        <Baseline points="296,2491 2175,2488"/>
+        <TextEquiv>
+          <Unicode>enfoldigt Øje, der i Forvejen har den Troe inde om Flyd-Øer; eller og, at de, under</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>enfoldigt Øje, der i Forvejen har den Troe inde om Flyd-Øer; eller og, at de, under</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_968ce389" custom="structure {type:default;}">
+        <Coords points="298,2602 2165,2605 2164,2579 2162,2536 972,2544 924,2534 922,2534 920,2534 918,2534 900,2544 881,2534 879,2534 877,2534 875,2534 852,2546 658,2546 495,2534 493,2534 491,2534 489,2534 397,2544 298,2534 298,2579"/>
+        <Baseline points="298,2579 2164,2579"/>
+        <TextEquiv>
+          <Unicode>samme 2 Vilkaar, ere en tykkere og mere sammenpakket Taage i en tyndere, der</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>samme 2 Vilkaar, ere en tykkere og mere sammenpakket Taage i en tyndere, der</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_a27668bd" custom="structure {type:default;}">
+        <Coords points="296,2693 2158,2694 2160,2671 2158,2632 296,2632 296,2671"/>
+        <Baseline points="296,2671 2160,2671"/>
+        <TextEquiv>
+          <Unicode>ligeledes kan paatage sig artige Skikkelser. Jeg bestyrkes i denne sidste Mening</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>ligeledes kan paatage sig artige Skikkelser. Jeg bestyrkes i denne sidste Mening</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_d6824d67" custom="structure {type:default;}">
+        <Coords points="298,2784 2158,2784 2160,2760 2156,2725 2012,2714 2010,2714 1945,2723 1920,2714 1918,2714 1916,2714 1655,2723 1633,2714 1631,2714 1629,2714 1627,2714 1602,2725 1300,2725 1230,2714 1228,2714 1163,2725 1160,2725 1128,2725 534,2715 532,2715 428,2725 329,2715 327,2715 325,2715 296,2725 298,2764"/>
+        <Baseline points="298,2764 2160,2760"/>
+        <TextEquiv>
+          <Unicode>ved egen Erfaring, da ieg i Sommeren 1781 rejste fra Norderøerne til Thorshavn,</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>ved egen Erfaring, da ieg i Sommeren 181 rejste fra Norderøerne til Thorshavn,</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_64d02477" custom="structure {type:default;}">
+        <Coords points="296,2876 2156,2876 2154,2852 2154,2817 296,2807 296,2852"/>
+        <Baseline points="296,2852 2154,2852"/>
+        <TextEquiv>
+          <Unicode>thi da jeg med en Baad af 8 Mands Besætning, nærmede mig imod Østnæs paa</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>thi da jeg med en Baad af 8 Mands Besætning, nærmede mig imod stnæs paa</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_c5bf9dc8" custom="structure {type:default;}">
+        <Coords points="294,2970 2179,2964 2179,2940 2173,2903 292,2906 294,2945"/>
+        <Baseline points="294,2945 2179,2940"/>
+        <TextEquiv>
+          <Unicode>Østerøens Syd-Side, raabte strax en af Mandskabet: Skib uden for Nolsøen. Mod</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>Østerøens Syd-Side, raabte strax en af Mandskabet: Skib uden for Nolsøen. Mod</Unicode></TextEquiv></TextLine>
+      <TextLine id="eSc_line_5ab5414c" custom="structure {type:default;}">
+        <Coords points="296,3035 296,3054 372,3064 374,3064 376,3064 393,3056 397,3054 518,3054 524,3056 534,3064 536,3064 538,3064 540,3064 542,3064 569,3056 581,3054 822,3054 848,3058 887,3066 889,3066 935,3060 970,3054 988,3060 1021,3070 1023,3070 1025,3070 1152,3068 1154,3068 1169,3060 1183,3054 1238,3054 1257,3062 1278,3070 1280,3070 1282,3070 1423,3062 1503,3058 1526,3062 1557,3070 1559,3072 1772,3072 1772,3070 1774,3070 1776,3070 1782,3064 1793,3056 1826,3064 1832,3033 1828,3000 1629,3000 1626,2998 1585,2986 1583,2986 1581,2986 1579,2986 1577,2986 1559,2998 1555,2998 1511,2986 1509,2986 1507,2986 1505,2986 1475,2998 1472,2998 1347,2998 1345,2996 1331,2986 1329,2986 1327,2986 1325,2986 1323,2986 1288,2996 1278,3000 1148,3000 1140,2996 1123,2986 1121,2986 1119,2986 1050,2994 1025,2998 1013,2994 994,2988 992,2988 990,2988 988,2988 972,2994 965,2998 951,2994 930,2988 928,2988 926,2988 896,2994 877,2998 842,2994 793,2988 791,2988 789,2988 774,2994 760,2998 746,2994 727,2986 725,2986 592,2986 590,2986 588,2986 571,2992 555,2998 518,2992 477,2986 475,2986 294,2990 296,3035"/>
+        <Baseline points="296,3035 1832,3033"/>
+        <TextEquiv>
+          <Unicode>Havet der, var Luften taaget og disig; men vi saae alle det samme.</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>Havet der, var Luften taaget og disig: men vi saae alle det samme.</Unicode></TextEquiv></TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_7ba06ead" custom="structure {type:text;}">
+      <Coords points="2146,3093 2205,3117 2181,3185 2113,3169 2113,3117 2146,3093"/>
+      <TextLine id="eSc_line_40ad1ea4" custom="structure {type:default;}">
+        <Coords points="2167,3121 2126,3112 2126,3159 2126,3188 2181,3200 2184,3159 2184,3156 2167,3121"/>
+        <Baseline points="2127,3160 2186,3161"/>
+        <TextEquiv>
+          <Unicode>97</Unicode>
+        </TextEquiv>
+      <TextEquiv index="1"><Unicode>9</Unicode></TextEquiv></TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
